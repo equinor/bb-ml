@@ -1,0 +1,1258 @@
+[PROLOG]
+File Format = DEX Paleo Data Exchange Format
+Software = StrataBugs v2.0
+Data prepared by = BioStrat Ltd.
+Location = Cumbria, UK
+Date Locale = C
+Date = 28-May-2014
+
+[Chronostratigraphy Scheme]
+Scheme name = Unassigned Chronostratigraphy
+Scheme ID : 20
+Number of units : 0
+
+
+[Biozones Scheme]
+Scheme name = Unassigned Panel 1
+Scheme ID : 22
+Discipline: Microfaunal
+Number of units : 0
+
+
+[Lithostratigraphy Scheme]
+Scheme name = Unassigned Lithostratigraphy
+Scheme ID : 19
+Number of units : 0
+
+
+[HEADER]
+Well Name = N15/9-F-1
+Well Code = N1509F01
+Operator = Statoil
+Field = Volve
+Country = NOCS
+Type = Borehole
+Units = metres
+Longitude = 0.0
+Latitude = 0.0
+Terminal depth = 5000.00m
+Depth Datum = RTE
+
+[SAMPLE 3270m CU L175]
+Base Depth = 3270.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 18
+Label = L175
+
+[SAMPLE 3270.0m LOG]
+Base Depth = 3270.000m
+Type = LOG
+Created = 27-Nov-2013
+Modified = 27-Nov-2013
+Sample id = 31
+
+[SAMPLE 3276m CU L176]
+Base Depth = 3276.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 9
+Label = L176
+
+[SAMPLE 3282m CU L177]
+Base Depth = 3282.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 11
+Label = L177
+
+[SAMPLE 3288m CU L178]
+Base Depth = 3288.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 12
+Label = L178
+
+[SAMPLE 3294m CU L179]
+Base Depth = 3294.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 13
+Label = L179
+
+[SAMPLE 3300m CU L180]
+Base Depth = 3300.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 14
+Label = L180
+
+[SAMPLE 3306m CU]
+Base Depth = 3306.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 1
+
+[SAMPLE 3312m CU]
+Base Depth = 3312.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 2
+
+[SAMPLE 3318m CU L183]
+Base Depth = 3318.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 15
+Label = L183
+
+[SAMPLE 3320.0m LOG]
+Base Depth = 3320.000m
+Type = LOG
+Created = 27-Nov-2013
+Modified = 27-Nov-2013
+Sample id = 32
+
+[SAMPLE 3324m CU]
+Base Depth = 3324.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 3
+
+[SAMPLE 3330m CU L185]
+Base Depth = 3330.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 16
+Label = L185
+
+[SAMPLE 3336m CU L186]
+Base Depth = 3336.000m
+Type = CU
+Created = 19-Nov-2013
+Modified = 19-Nov-2013
+Sample id = 17
+Label = L186
+
+[SAMPLE 3342m CU L398]
+Base Depth = 3342.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 19
+Label = L398
+
+[SAMPLE 3351m CU L399]
+Base Depth = 3351.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 20
+Label = L399
+
+[SAMPLE 3354m CU]
+Base Depth = 3354.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 4
+
+[SAMPLE 3360m CU L401]
+Base Depth = 3360.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 21
+Label = L401
+
+[SAMPLE 3365.0m LOG]
+Base Depth = 3365.000m
+Type = LOG
+Created = 22-Dec-2013
+Modified = 22-Dec-2013
+Sample id = 66
+
+[SAMPLE 3366m CU L402]
+Base Depth = 3366.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 22
+Label = L402
+
+[SAMPLE 3372m CU L403]
+Base Depth = 3372.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 23
+Label = L403
+
+[SAMPLE 3375m CU L404]
+Base Depth = 3375.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 24
+Label = L404
+
+[SAMPLE 3384m CU L405]
+Base Depth = 3384.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 25
+Label = L405
+
+[SAMPLE 3390m CU L406]
+Base Depth = 3390.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 26
+Label = L406
+
+[SAMPLE 3396m CU L407]
+Base Depth = 3396.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 25-Nov-2013
+Sample id = 27
+Label = L407
+
+[SAMPLE 3402m CU L408]
+Base Depth = 3402.000m
+Type = CU
+Created = 25-Nov-2013
+Modified = 26-Nov-2013
+Sample id = 29
+Label = L408
+
+[SAMPLE 3408m CU L409]
+Base Depth = 3408.000m
+Type = CU
+Created = 26-Nov-2013
+Modified = 26-Nov-2013
+Sample id = 30
+Label = L409
+
+[SAMPLE 3414m CU L410]
+Base Depth = 3414.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 33
+Label = L410
+
+[SAMPLE 3420m CU]
+Base Depth = 3420.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 5
+
+[SAMPLE 3426m CU L411]
+Base Depth = 3426.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 34
+Label = L411
+
+[SAMPLE 3432m CU L412]
+Base Depth = 3432.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 35
+Label = L412
+
+[SAMPLE 3441m CU]
+Base Depth = 3441.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 6
+
+[SAMPLE 3450m CU L413]
+Base Depth = 3450.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 37
+Label = L413
+
+[SAMPLE 3456m CU L414]
+Base Depth = 3456.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 38
+Label = L414
+
+[SAMPLE 3462m CU L415]
+Base Depth = 3462.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 39
+Label = L415
+
+[SAMPLE 3465m CU]
+Base Depth = 3465.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 7
+
+[SAMPLE 3468m CU L416]
+Base Depth = 3468.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 40
+Label = L416
+
+[SAMPLE 3474m CU L417]
+Base Depth = 3474.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 41
+Label = L417
+
+[SAMPLE 3480m CU L418]
+Base Depth = 3480.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 42
+Label = L418
+
+[SAMPLE 3486m CU L419]
+Base Depth = 3486.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 43
+Label = L419
+
+[SAMPLE 3492m CU L420]
+Base Depth = 3492.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 44
+Label = L420
+
+[SAMPLE 3495m CU L421]
+Base Depth = 3495.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 45
+Label = L421
+
+[SAMPLE 3500.0m LOG]
+Base Depth = 3500.000m
+Type = LOG
+Created = 22-Dec-2013
+Modified = 22-Dec-2013
+Sample id = 67
+
+[SAMPLE 3504m CU L494]
+Base Depth = 3504.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 46
+Label = L494
+
+[SAMPLE 3510m CU]
+Base Depth = 3510.000m
+Type = CU
+Created = 22-Aug-2013
+Modified = 22-Aug-2013
+Sample id = 8
+
+[SAMPLE 3516m CU L495]
+Base Depth = 3516.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 47
+Label = L495
+
+[SAMPLE 3522m CU L496]
+Base Depth = 3522.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 48
+Label = L496
+
+[SAMPLE 3528m CU L497]
+Base Depth = 3528.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 49
+Label = L497
+
+[SAMPLE 3534m CU L498]
+Base Depth = 3534.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 50
+Label = L498
+
+[SAMPLE 3540m CU L499]
+Base Depth = 3540.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 52
+Label = L499
+
+[SAMPLE 3546m CU L500]
+Base Depth = 3546.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 53
+Label = L500
+
+[SAMPLE 3552m CU L501]
+Base Depth = 3552.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 54
+Label = L501
+
+[SAMPLE 3558m CU L502]
+Base Depth = 3558.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 55
+Label = L502
+
+[SAMPLE 3564m CU L503]
+Base Depth = 3564.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 56
+Label = L503
+
+[SAMPLE 3573m CU L504]
+Base Depth = 3573.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 57
+Label = L504
+
+[SAMPLE 3576m CU L505]
+Base Depth = 3576.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 58
+Label = L505
+
+[SAMPLE 3582m CU L518]
+Base Depth = 3582.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 59
+Label = L518
+
+[SAMPLE 3588m CU L519]
+Base Depth = 3588.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 60
+Label = L519
+
+[SAMPLE 3594m CU L520]
+Base Depth = 3594.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 61
+Label = L520
+
+[SAMPLE 3600m CU L521]
+Base Depth = 3600.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 62
+Label = L521
+
+[SAMPLE 3606m CU L522]
+Base Depth = 3606.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 63
+Label = L522
+
+[SAMPLE 3612m CU L523]
+Base Depth = 3612.000m
+Type = CU
+Created = 30-Nov-2013
+Modified = 30-Nov-2013
+Sample id = 36
+Label = L523
+
+[SAMPLE 3618m CU L524]
+Base Depth = 3618.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 64
+Label = L524
+
+[SAMPLE 3624m CU L525]
+Base Depth = 3624.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 65
+Label = L525
+
+[SAMPLE 3632m CU L526]
+Base Depth = 3632.000m
+Type = CU
+Created = 01-Dec-2013
+Modified = 01-Dec-2013
+Sample id = 51
+Label = L526
+
+[BIOSTRATIGRAPHIC COMMENT 3270m CU L175]
+Discipline = Palynology
+Sample ID = 18
+Analyst = BIOS
+Comment = P.pelliferum PRES, C.magna? PRES?, D.cerviculum PRES, O.operculata PRES. Very sparse, poorly preserved open marine microflora. Possibly barren in situ. Abundant caving.
+
+[BIOSTRATIGRAPHIC COMMENT 3276m CU L176]
+Discipline = Palynology
+Sample ID = 9
+Analyst = BIOS
+Comment = Gochteodinia sp. 1 Davey, A.davey, G.villosa ABT, S.daveyi PRES, A.cf.falsificum CMN. Abundant & diverse dinocysts. Prasinophyceans ABT, including P.eurypteris RRI CMN (post Count 1).
+
+[BIOSTRATIGRAPHIC COMMENT 3282m CU L177]
+Discipline = Palynology
+Sample ID = 11
+Analyst = BIOS
+Comment = LCO A.daveyi, G.villosa CMN, C.gigas? (rw).
+
+[BIOSTRATIGRAPHIC COMMENT 3288m CU L178]
+Discipline = Palynology
+Sample ID = 12
+Analyst = BIOS
+Comment = LCO S.daveyi, LO P.insolitum, LO Aldorfia sp. A Davey, LFO B.pomum, LCO Kallo.cf. OB1.
+
+[BIOSTRATIGRAPHIC COMMENT 3294m CU L179]
+Discipline = Palynology
+Sample ID = 13
+Analyst = BIOS
+Comment = LCO T.ciliatum, LCO P.echinatum.
+
+[BIOSTRATIGRAPHIC COMMENT 3300m CU L180]
+Discipline = Palynology
+Sample ID = 14
+Analyst = BIOS
+Comment = LO C.gigas FREQ, LAO P.echinatum.
+
+[BIOSTRATIGRAPHIC COMMENT 3306m CU]
+Discipline = Palynology
+Sample ID = 1
+Analyst = BIOS
+Comment = LCO C.gigas, LO E.polyplacophorum,  FAO C.comptum. AOM & prasinophycaeans ABT, including P.eurypteris RRI CMN. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3312m CU]
+Discipline = Palynology
+Sample ID = 2
+Analyst = BIOS
+Comment = LAO P.insolitum, LCO C.hystrix/distinctum, LAO P.echinatum, G.virgula PRES, I distincta PRES. Prasinophycaeans SA, including P.eurypteris RRI CMN & large leiospheres ABT. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3318m CU L183]
+Discipline = Palynology
+Sample ID = 15
+Analyst = BIOS
+Comment = FCO C.gigas, FCO P. insolitum. Sparse dinocysts.FAO prasinophycaean algae, including FO P.eurypteris RRI FREQ.
+
+[BIOSTRATIGRAPHIC COMMENT 3324m CU]
+Discipline = Palynology
+Sample ID = 3
+Analyst = BIOS
+Comment = LAO R.aemula, LO L.scarburghensis FREQ, LFO S.vestitum, LCO R.cladophora, LFO E.galeritum, LFO G.j.longicornis. Reworked Hugin?- C.dictydia, P.paracalathus?, K.cf.nigeriaense. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3330m CU L185]
+Discipline = Palynology
+Sample ID = 16
+Analyst = BIOS
+Comment = LO C.cerastes. Reworked Hugin Fm CMN. Caved Draupne Fm ABT.
+
+[BIOSTRATIGRAPHIC COMMENT 3336m CU L186]
+Discipline = Palynology
+Sample ID = 17
+Analyst = BIOS
+Comment = R.aemula SA, G.j.longicornis FREQ. Microflora dominated by algal debris. Draupne Fm caving FREQ.
+
+[BIOSTRATIGRAPHIC COMMENT 3342m CU L398]
+Discipline = Palynology
+Sample ID = 19
+Analyst = BIOS
+Comment = R.aemula SA, LO S.cf.tabulophorum, LCO Batiacasphaera sp. (granulate), S.areolata PRES. Rich & diverse in situ microflora. Frequent caving.
+
+[BIOSTRATIGRAPHIC COMMENT 3351m CU L399]
+Discipline = Palynology
+Sample ID = 20
+Analyst = BIOS
+Comment = LO Batiacasphaera sp. sensu BioStrat 1994, R.aemula SA. Rich microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3354m CU]
+Discipline = Palynology
+Sample ID = 4
+Analyst = BIOS
+Comment = LFO S.creberbarbatum, R.aemula very ABT, S.vestitum PRES.  Rare Hugin dinocysts (reworked?) - C.dictydia, W.digitata, K.cf.nigeriaense & P.paracalathus?. Sele, Lista and Draupne Fm caving CMN.
+
+[BIOSTRATIGRAPHIC COMMENT 3360m CU L401]
+Discipline = Palynology
+Sample ID = 21
+Analyst = BIOS
+Comment = Sparse microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3366m CU L402]
+Discipline = Palynology
+Sample ID = 22
+Analyst = BIOS
+Comment = S.creberbarbatum CMN, R.aemula ABT, L.mirabile PRES, Systematophora spp. FREQ. Rich & moderately diverse in situ microflora. Rare Callovian dinocysts reworked?
+
+[BIOSTRATIGRAPHIC COMMENT 3372m CU L403]
+Discipline = Palynology
+Sample ID = 23
+Analyst = BIOS
+Comment = Sparse microflora. R.aemula ABT, S.creberbarbatum CMN. Minor Hugin reworking.
+
+[BIOSTRATIGRAPHIC COMMENT 3375m CU L404]
+Discipline = Palynology
+Sample ID = 24
+Analyst = BIOS
+Comment = R.aemula SA, S.creberbarbatum CMN, S.areolata PRES
+
+[BIOSTRATIGRAPHIC COMMENT 3384m CU L405]
+Discipline = Palynology
+Sample ID = 25
+Analyst = BIOS
+Comment = Sparse in situ dinocysts. Abundant caving.
+
+[BIOSTRATIGRAPHIC COMMENT 3390m CU L406]
+Discipline = Palynology
+Sample ID = 26
+Analyst = BIOS
+Comment = Moderately rich in situ microflora; R.aemula SA, S.creberbarbatum CMN, Systematophora spp. PRES. Minor Hugin reworking?. Caved Draupne, List & Sele Fm taxa ABT.
+
+[BIOSTRATIGRAPHIC COMMENT 3396m CU L407]
+Discipline = Palynology
+Sample ID = 27
+Analyst = BIOS
+Comment = FSAO R.aemula. Very sparse, poorly preserved in situ microflora. Relatively abundant caving.
+
+[BIOSTRATIGRAPHIC COMMENT 3402m CU L408]
+Discipline = Palynology
+Sample ID = 29
+Analyst = BIOS
+Comment = FAO R.aemula, S.areolata PRES. Lista-Sele Caving ABT. Draupne caving CMN. FO representative assemblages.
+
+[BIOSTRATIGRAPHIC COMMENT 3408m CU L409]
+Discipline = Palynology
+Sample ID = 30
+Analyst = BIOS
+Comment = Possibly barren in situ. Very sparse Oxfordian taxa. Lista-Sele caving ABT.
+
+[BIOSTRATIGRAPHIC COMMENT 3414m CU L410]
+Discipline = Palynology
+Sample ID = 33
+Analyst = BIOS
+Comment = FCO/FO in situ R.aemula. Very sparse microflora; possibly all caved. Lista-Sele caving ABT. Draupne caving FREQ.
+
+[BIOSTRATIGRAPHIC COMMENT 3420m CU]
+Discipline = Palynology
+Sample ID = 5
+Analyst = BIOS
+Comment = Barren/extremely sparse in situ microflora. Sparse caved taxa-mainly Draupne. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3426m CU L411]
+Discipline = Palynology
+Sample ID = 34
+Analyst = BIOS
+Comment = Caved microflora?
+
+[BIOSTRATIGRAPHIC COMMENT 3432m CU L412]
+Discipline = Palynology
+Sample ID = 35
+Analyst = BIOS
+Comment = Sparse microflora, all caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3441m CU]
+Discipline = Palynology
+Sample ID = 6
+Analyst = BIOS
+Comment = Barren in situ? D."reticulata"?? fragment (very low confidence). Common caving. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3450m CU L413]
+Discipline = Palynology
+Sample ID = 37
+Analyst = BIOS
+Comment = Extremely sparse, entirely caved? microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3462m CU L415]
+Discipline = Palynology
+Sample ID = 39
+Analyst = BIOS
+Comment = Very sparse, entirely caved microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3465m CU]
+Discipline = Palynology
+Sample ID = 7
+Analyst = BIOS
+Comment = Barren in situ. Rare caved taxa. (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3468m CU L416]
+Discipline = Palynology
+Sample ID = 40
+Analyst = BIOS
+Comment = Extremely sparse microflora. Entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3474m CU L417]
+Discipline = Palynology
+Sample ID = 41
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3480m CU L418]
+Discipline = Palynology
+Sample ID = 42
+Analyst = BIOS
+Comment = Extremely sparse microflora. Entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3486m CU L419]
+Discipline = Palynology
+Sample ID = 43
+Analyst = BIOS
+Comment = Extremely sparse, entirely caved microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3492m CU L420]
+Discipline = Palynology
+Sample ID = 44
+Analyst = BIOS
+Comment = Extremely sparse microflora. Entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3495m CU L421]
+Discipline = Palynology
+Sample ID = 45
+Analyst = BIOS
+Comment = Extremely sparse, entirely caved microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3504m CU L494]
+Discipline = Palynology
+Sample ID = 46
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3510m CU]
+Discipline = Palynology
+Sample ID = 8
+Analyst = BIOS
+Comment = Extremely sparse microflora, possibly barren in situ. Rare dinocyst fragments; D."reticulata"? PRES?, C.tenellum/stauromatos? PRES? (Hotshot sample).
+
+[BIOSTRATIGRAPHIC COMMENT 3516m CU L495]
+Discipline = Palynology
+Sample ID = 47
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3522m CU L496]
+Discipline = Palynology
+Sample ID = 48
+Analyst = BIOS
+Comment = K-T caving ABT. Minor Heather caving. Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3528m CU L497]
+Discipline = Palynology
+Sample ID = 49
+Analyst = BIOS
+Comment = Caved microflora? Very sparse. Algal debris rel ABT.
+
+[BIOSTRATIGRAPHIC COMMENT 3534m CU L498]
+Discipline = Palynology
+Sample ID = 50
+Analyst = BIOS
+Comment = Influx R.aemula ABT. Sparse microflora; all caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3540m CU L499]
+Discipline = Palynology
+Sample ID = 52
+Analyst = BIOS
+Comment = Very sparse microflora- entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3546m CU L500]
+Discipline = Palynology
+Sample ID = 53
+Analyst = BIOS
+Comment = R.aemula PRES (caved?). K-T caving ABT. Influx latest Ypresian caving.
+
+[BIOSTRATIGRAPHIC COMMENT 3552m CU L501]
+Discipline = Palynology
+Sample ID = 54
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3558m CU L502]
+Discipline = Palynology
+Sample ID = 55
+Analyst = BIOS
+Comment = Barren in situ?. R.aemula PRES, G.jurassica PRES, S.grossii PRES; all caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3564m CU L503]
+Discipline = Palynology
+Sample ID = 56
+Analyst = BIOS
+Comment = Extremely sparse/barren in situ. Abundant filamentous cells/?arthropod appendage fragments (contamination?).
+
+[BIOSTRATIGRAPHIC COMMENT 3573m CU L504]
+Discipline = Palynology
+Sample ID = 57
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3576m CU L505]
+Discipline = Palynology
+Sample ID = 58
+Analyst = BIOS
+Comment = Very sparse, entirely caved microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3582m CU L518]
+Discipline = Palynology
+Sample ID = 59
+Analyst = BIOS
+Comment = Very sparse, entirely caved.
+
+[BIOSTRATIGRAPHIC COMMENT 3588m CU L519]
+Discipline = Palynology
+Sample ID = 60
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3594m CU L520]
+Discipline = Palynology
+Sample ID = 61
+Analyst = BIOS
+Comment = Caved microflora (mainly Vale Fm).
+
+[BIOSTRATIGRAPHIC COMMENT 3600m CU L521]
+Discipline = Palynology
+Sample ID = 62
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3606m CU L522]
+Discipline = Palynology
+Sample ID = 63
+Analyst = BIOS
+Comment = S.grossii PRES, K.cf.nigeriaense PRES (both caved?). Sparse microflora dominated by caved K-T taxa.
+
+[BIOSTRATIGRAPHIC COMMENT 3612m CU L523]
+Discipline = Palynology
+Sample ID = 36
+Analyst = BIOS
+Comment = Very sparse microflora; entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3618m CU L524]
+Discipline = Palynology
+Sample ID = 64
+Analyst = BIOS
+Comment = Barren in situ.
+
+[BIOSTRATIGRAPHIC COMMENT 3624m CU L525]
+Discipline = Palynology
+Sample ID = 65
+Analyst = BIOS
+Comment = Very sparse microflora; entirely caved?
+
+[BIOSTRATIGRAPHIC COMMENT 3632m CU L526]
+Discipline = Palynology
+Sample ID = 51
+Analyst = BIOS
+Comment = Very sparse microflora; barren in situ? S.grossii PRES (caved?).
+
+[INTERVAL 3270.00m - 3270.00m]
+Type = Chronostratigraphy
+Age = Barremian? or older
+  Scheme ID : 20
+  Top sample : 3270m CU L175
+  Base sample : 3270m CU L175
+  Top sample ID : 18
+  Base sample ID : 18
+  Separator : -
+  Upper unit : Barremian? or older
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3276.00m - 3294.00m]
+Type = Chronostratigraphy
+Age = Early Berriasian
+  Scheme ID : 20
+  Top sample : 3276m CU L176
+  Base sample : 3294m CU L179
+  Top sample ID : 9
+  Base sample ID : 13
+  Separator : -
+  Upper unit : Early Berriasian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 26-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3300.00m - 3318.00m]
+Type = Chronostratigraphy
+Age = Late Tithonian
+  Scheme ID : 20
+  Top sample : 3300m CU L180
+  Base sample : 3318m CU L183
+  Top sample ID : 14
+  Base sample ID : 15
+  Separator : -
+  Upper unit : Late Tithonian
+  Upper boundary : Confident
+  Lower boundary : Unconformable
+  Upper questionable : No
+  Lower questionable : No
+Modified = 27-May-2014
+Modifier = BIOS
+
+[INTERVAL 3324.00m - 3351.00m]
+Type = Chronostratigraphy
+Age = Mid Oxfordian
+  Scheme ID : 20
+  Top sample : 3324m CU
+  Base sample : 3351m CU L399
+  Top sample ID : 3
+  Base sample ID : 20
+  Separator : -
+  Upper unit : Mid Oxfordian
+  Upper boundary : Unconformable
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 27-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3354.00m - 3402.00m]
+Type = Chronostratigraphy
+Age = Early?-Mid Oxfordian
+  Scheme ID : 20
+  Top sample : 3354m CU
+  Base sample : 3402m CU L408
+  Top sample ID : 4
+  Base sample ID : 29
+  Separator : -
+  Upper unit : Early?-Mid Oxfordian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 28-May-2014
+Modifier = BIOS
+
+[INTERVAL 3408.00m - 3414.00m]
+Type = Chronostratigraphy
+Age = E?-M Oxfordian?
+  Scheme ID : 20
+  Top sample : 3408m CU L409
+  Base sample : 3414m CU L410
+  Top sample ID : 30
+  Base sample ID : 33
+  Separator : -
+  Upper unit : E?-M Oxfordian?
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 28-May-2014
+Modifier = BIOS
+
+[INTERVAL 3420.00m - 3632.00m]
+Type = Chronostratigraphy
+Age = Indeterminate -possibly Triassic
+  Scheme ID : 20
+  Top sample : 3420m CU
+  Base sample : 3632m CU L526
+  Top sample ID : 5
+  Base sample ID : 51
+  Separator : -
+  Upper unit : Indeterminate -possibly Triassic
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3270.00m - 3270.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = unassigned
+  Scheme ID : 22
+  Top sample : 3270m CU L175
+  Base sample : 3270m CU L175
+  Top sample ID : 18
+  Base sample ID : 18
+  Separator : -
+  Upper unit : unassigned
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3276.00m - 3282.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = EKZ2
+  Scheme ID : 22
+  Top sample : 3276m CU L176
+  Base sample : 3282m CU L177
+  Top sample ID : 9
+  Base sample ID : 11
+  Separator : -
+  Upper unit : EKZ2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 26-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3288.00m - 3294.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = EKZ1
+  Scheme ID : 22
+  Top sample : 3288m CU L178
+  Base sample : 3294m CU L179
+  Top sample ID : 12
+  Base sample ID : 13
+  Separator : -
+  Upper unit : EKZ1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 26-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3300.00m - 3306.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ50b
+  Scheme ID : 22
+  Top sample : 3300m CU L180
+  Base sample : 3306m CU
+  Top sample ID : 14
+  Base sample ID : 1
+  Separator : -
+  Upper unit : JZ50b
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 27-May-2014
+Modifier = BIOS
+
+[INTERVAL 3312.00m - 3318.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ49b
+  Scheme ID : 22
+  Top sample : 3312m CU
+  Base sample : 3318m CU L183
+  Top sample ID : 2
+  Base sample ID : 15
+  Separator : -
+  Upper unit : JZ49b
+  Upper boundary : Confident
+  Lower boundary : Unconformable
+  Upper questionable : No
+  Lower questionable : No
+Modified = 26-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3324.00m - 3351.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ31
+  Scheme ID : 22
+  Top sample : 3324m CU
+  Base sample : 3351m CU L399
+  Top sample ID : 3
+  Base sample ID : 20
+  Separator : -
+  Upper unit : JZ31
+  Upper boundary : Unconformable
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 27-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3354.00m - 3402.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ30?-31
+  Scheme ID : 22
+  Top sample : 3354m CU
+  Base sample : 3402m CU L408
+  Top sample ID : 4
+  Base sample ID : 29
+  Separator : -
+  Upper unit : JZ30?-31
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 28-May-2014
+Modifier = BIOS
+
+[INTERVAL 3408.00m - 3414.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ30?-31?
+  Scheme ID : 22
+  Top sample : 3408m CU L409
+  Base sample : 3414m CU L410
+  Top sample ID : 30
+  Base sample ID : 33
+  Separator : -
+  Upper unit : JZ30?-31?
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 28-May-2014
+Modifier = BIOS
+
+[INTERVAL 3420.00m - 3632.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = unassigned
+  Scheme ID : 22
+  Top sample : 3420m CU
+  Base sample : 3632m CU L526
+  Top sample ID : 5
+  Base sample ID : 51
+  Separator : -
+  Upper unit : unassigned
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 01-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3270.00m - 3320.00m]
+Type = Lithostratigraphy
+Formation = Draupne
+  Scheme ID : 19
+  Top sample : 3270.0m LOG
+  Base sample : 3320.0m LOG
+  Top sample ID : 31
+  Base sample ID : 32
+  Separator : -
+  Upper unit : Draupne
+  Upper boundary : ?Unconformable
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 27-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3320.00m - 3365.00m]
+Type = Lithostratigraphy
+Formation = Heather
+  Scheme ID : 19
+  Top sample : 3320.0m LOG
+  Base sample : 3365.0m LOG
+  Top sample ID : 32
+  Base sample ID : 66
+  Separator : -
+  Upper unit : Heather
+  Upper boundary : Confident
+  Lower boundary : Fault
+  Upper questionable : No
+  Lower questionable : No
+Modified = 22-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3365.00m - 3500.00m]
+Type = Lithostratigraphy
+Formation = Sleipner?
+  Scheme ID : 19
+  Top sample : 3365.0m LOG
+  Base sample : 3500.0m LOG
+  Top sample ID : 66
+  Base sample ID : 67
+  Separator : -
+  Upper unit : Sleipner?
+  Upper boundary : Fault
+  Lower boundary : ?Unconformable
+  Upper questionable : No
+  Lower questionable : No
+Modified = 22-Dec-2013
+Modifier = BIOS
+
+[INTERVAL 3500.00m - 3632.00m]
+Type = Lithostratigraphy
+Formation = Unassigned (reddish colour in cuttings)
+  Scheme ID : 19
+  Top sample : 3500.0m LOG
+  Base sample : 3632m CU L526
+  Top sample ID : 67
+  Base sample ID : 51
+  Separator : -
+  Upper unit : Unassigned (reddish colour in cuttings)
+  Upper boundary : ?Unconformable
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 22-Dec-2013
+Modifier = BIOS
+
+[END OF FILE]

@@ -1,0 +1,7119 @@
+[PROLOG]
+File Format = DEX Paleo Data Exchange Format
+Software = StrataBugs v2.0
+Data prepared by = Ichron Ltd.
+Location = UK
+Date Locale = C
+Date = 03-Jan-2014
+
+[Chronostratigraphy Scheme]
+Scheme name = GTS2012
+Scheme ID : 233
+Number of units : 276
+
+Unit = Early Carboniferous
+  Abbreviation : 
+  Type = Eon
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3088
+  Colour : 236,233,216
+Unit = Phanerozoic
+  Abbreviation : PH
+  Type = Eon
+  Youngest : 0.0
+  Oldest : 541.0
+  Dictionary ID : 1965
+  Colour : 154,217,221
+Unit = Cenozoic
+  Abbreviation : CZ
+  Type = Era
+  Youngest : 0.0
+  Oldest : 66.04
+  Dictionary ID : 1966
+  Colour : 242,255,127
+Unit = ?Early Devonian
+  Abbreviation : 
+  Type = Period
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3116
+  Colour : 236,233,216
+Unit = Pragian? - Emsian
+  Abbreviation : 
+  Type = Period
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3112
+  Colour : 236,233,216
+Unit = Tournasian
+  Abbreviation : 
+  Type = Period
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3090
+  Colour : 236,233,216
+Unit = Quaternary
+  Abbreviation : 
+  Type = Period
+  Youngest : 0.0
+  Oldest : 2.588
+  Dictionary ID : 1967
+  Colour : 255,248,173
+Unit = Early Pleistocence
+  Abbreviation : 
+  Type = Epoch
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2746
+  Colour : 236,233,216
+Unit = Holocene
+  Abbreviation : Q2
+  Type = Epoch
+  Youngest : 0.0
+  Oldest : 0.0117
+  Dictionary ID : 1968
+  Colour : 255,245,233
+Unit = Kimmeridgian? - Volgian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2820
+  Colour : 236,233,216
+Unit = Late Volgian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2861
+  Colour : 236,233,216
+Unit = ?Bathonian - ?Aalenian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2887
+  Colour : 236,233,216
+Unit = ?Callovian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2886
+  Colour : 236,233,216
+Unit = ?E. Ryazanian - Middle Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2877
+  Colour : 236,233,216
+Unit = ?Early Kimmeridgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2879
+  Colour : 236,233,216
+Unit = ?Early Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2878
+  Colour : 236,233,216
+Unit = ?Lower Devonian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3111
+  Colour : 236,233,216
+Unit = ?Lt. Oxf. - Kimmeridgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2885
+  Colour : 236,233,216
+Unit = ?Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2821
+  Colour : 236,233,216
+Unit = ?Ryazanian - Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2866
+  Colour : 236,233,216
+Unit = ?Triassic
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2870
+  Colour : 236,233,216
+Unit = ?Zanclean
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2739
+  Colour : 236,233,216
+Unit = ?Zanclean - Piacenzian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2749
+  Colour : 236,233,216
+Unit = Callovian - Late Bathonian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2795
+  Colour : 236,233,216
+Unit = Campanian - Early Maastrichtian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2682
+  Colour : 236,233,216
+Unit = E. - Mid Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2910
+  Colour : 236,233,216
+Unit = Early - Middle Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2822
+  Colour : 236,233,216
+Unit = Early - Middle Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2895
+  Colour : 236,233,216
+Unit = Early Aptian/Barremian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2640
+  Colour : 236,233,216
+Unit = Early Barremian - Hauterivian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2818
+  Colour : 236,233,216
+Unit = Early Cretaceous
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2945
+  Colour : 236,233,216
+Unit = Early Eocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2650
+  Colour : 236,233,216
+Unit = Early Oligocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2648
+  Colour : 236,233,216
+Unit = Early Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2869
+  Colour : 236,233,216
+Unit = Early Paleocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2750
+  Colour : 236,233,216
+Unit = Early Piacenzian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2747
+  Colour : 236,233,216
+Unit = Early Ryazanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2860
+  Colour : 236,233,216
+Unit = Early Ryazanian - Late Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2800
+  Colour : 236,233,216
+Unit = Early Tournaisian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3115
+  Colour : 236,233,216
+Unit = Early Valanginian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2902
+  Colour : 236,233,216
+Unit = Early Volg.- Lt. Kimm.?
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2779
+  Colour : 236,233,216
+Unit = Early Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2695
+  Colour : 236,233,216
+Unit = Early? - Late Pliocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2748
+  Colour : 236,233,216
+Unit = Early? - Mid. Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2765
+  Colour : 236,233,216
+Unit = Early? - Middle Kimmeridgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2867
+  Colour : 236,233,216
+Unit = Early?-Late Cretaceous
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2944
+  Colour : 236,233,216
+Unit = Indet.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2918
+  Colour : 236,233,216
+Unit = Indeterminate
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3131
+  Colour : 236,233,216
+Unit = Kimmeridgian - ?Lt. Oxf.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2899
+  Colour : 236,233,216
+Unit = Late - Mid? Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2778
+  Colour : 236,233,216
+Unit = Late Aptian - Early Albian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2884
+  Colour : 236,233,216
+Unit = Late Bathonian - Callovian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2781
+  Colour : 236,233,216
+Unit = Late Cretaceous
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2943
+  Colour : 236,233,216
+Unit = Late Jurassic (undifferentiated)
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2768
+  Colour : 236,233,216
+Unit = Late Kimmeridgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2767
+  Colour : 236,233,216
+Unit = Late Oligocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2647
+  Colour : 236,233,216
+Unit = Late Paleocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2651
+  Colour : 236,233,216
+Unit = Late Ryazanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2854
+  Colour : 236,233,216
+Unit = Late Tournaisian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3114
+  Colour : 236,233,216
+Unit = Late Volgian - Early Ryazanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2855
+  Colour : 236,233,216
+Unit = Late Volgian - Ryazanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2780
+  Colour : 236,233,216
+Unit = Late? - Middle Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2868
+  Colour : 236,233,216
+Unit = Lower Devonian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3110
+  Colour : 236,233,216
+Unit = Lt. - Mid. Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2903
+  Colour : 236,233,216
+Unit = Lt. Kimm.? - Early Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2766
+  Colour : 236,233,216
+Unit = Lt. Ryaz. - Mid. Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2901
+  Colour : 236,233,216
+Unit = Mid - Lt. Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2909
+  Colour : 236,233,216
+Unit = Mid. - E. Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2904
+  Colour : 236,233,216
+Unit = Mid. Volgian - Lt. Ryaz.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2891
+  Colour : 236,233,216
+Unit = Mid.? - Late Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2764
+  Colour : 236,233,216
+Unit = Middle - Late? Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2875
+  Colour : 236,233,216
+Unit = Middle Eocene
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2649
+  Colour : 236,233,216
+Unit = Middle Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2769
+  Colour : 236,233,216
+Unit = Middle Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2694
+  Colour : 236,233,216
+Unit = Middle? - Late Oxfordian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2770
+  Colour : 236,233,216
+Unit = Middle? - Late Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2782
+  Colour : 236,233,216
+Unit = Ryazanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3046
+  Colour : 236,233,216
+Unit = Ryazanian - Late Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2794
+  Colour : 236,233,216
+Unit = Ryazanian - Lt. Volg.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2911
+  Colour : 236,233,216
+Unit = Ryazanian - Middle Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2894
+  Colour : 236,233,216
+Unit = Ryazanian - Valanginian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3040
+  Colour : 236,233,216
+Unit = Ryzanian undiff.
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3132
+  Colour : 236,233,216
+Unit = Thanetian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2947
+  Colour : 236,233,216
+Unit = Triassic - Early Jurassic (undifferentiated)
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2905
+  Colour : 236,233,216
+Unit = Unassigned
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2819
+  Colour : 236,233,216
+Unit = Undifferentiated
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3006
+  Colour : 236,233,216
+Unit = Undifferentiated Tertiary
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3005
+  Colour : 236,233,216
+Unit = Volgian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3059
+  Colour : 236,233,216
+Unit = Ypresian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2946
+  Colour : 236,233,216
+Unit = Pleistocene
+  Abbreviation : Q1
+  Type = Epoch
+  Youngest : 0.0117
+  Oldest : 2.588
+  Dictionary ID : 1969
+  Colour : 255,244,224
+Unit = Tarantian
+  Abbreviation : 
+  Type = Age
+  Youngest : 0.0117
+  Oldest : 0.126
+  Dictionary ID : 1970
+  Colour : 255,245,232
+Unit = Ionian
+  Abbreviation : PLE2
+  Type = Age
+  Youngest : 0.126
+  Oldest : 0.781
+  Dictionary ID : 1971
+  Colour : 255,247,176
+Unit = Calabrian
+  Abbreviation : PLE3
+  Type = Age
+  Youngest : 0.781
+  Oldest : 1.806
+  Dictionary ID : 1972
+  Colour : 255,247,176
+Unit = Gelasian
+  Abbreviation : GEL
+  Type = Age
+  Youngest : 1.806
+  Oldest : 2.588
+  Dictionary ID : 1973
+  Colour : 255,255,191
+Unit = Neogene
+  Abbreviation : N
+  Type = Period
+  Youngest : 2.588
+  Oldest : 23.03
+  Dictionary ID : 1974
+  Colour : 255,248,173
+Unit = Pliocene
+  Abbreviation : N2
+  Type = Epoch
+  Youngest : 2.588
+  Oldest : 5.333
+  Dictionary ID : 1975
+  Colour : 255,248,173
+Unit = Piacenzian
+  Abbreviation : PIA
+  Type = Age
+  Youngest : 2.588
+  Oldest : 3.6
+  Dictionary ID : 1976
+  Colour : 255,250,209
+Unit = Zanclean
+  Abbreviation : ZAN
+  Type = Age
+  Youngest : 3.6
+  Oldest : 5.333
+  Dictionary ID : 1977
+  Colour : 255,248,173
+Unit = Miocene
+  Abbreviation : N1
+  Type = Epoch
+  Youngest : 5.333
+  Oldest : 23.03
+  Dictionary ID : 1978
+  Colour : 255,248,173
+Unit = Messinian
+  Abbreviation : MES
+  Type = Age
+  Youngest : 5.333
+  Oldest : 7.246
+  Dictionary ID : 1979
+  Colour : 255,255,0
+Unit = Tortonian
+  Abbreviation : TOR
+  Type = Age
+  Youngest : 7.246
+  Oldest : 11.625
+  Dictionary ID : 1980
+  Colour : 255,255,0
+Unit = Serravallian
+  Abbreviation : SRV
+  Type = Age
+  Youngest : 11.625
+  Oldest : 13.82
+  Dictionary ID : 1981
+  Colour : 255,242,155
+Unit = Langhian
+  Abbreviation : LAN
+  Type = Age
+  Youngest : 13.82
+  Oldest : 15.97
+  Dictionary ID : 1982
+  Colour : 255,241,102
+Unit = Burdigalian
+  Abbreviation : BUR
+  Type = Age
+  Youngest : 15.97
+  Oldest : 20.43
+  Dictionary ID : 1983
+  Colour : 255,240,86
+Unit = Aquitanian
+  Abbreviation : AQT
+  Type = Age
+  Youngest : 20.43
+  Oldest : 23.03
+  Dictionary ID : 1984
+  Colour : 255,239,67
+Unit = Paleogene
+  Abbreviation : E
+  Type = Period
+  Youngest : 23.03
+  Oldest : 66.04
+  Dictionary ID : 1985
+  Colour : 253,154,82
+Unit = Oligocene
+  Abbreviation : E3
+  Type = Epoch
+  Youngest : 23.03
+  Oldest : 33.9
+  Dictionary ID : 1986
+  Colour : 251,204,150
+Unit = Chattian
+  Abbreviation : CHT
+  Type = Age
+  Youngest : 23.03
+  Oldest : 28.09
+  Dictionary ID : 1987
+  Colour : 255,233,192
+Unit = Rupelian
+  Abbreviation : RUP
+  Type = Age
+  Youngest : 28.09
+  Oldest : 33.9
+  Dictionary ID : 1988
+  Colour : 253,224,178
+Unit = Eocene
+  Abbreviation : E2
+  Type = Epoch
+  Youngest : 33.9
+  Oldest : 56.0
+  Dictionary ID : 1989
+  Colour : 249,194,136
+Unit = Priabonian
+  Abbreviation : PRB
+  Type = Age
+  Youngest : 33.9
+  Oldest : 37.8
+  Dictionary ID : 1990
+  Colour : 251,215,183
+Unit = Bartonian
+  Abbreviation : BRT
+  Type = Age
+  Youngest : 37.8
+  Oldest : 41.2
+  Dictionary ID : 1991
+  Colour : 250,205,170
+Unit = Lutetian
+  Abbreviation : LUT
+  Type = Age
+  Youngest : 41.2
+  Oldest : 47.8
+  Dictionary ID : 1992
+  Colour : 249,196,156
+Unit = Ypresian
+  Abbreviation : YPR
+  Type = Age
+  Youngest : 47.8
+  Oldest : 56.0
+  Dictionary ID : 1993
+  Colour : 247,185,142
+Unit = Paleocene
+  Abbreviation : E1
+  Type = Epoch
+  Youngest : 56.0
+  Oldest : 66.04
+  Dictionary ID : 1994
+  Colour : 247,184,123
+Unit = Thanetian
+  Abbreviation : THA
+  Type = Age
+  Youngest : 56.0
+  Oldest : 59.2
+  Dictionary ID : 1995
+  Colour : 247,184,123
+Unit = Selandian
+  Abbreviation : SEL
+  Type = Age
+  Youngest : 59.2
+  Oldest : 61.6
+  Dictionary ID : 1996
+  Colour : 247,184,123
+Unit = Danian
+  Abbreviation : DAN
+  Type = Age
+  Youngest : 61.6
+  Oldest : 66.04
+  Dictionary ID : 1997
+  Colour : 249,193,126
+Unit = Mesozoic
+  Abbreviation : MZ
+  Type = Era
+  Youngest : 66.04
+  Oldest : 252.2
+  Dictionary ID : 1998
+  Colour : 98,196,221
+Unit = Cretaceous
+  Abbreviation : K
+  Type = Period
+  Youngest : 66.04
+  Oldest : 145.0
+  Dictionary ID : 1999
+  Colour : 127,198,78
+Unit = Upper Cretaceous
+  Abbreviation : K2
+  Type = Epoch
+  Youngest : 66.04
+  Oldest : 100.5
+  Dictionary ID : 2000
+  Colour : 188,209,94
+Unit = Maastrichtian
+  Abbreviation : MAA
+  Type = Age
+  Youngest : 66.04
+  Oldest : 72.1
+  Dictionary ID : 2001
+  Colour : 249,242,166
+Unit = Late Maastrichtian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 66.04
+  Oldest : 69.8
+  Dictionary ID : 2002
+  Colour : 249,242,166
+Unit = Early Maastrichtian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 69.8
+  Oldest : 72.1
+  Dictionary ID : 2003
+  Colour : 249,242,166
+Unit = Late Campanian - Early Maastrichtian
+  Abbreviation : Lt. C
+  Type = Sub Age
+  Youngest : 69.80000305175781
+  Oldest : 76.4000015258789
+  Dictionary ID : 2167
+  Colour : 236,233,216
+Unit = Campanian
+  Abbreviation : CMP
+  Type = Age
+  Youngest : 72.1
+  Oldest : 83.6
+  Dictionary ID : 2004
+  Colour : 240,237,154
+Unit = Late Campanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 72.1
+  Oldest : 76.4
+  Dictionary ID : 2005
+  Colour : 240,237,154
+Unit = Middle Campanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 76.4
+  Oldest : 80.6
+  Dictionary ID : 2006
+  Colour : 240,237,154
+Unit = Early Campanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 80.6
+  Oldest : 83.6
+  Dictionary ID : 2007
+  Colour : 240,237,154
+Unit = Santonian
+  Abbreviation : SAN
+  Type = Age
+  Youngest : 83.6
+  Oldest : 86.3
+  Dictionary ID : 2008
+  Colour : 230,231,142
+Unit = Late Santonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 83.6
+  Oldest : 85.3
+  Dictionary ID : 2009
+  Colour : 230,231,142
+Unit = Middle Santonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 85.3
+  Oldest : 85.6
+  Dictionary ID : 2010
+  Colour : 230,231,142
+Unit = Early Santonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 85.6
+  Oldest : 86.3
+  Dictionary ID : 2011
+  Colour : 230,231,142
+Unit = Coniacian
+  Abbreviation : CON
+  Type = Age
+  Youngest : 86.3
+  Oldest : 89.8
+  Dictionary ID : 2012
+  Colour : 220,226,130
+Unit = Late Coniacian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 86.3
+  Oldest : 87.9
+  Dictionary ID : 2013
+  Colour : 220,226,130
+Unit = Middle Coniacian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 87.9
+  Oldest : 88.7
+  Dictionary ID : 2014
+  Colour : 209,220,117
+Unit = Early Coniacian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 88.7
+  Oldest : 89.8
+  Dictionary ID : 2015
+  Colour : 220,226,130
+Unit = Turonian
+  Abbreviation : TUR
+  Type = Age
+  Youngest : 89.8
+  Oldest : 93.9
+  Dictionary ID : 2016
+  Colour : 209,220,117
+Unit = Late Turonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 89.8
+  Oldest : 91.4
+  Dictionary ID : 2017
+  Colour : 209,220,117
+Unit = Middle Turonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 91.4
+  Oldest : 92.9
+  Dictionary ID : 2018
+  Colour : 209,220,117
+Unit = Early Turonian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 92.9
+  Oldest : 93.9
+  Dictionary ID : 2019
+  Colour : 209,220,117
+Unit = Cenomanian
+  Abbreviation : CEN
+  Type = Age
+  Youngest : 93.9
+  Oldest : 100.5
+  Dictionary ID : 2020
+  Colour : 199,214,106
+Unit = Late Cenomanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 93.9
+  Oldest : 95.5
+  Dictionary ID : 2021
+  Colour : 199,214,106
+Unit = Middle Cenomanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 95.5
+  Oldest : 96.5
+  Dictionary ID : 2022
+  Colour : 199,214,106
+Unit = Early Cenomanian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 96.5
+  Oldest : 100.5
+  Dictionary ID : 2023
+  Colour : 199,214,106
+Unit = Lower Cretaceous
+  Abbreviation : K1
+  Type = Epoch
+  Youngest : 100.5
+  Oldest : 145.0
+  Dictionary ID : 2024
+  Colour : 161,200,107
+Unit = Albian
+  Abbreviation : ALB
+  Type = Age
+  Youngest : 100.5
+  Oldest : 113.0
+  Dictionary ID : 2025
+  Colour : 217,230,175
+Unit = Late Albian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 100.5
+  Oldest : 107.7
+  Dictionary ID : 2026
+  Colour : 217,230,175
+Unit = Middle Albian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 107.7
+  Oldest : 110.8
+  Dictionary ID : 2027
+  Colour : 217,230,175
+Unit = Early Albian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 110.8
+  Oldest : 113.0
+  Dictionary ID : 2028
+  Colour : 217,230,175
+Unit = Aptian
+  Abbreviation : APT
+  Type = Age
+  Youngest : 113.0
+  Oldest : 126.3
+  Dictionary ID : 2029
+  Colour : 207,224,164
+Unit = Late Aptian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 113.0
+  Oldest : 123.0
+  Dictionary ID : 2030
+  Colour : 207,224,164
+Unit = Early Aptian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 123.0
+  Oldest : 126.3
+  Dictionary ID : 2031
+  Colour : 207,224,164
+Unit = Barremian
+  Abbreviation : BRM
+  Type = Age
+  Youngest : 126.3
+  Oldest : 130.8
+  Dictionary ID : 2032
+  Colour : 197,219,152
+Unit = Late Barremian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 126.3
+  Oldest : 129.4
+  Dictionary ID : 2033
+  Colour : 197,219,152
+Unit = Early Barremian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 129.4
+  Oldest : 130.8
+  Dictionary ID : 2034
+  Colour : 197,219,152
+Unit = Hauterivian
+  Abbreviation : HAU
+  Type = Age
+  Youngest : 130.8
+  Oldest : 133.9
+  Dictionary ID : 2035
+  Colour : 185,213,141
+Unit = Late Hauterivian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 130.8
+  Oldest : 132.1
+  Dictionary ID : 2036
+  Colour : 185,213,141
+Unit = Early Hauterivian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 132.1
+  Oldest : 133.9
+  Dictionary ID : 2037
+  Colour : 185,213,141
+Unit = Valanginian
+  Abbreviation : VLG
+  Type = Age
+  Youngest : 133.9
+  Oldest : 139.4
+  Dictionary ID : 2038
+  Colour : 173,207,130
+Unit = Late Valanginian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 133.9
+  Oldest : 136.4
+  Dictionary ID : 2039
+  Colour : 173,207,130
+Unit = Early Valanginian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 136.4
+  Oldest : 139.4
+  Dictionary ID : 2040
+  Colour : 173,207,130
+Unit = Berriasian
+  Abbreviation : BER
+  Type = Age
+  Youngest : 139.4
+  Oldest : 145.0
+  Dictionary ID : 2041
+  Colour : 160,201,118
+Unit = Late Berriasian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 139.4
+  Oldest : 141.9
+  Dictionary ID : 2042
+  Colour : 160,201,118
+Unit = Early Berriasian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 141.9
+  Oldest : 145.0
+  Dictionary ID : 2043
+  Colour : 160,201,118
+Unit = Jurassic
+  Abbreviation : J
+  Type = Period
+  Youngest : 145.0
+  Oldest : 201.3
+  Dictionary ID : 2044
+  Colour : 0,176,222
+Unit = Late Jurassic
+  Abbreviation : J3
+  Type = Epoch
+  Youngest : 145.0
+  Oldest : 163.5
+  Dictionary ID : 2045
+  Colour : 189,228,247
+Unit = Tithonian
+  Abbreviation : TTH
+  Type = Age
+  Youngest : 145.0
+  Oldest : 152.1
+  Dictionary ID : 2046
+  Colour : 224,242,251
+Unit = Kimmeridgian
+  Abbreviation : KIM
+  Type = Age
+  Youngest : 152.1
+  Oldest : 157.3
+  Dictionary ID : 2047
+  Colour : 213,237,250
+Unit = Oxfordian
+  Abbreviation : OXF
+  Type = Age
+  Youngest : 157.3
+  Oldest : 163.5
+  Dictionary ID : 2048
+  Colour : 201,233,248
+Unit = Middle Jurassic
+  Abbreviation : J2
+  Type = Epoch
+  Youngest : 163.5
+  Oldest : 174.1
+  Dictionary ID : 2049
+  Colour : 132,207,232
+Unit = Callovian
+  Abbreviation : CLV
+  Type = Age
+  Youngest : 163.5
+  Oldest : 166.1
+  Dictionary ID : 2050
+  Colour : 201,232,240
+Unit = Bathonian
+  Abbreviation : BTH
+  Type = Age
+  Youngest : 166.1
+  Oldest : 168.3
+  Dictionary ID : 2051
+  Colour : 190,227,238
+Unit = Bajocian
+  Abbreviation : BAJ
+  Type = Age
+  Youngest : 168.3
+  Oldest : 170.3
+  Dictionary ID : 2052
+  Colour : 177,222,237
+Unit = Aalenian
+  Abbreviation : AAL
+  Type = Age
+  Youngest : 170.3
+  Oldest : 174.1
+  Dictionary ID : 2053
+  Colour : 163,217,235
+Unit = Early Jurassic
+  Abbreviation : J1
+  Type = Epoch
+  Youngest : 174.1
+  Oldest : 201.3
+  Dictionary ID : 2054
+  Colour : 0,176,227
+Unit = Toarcian
+  Abbreviation : TOA
+  Type = Age
+  Youngest : 174.1
+  Oldest : 182.7
+  Dictionary ID : 2055
+  Colour : 163,211,239
+Unit = Pliensbachian
+  Abbreviation : PLB
+  Type = Age
+  Youngest : 182.7
+  Oldest : 190.8
+  Dictionary ID : 2056
+  Colour : 133,201,235
+Unit = Sinemurian
+  Abbreviation : SIN
+  Type = Age
+  Youngest : 190.8
+  Oldest : 199.3
+  Dictionary ID : 2057
+  Colour : 97,191,232
+Unit = Hettangian
+  Abbreviation : HET
+  Type = Age
+  Youngest : 199.3
+  Oldest : 201.3
+  Dictionary ID : 2058
+  Colour : 42,181,229
+Unit = Triassic
+  Abbreviation : T
+  Type = Period
+  Youngest : 201.3
+  Oldest : 252.2
+  Dictionary ID : 2059
+  Colour : 146,76,148
+Unit = Late Triassic
+  Abbreviation : T3
+  Type = Epoch
+  Youngest : 201.3
+  Oldest : 237.0
+  Dictionary ID : 2060
+  Colour : 198,167,203
+Unit = Rhaetian
+  Abbreviation : RHT
+  Type = Age
+  Youngest : 201.3
+  Oldest : 209.5
+  Dictionary ID : 2061
+  Colour : 241,226,240
+Unit = Norian
+  Abbreviation : NOR
+  Type = Age
+  Youngest : 209.5
+  Oldest : 228.4
+  Dictionary ID : 2062
+  Colour : 219,192,218
+Unit = Savatian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 209.5
+  Oldest : 214.0
+  Dictionary ID : 2063
+  Colour : 219,192,218
+Unit = Alaunian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 214.0
+  Oldest : 217.5
+  Dictionary ID : 2064
+  Colour : 219,192,218
+Unit = Lacian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 217.5
+  Oldest : 228.4
+  Dictionary ID : 2065
+  Colour : 219,192,218
+Unit = Carnian
+  Abbreviation : CRN
+  Type = Age
+  Youngest : 228.4
+  Oldest : 237.0
+  Dictionary ID : 2066
+  Colour : 208,179,211
+Unit = Tuvalian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 228.4
+  Oldest : 233.5
+  Dictionary ID : 2067
+  Colour : 208,179,211
+Unit = Julian
+  Abbreviation : 
+  Type = Sub Age
+  Youngest : 233.5
+  Oldest : 237.0
+  Dictionary ID : 2068
+  Colour : 208,179,211
+Unit = Middle Triassic
+  Abbreviation : T2
+  Type = Epoch
+  Youngest : 237.0
+  Oldest : 247.1
+  Dictionary ID : 2069
+  Colour : 187,135,182
+Unit = Ladinian
+  Abbreviation : LAD
+  Type = Age
+  Youngest : 237.0
+  Oldest : 241.5
+  Dictionary ID : 2070
+  Colour : 207,159,197
+Unit = Anisian
+  Abbreviation : ANI
+  Type = Age
+  Youngest : 241.5
+  Oldest : 247.1
+  Dictionary ID : 2071
+  Colour : 196,146,189
+Unit = Early Triassic
+  Abbreviation : T1
+  Type = Epoch
+  Youngest : 247.1
+  Oldest : 252.2
+  Dictionary ID : 2072
+  Colour : 152,57,153
+Unit = Olenekian
+  Abbreviation : OLE
+  Type = Age
+  Youngest : 247.1
+  Oldest : 250.01
+  Dictionary ID : 2073
+  Colour : 186,113,168
+Unit = Induan
+  Abbreviation : IND
+  Type = Age
+  Youngest : 250.01
+  Oldest : 252.2
+  Dictionary ID : 2074
+  Colour : 176,101,161
+Unit = Paleozoic
+  Abbreviation : PZ
+  Type = Era
+  Youngest : 252.2
+  Oldest : 541.0
+  Dictionary ID : 2075
+  Colour : 153,192,141
+Unit = Permian
+  Abbreviation : P
+  Type = Period
+  Youngest : 252.2
+  Oldest : 298.9
+  Dictionary ID : 2076
+  Colour : 240,64,40
+Unit = Lopingian
+  Abbreviation : P3
+  Type = Epoch
+  Youngest : 252.2
+  Oldest : 259.8
+  Dictionary ID : 2077
+  Colour : 247,188,169
+Unit = Changhsingian
+  Abbreviation : CHA
+  Type = Age
+  Youngest : 252.2
+  Oldest : 254.2
+  Dictionary ID : 2078
+  Colour : 249,208,196
+Unit = Wuchiapingian
+  Abbreviation : WUC
+  Type = Age
+  Youngest : 254.2
+  Oldest : 259.8
+  Dictionary ID : 2079
+  Colour : 248,198,182
+Unit = Guadalupian
+  Abbreviation : P2
+  Type = Epoch
+  Youngest : 259.8
+  Oldest : 272.3
+  Dictionary ID : 2080
+  Colour : 240,143,116
+Unit = Capitanian
+  Abbreviation : CAP
+  Type = Age
+  Youngest : 259.8
+  Oldest : 265.1
+  Dictionary ID : 2081
+  Colour : 245,177,156
+Unit = Wordian
+  Abbreviation : WOR
+  Type = Age
+  Youngest : 265.1
+  Oldest : 268.8
+  Dictionary ID : 2082
+  Colour : 243,165,143
+Unit = Roadian
+  Abbreviation : ROA
+  Type = Age
+  Youngest : 268.8
+  Oldest : 272.3
+  Dictionary ID : 2083
+  Colour : 242,154,129
+Unit = Cisuralian
+  Abbreviation : P1
+  Type = Epoch
+  Youngest : 272.3
+  Oldest : 298.9
+  Dictionary ID : 2084
+  Colour : 228,117,92
+Unit = Kungurian
+  Abbreviation : KUN
+  Type = Age
+  Youngest : 272.3
+  Oldest : 279.3
+  Dictionary ID : 2085
+  Colour : 227,160,142
+Unit = Artinskian
+  Abbreviation : ART
+  Type = Age
+  Youngest : 279.3
+  Oldest : 290.1
+  Dictionary ID : 2086
+  Colour : 226,149,129
+Unit = Sakmarian
+  Abbreviation : SAK
+  Type = Age
+  Youngest : 290.1
+  Oldest : 295.5
+  Dictionary ID : 2087
+  Colour : 224,139,116
+Unit = Asselian
+  Abbreviation : ASS
+  Type = Age
+  Youngest : 295.5
+  Oldest : 298.9
+  Dictionary ID : 2088
+  Colour : 223,127,104
+Unit = Carboniferous
+  Abbreviation : C
+  Type = Period
+  Youngest : 298.9
+  Oldest : 358.9
+  Dictionary ID : 2089
+  Colour : 111,175,176
+Unit = Pennsylvanian
+  Abbreviation : C2
+  Type = Epoch
+  Youngest : 298.9
+  Oldest : 323.2
+  Dictionary ID : 2090
+  Colour : 167,201,202
+Unit = Late Pennsylvanian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 298.9
+  Oldest : 307.0
+  Dictionary ID : 2091
+  Colour : 167,201,202
+Unit = Gzhelian
+  Abbreviation : GZH
+  Type = Age
+  Youngest : 298.9
+  Oldest : 303.7
+  Dictionary ID : 2092
+  Colour : 213,220,215
+Unit = Kasimovian
+  Abbreviation : KAS
+  Type = Age
+  Youngest : 303.7
+  Oldest : 307.0
+  Dictionary ID : 2093
+  Colour : 202,215,214
+Unit = Middle Pennsylvanian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 307.0
+  Oldest : 315.2
+  Dictionary ID : 2094
+  Colour : 167,201,202
+Unit = Moscovian
+  Abbreviation : MOS
+  Type = Age
+  Youngest : 307.0
+  Oldest : 315.2
+  Dictionary ID : 2095
+  Colour : 192,210,204
+Unit = Early Pennsylvanian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 315.2
+  Oldest : 323.2
+  Dictionary ID : 2096
+  Colour : 167,201,202
+Unit = Bashkirian
+  Abbreviation : BAS
+  Type = Age
+  Youngest : 315.2
+  Oldest : 323.2
+  Dictionary ID : 2097
+  Colour : 167,201,202
+Unit = Mississippian
+  Abbreviation : C1
+  Type = Epoch
+  Youngest : 323.2
+  Oldest : 358.9
+  Dictionary ID : 2098
+  Colour : 120,158,126
+Unit = Late Mississippian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 323.2
+  Oldest : 330.9
+  Dictionary ID : 2099
+  Colour : 120,158,126
+Unit = Serpukhovian
+  Abbreviation : SPK
+  Type = Age
+  Youngest : 323.2
+  Oldest : 330.9
+  Dictionary ID : 2100
+  Colour : 205,200,134
+Unit = Middle Mississippian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 330.9
+  Oldest : 346.7
+  Dictionary ID : 2101
+  Colour : 120,158,126
+Unit = Visean
+  Abbreviation : VIS
+  Type = Age
+  Youngest : 330.9
+  Oldest : 346.7
+  Dictionary ID : 2102
+  Colour : 184,192,134
+Unit = Early Mississippian
+  Abbreviation : 
+  Type = Sub Epoch
+  Youngest : 346.7
+  Oldest : 358.9
+  Dictionary ID : 2103
+  Colour : 120,158,126
+Unit = Tournaisian
+  Abbreviation : TOU
+  Type = Age
+  Youngest : 346.7
+  Oldest : 358.9
+  Dictionary ID : 2104
+  Colour : 159,184,133
+Unit = Devonian
+  Abbreviation : D
+  Type = Period
+  Youngest : 358.9
+  Oldest : 419.2
+  Dictionary ID : 2105
+  Colour : 211,160,80
+Unit = Late Devonian
+  Abbreviation : D3
+  Type = Epoch
+  Youngest : 358.9
+  Oldest : 382.7
+  Dictionary ID : 2106
+  Colour : 245,228,181
+Unit = Famennian
+  Abbreviation : FAM
+  Type = Age
+  Youngest : 358.9
+  Oldest : 372.2
+  Dictionary ID : 2107
+  Colour : 245,239,213
+Unit = Frasnian
+  Abbreviation : FRS
+  Type = Age
+  Youngest : 372.2
+  Oldest : 382.7
+  Dictionary ID : 2108
+  Colour : 246,237,195
+Unit = Middle Devonian
+  Abbreviation : D2
+  Type = Epoch
+  Youngest : 382.7
+  Oldest : 393.3
+  Dictionary ID : 2109
+  Colour : 244,207,132
+Unit = Givetian
+  Abbreviation : GIV
+  Type = Age
+  Youngest : 382.7
+  Oldest : 387.7
+  Dictionary ID : 2110
+  Colour : 246,226,160
+Unit = Eifelian
+  Abbreviation : EIF
+  Type = Age
+  Youngest : 387.7
+  Oldest : 393.3
+  Dictionary ID : 2111
+  Colour : 245,217,146
+Unit = Early Devonian
+  Abbreviation : D1
+  Type = Epoch
+  Youngest : 393.3
+  Oldest : 419.2
+  Dictionary ID : 2112
+  Colour : 229,180,110
+Unit = Emsian
+  Abbreviation : EMS
+  Type = Age
+  Youngest : 393.3
+  Oldest : 407.6
+  Dictionary ID : 2113
+  Colour : 236,213,145
+Unit = Pragian
+  Abbreviation : PRA
+  Type = Age
+  Youngest : 407.6
+  Oldest : 410.8
+  Dictionary ID : 2114
+  Colour : 235,204,132
+Unit = Lochkovian
+  Abbreviation : LOK
+  Type = Age
+  Youngest : 410.8
+  Oldest : 419.2
+  Dictionary ID : 2115
+  Colour : 234,194,118
+Unit = Silurian
+  Abbreviation : S
+  Type = Period
+  Youngest : 419.2
+  Oldest : 443.8
+  Dictionary ID : 2116
+  Colour : 179,225,182
+Unit = Pridoli
+  Abbreviation : S4
+  Type = Epoch
+  Youngest : 419.2
+  Oldest : 423.0
+  Dictionary ID : 2117
+  Colour : 236,245,236
+Unit = Ludlow
+  Abbreviation : S3
+  Type = Epoch
+  Youngest : 423.0
+  Oldest : 427.4
+  Dictionary ID : 2118
+  Colour : 203,230,223
+Unit = Ludfordian
+  Abbreviation : LDF
+  Type = Age
+  Youngest : 423.0
+  Oldest : 425.6
+  Dictionary ID : 2119
+  Colour : 225,240,234
+Unit = Gorstian
+  Abbreviation : GOR
+  Type = Age
+  Youngest : 425.6
+  Oldest : 427.4
+  Dictionary ID : 2120
+  Colour : 214,236,233
+Unit = Wenlock
+  Abbreviation : S2
+  Type = Epoch
+  Youngest : 427.4
+  Oldest : 433.4
+  Dictionary ID : 2121
+  Colour : 192,224,213
+Unit = Homerian
+  Abbreviation : HOM
+  Type = Age
+  Youngest : 427.4
+  Oldest : 430.5
+  Dictionary ID : 2122
+  Colour : 214,235,224
+Unit = Sheinwoodian
+  Abbreviation : SHE
+  Type = Age
+  Youngest : 430.5
+  Oldest : 433.4
+  Dictionary ID : 2123
+  Colour : 203,229,214
+Unit = Llandovery
+  Abbreviation : S1
+  Type = Epoch
+  Youngest : 433.4
+  Oldest : 443.8
+  Dictionary ID : 2124
+  Colour : 167,214,201
+Unit = Telychian
+  Abbreviation : TEL
+  Type = Age
+  Youngest : 433.4
+  Oldest : 438.5
+  Dictionary ID : 2125
+  Colour : 203,230,223
+Unit = Aeronian
+  Abbreviation : AER
+  Type = Age
+  Youngest : 438.5
+  Oldest : 440.8
+  Dictionary ID : 2126
+  Colour : 192,224,213
+Unit = Rhuddanian
+  Abbreviation : RHU
+  Type = Age
+  Youngest : 440.8
+  Oldest : 443.8
+  Dictionary ID : 2127
+  Colour : 180,219,202
+Unit = Ordovician
+  Abbreviation : O
+  Type = Period
+  Youngest : 443.8
+  Oldest : 485.4
+  Dictionary ID : 2128
+  Colour : 0,149,126
+Unit = Laste Ordovician
+  Abbreviation : O3
+  Type = Epoch
+  Youngest : 443.8
+  Oldest : 458.4
+  Dictionary ID : 2129
+  Colour : 144,200,170
+Unit = Hirnantian
+  Abbreviation : HIR
+  Type = Age
+  Youngest : 443.8
+  Oldest : 445.2
+  Dictionary ID : 2130
+  Colour : 181,218,193
+Unit = Katian
+  Abbreviation : KAT
+  Type = Age
+  Youngest : 445.2
+  Oldest : 453.0
+  Dictionary ID : 2131
+  Colour : 169,212,182
+Unit = Sandbian
+  Abbreviation : SBN
+  Type = Age
+  Youngest : 453.0
+  Oldest : 458.4
+  Dictionary ID : 2132
+  Colour : 156,206,171
+Unit = Middle Ordovician
+  Abbreviation : O2
+  Type = Epoch
+  Youngest : 458.4
+  Oldest : 470.0
+  Dictionary ID : 2133
+  Colour : 71,179,147
+Unit = Darriwilian
+  Abbreviation : DAR
+  Type = Age
+  Youngest : 458.4
+  Oldest : 467.3
+  Dictionary ID : 2134
+  Colour : 125,197,179
+Unit = Dapingian
+  Abbreviation : 
+  Type = Age
+  Youngest : 467.3
+  Oldest : 470.0
+  Dictionary ID : 2135
+  Colour : 125,197,179
+Unit = Early Ordovician
+  Abbreviation : O1
+  Type = Epoch
+  Youngest : 470.0
+  Oldest : 485.4
+  Dictionary ID : 2136
+  Colour : 0,158,126
+Unit = Floian
+  Abbreviation : FLO
+  Type = Age
+  Youngest : 470.0
+  Oldest : 477.7
+  Dictionary ID : 2137
+  Colour : 31,174,156
+Unit = Tremadocian
+  Abbreviation : TRE
+  Type = Age
+  Youngest : 477.7
+  Oldest : 485.4
+  Dictionary ID : 2138
+  Colour : 0,169,146
+Unit = Cambrian
+  Abbreviation : €
+  Type = Period
+  Youngest : 485.4
+  Oldest : 541.0
+  Dictionary ID : 2139
+  Colour : 147,171,110
+Unit = Furongian
+  Abbreviation : FUR
+  Type = Epoch
+  Youngest : 485.4
+  Oldest : 497.0
+  Dictionary ID : 2140
+  Colour : 195,220,174
+Unit = Age 10
+  Abbreviation : 
+  Type = Age
+  Youngest : 485.4
+  Oldest : 489.5
+  Dictionary ID : 2141
+  Colour : 195,220,174
+Unit = Jiangshanian
+  Abbreviation : 
+  Type = Age
+  Youngest : 489.5
+  Oldest : 494.0
+  Dictionary ID : 2142
+  Colour : 195,220,174
+Unit = Paibian
+  Abbreviation : PAI
+  Type = Age
+  Youngest : 494.0
+  Oldest : 497.0
+  Dictionary ID : 2143
+  Colour : 216,232,196
+Unit = Epoch 3
+  Abbreviation : 
+  Type = Epoch
+  Youngest : 497.0
+  Oldest : 509.0
+  Dictionary ID : 2144
+  Colour : 183,208,159
+Unit = Guzhangian
+  Abbreviation : GUZ
+  Type = Age
+  Youngest : 497.0
+  Oldest : 500.5
+  Dictionary ID : 2145
+  Colour : 215,224,192
+Unit = Drumian
+  Abbreviation : DRU
+  Type = Age
+  Youngest : 500.5
+  Oldest : 504.5
+  Dictionary ID : 2146
+  Colour : 205,219,182
+Unit = Age 5
+  Abbreviation : 
+  Type = Age
+  Youngest : 504.5
+  Oldest : 509.0
+  Dictionary ID : 2147
+  Colour : 205,219,182
+Unit = Epoch 2
+  Abbreviation : 
+  Type = Epoch
+  Youngest : 509.0
+  Oldest : 521.0
+  Dictionary ID : 2148
+  Colour : 183,208,159
+Unit = Age 4
+  Abbreviation : 
+  Type = Age
+  Youngest : 509.0
+  Oldest : 514.0
+  Dictionary ID : 2149
+  Colour : 183,208,159
+Unit = Age 3
+  Abbreviation : 
+  Type = Age
+  Youngest : 514.0
+  Oldest : 521.0
+  Dictionary ID : 2150
+  Colour : 183,208,159
+Unit = Terreneuvian
+  Abbreviation : 
+  Type = Epoch
+  Youngest : 521.0
+  Oldest : 541.0
+  Dictionary ID : 2151
+  Colour : 159,184,133
+Unit = Age 2
+  Abbreviation : 
+  Type = Age
+  Youngest : 521.0
+  Oldest : 529.0
+  Dictionary ID : 2152
+  Colour : 159,184,133
+Unit = Fortunian
+  Abbreviation : FOR
+  Type = Age
+  Youngest : 529.0
+  Oldest : 541.0
+  Dictionary ID : 2153
+  Colour : 171,189,143
+Unit = Ediacaran
+  Abbreviation : 
+  Type = Period
+  Youngest : 541.0
+  Oldest : 635.0
+  Dictionary ID : 2154
+  Colour : 233,96,124
+
+[Biozones Scheme]
+Scheme name = Ichron Limited Biozone (2012)
+Scheme ID : 43
+Discipline: Palynofloral
+Number of units : 543
+
+Unit = Jr24
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3048
+  Colour : 236,233,216
+Unit = K24/K23
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2639
+  Colour : 236,233,216
+Unit = lower NP14
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2982
+  Colour : 236,233,216
+Unit = NP10
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2984
+  Colour : 236,233,216
+Unit = NP12
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2983
+  Colour : 236,233,216
+Unit = NP13
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2998
+  Colour : 236,233,216
+Unit = NP14
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2980
+  Colour : 236,233,216
+Unit = NP15
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2979
+  Colour : 236,233,216
+Unit = NP16
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2978
+  Colour : 236,233,216
+Unit = NP17
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2977
+  Colour : 236,233,216
+Unit = NP18
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2997
+  Colour : 236,233,216
+Unit = NP19
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2976
+  Colour : 236,233,216
+Unit = NP20
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2975
+  Colour : 236,233,216
+Unit = NP20/19
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2996
+  Colour : 236,233,216
+Unit = NP21
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2974
+  Colour : 236,233,216
+Unit = NP22
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2973
+  Colour : 236,233,216
+Unit = NP4
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2988
+  Colour : 236,233,216
+Unit = NP5
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2987
+  Colour : 236,233,216
+Unit = NP6
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2986
+  Colour : 236,233,216
+Unit = NP9
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2985
+  Colour : 236,233,216
+Unit = T50
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2703
+  Colour : 236,233,216
+Unit = T6 - ?T5
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2638
+  Colour : 236,233,216
+Unit = UC14
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2995
+  Colour : 236,233,216
+Unit = UC15a
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2994
+  Colour : 236,233,216
+Unit = UC15b
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2993
+  Colour : 236,233,216
+Unit = UC15d-b
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2992
+  Colour : 236,233,216
+Unit = UC15e-d
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2991
+  Colour : 236,233,216
+Unit = UC16
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2990
+  Colour : 236,233,216
+Unit = UC17
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2989
+  Colour : 236,233,216
+Unit = upper NP14
+  Abbreviation : 
+  Type = Super Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2981
+  Colour : 236,233,216
+Unit = ?Jr26
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2701
+  Colour : 236,233,216
+Unit = ?Jr26 - ?Jr23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2827
+  Colour : 236,233,216
+Unit = ?Jr27
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2777
+  Colour : 236,233,216
+Unit = ?Jr27 - Jr32
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2898
+  Colour : 236,233,216
+Unit = ?Jr33
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1951
+  Colour : 255,255,255
+Unit = ?Jr34
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1950
+  Colour : 255,255,255
+Unit = ?Jr34.2 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2882
+  Colour : 236,233,216
+Unit = ?Jr38
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2425
+  Colour : 255,255,255
+Unit = ?Jr40
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2423
+  Colour : 255,255,255
+Unit = ?Jr45
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2422
+  Colour : 255,255,255
+Unit = ?Jr45.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2864
+  Colour : 236,233,216
+Unit = ?K11.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2564
+  Colour : 236,233,216
+Unit = ?K12
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2536
+  Colour : 236,233,216
+Unit = ?K18.1/K17
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2579
+  Colour : 236,233,216
+Unit = ?K19.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2571
+  Colour : 236,233,216
+Unit = ?K20
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2561
+  Colour : 236,233,216
+Unit = ?K20.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2556
+  Colour : 236,233,216
+Unit = ?K22
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2555
+  Colour : 236,233,216
+Unit = ?Out of place Jr29
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3042
+  Colour : 236,233,216
+Unit = ?T11
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2920
+  Colour : 236,233,216
+Unit = ?T13.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2280
+  Colour : 236,233,216
+Unit = ?T14.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2279
+  Colour : 236,233,216
+Unit = ?T23.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2693
+  Colour : 236,233,216
+Unit = ?T7.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2310
+  Colour : 236,233,216
+Unit = ?T9.2.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2851
+  Colour : 236,233,216
+Unit = ?T9.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2850
+  Colour : 236,233,216
+Unit = ?T9.4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2849
+  Colour : 236,233,216
+Unit = ?T9.4.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2844
+  Colour : 236,233,216
+Unit = A(1)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2801
+  Colour : 236,233,216
+Unit = A(2)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2802
+  Colour : 236,233,216
+Unit = A(2)?-A(1)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2809
+  Colour : 236,233,216
+Unit = A(3)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2803
+  Colour : 236,233,216
+Unit = B(1)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2804
+  Colour : 236,233,216
+Unit = B(2)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2805
+  Colour : 236,233,216
+Unit = B(2)-A(3)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2806
+  Colour : 236,233,216
+Unit = C. brevispinosum
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2692
+  Colour : 236,233,216
+Unit = Indet.
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3092
+  Colour : 236,233,216
+Unit = Inoceramus
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2688
+  Colour : 236,233,216
+Unit = Jr 38/?older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3102
+  Colour : 236,233,216
+Unit = Jr10
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3108
+  Colour : 236,233,216
+Unit = Jr11 - Jr10
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2480
+  Colour : 240,240,240
+Unit = Jr11 - Jr9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2817
+  Colour : 236,233,216
+Unit = Jr13
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2581
+  Colour : 236,233,216
+Unit = Jr14
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3122
+  Colour : 236,233,216
+Unit = Jr15
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3099
+  Colour : 236,233,216
+Unit = Jr15/Jr14
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2478
+  Colour : 240,240,240
+Unit = Jr16
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3123
+  Colour : 236,233,216
+Unit = Jr16.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3121
+  Colour : 236,233,216
+Unit = Jr16.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3119
+  Colour : 236,233,216
+Unit = Jr16.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3107
+  Colour : 236,233,216
+Unit = Jr17
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3117
+  Colour : 236,233,216
+Unit = Jr17 - Jr22
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2797
+  Colour : 236,233,216
+Unit = Jr17 - Jr9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2365
+  Colour : 236,233,216
+Unit = Jr18
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3118
+  Colour : 236,233,216
+Unit = Jr19
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2560
+  Colour : 236,233,216
+Unit = Jr20
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3106
+  Colour : 236,233,216
+Unit = Jr21
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3103
+  Colour : 236,233,216
+Unit = Jr22
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3039
+  Colour : 236,233,216
+Unit = Jr22 - Jr17
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2790
+  Colour : 236,233,216
+Unit = Jr23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3047
+  Colour : 236,233,216
+Unit = Jr24/Jr23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2874
+  Colour : 236,233,216
+Unit = Jr25
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2776
+  Colour : 236,233,216
+Unit = Jr25+ Jr17 - Jr9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2364
+  Colour : 236,233,216
+Unit = Jr26
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2873
+  Colour : 236,233,216
+Unit = Jr26 -  Jr23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2828
+  Colour : 236,233,216
+Unit = Jr27
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1954
+  Colour : 255,255,255
+Unit = Jr28
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1953
+  Colour : 255,255,255
+Unit = Jr29
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1949
+  Colour : 255,255,255
+Unit = Jr29/older?
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2796
+  Colour : 236,233,216
+Unit = Jr30
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1952
+  Colour : 255,255,255
+Unit = Jr31
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1947
+  Colour : 255,255,255
+Unit = Jr31 - Jr34
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2900
+  Colour : 236,233,216
+Unit = Jr31/30
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1948
+  Colour : 255,255,255
+Unit = Jr32
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1946
+  Colour : 255,255,255
+Unit = Jr32 - ?Jr27
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2872
+  Colour : 236,233,216
+Unit = Jr33
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2363
+  Colour : 236,233,216
+Unit = Jr34
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1945
+  Colour : 255,255,255
+Unit = Jr34 - Jr31
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2700
+  Colour : 236,233,216
+Unit = Jr34.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1944
+  Colour : 255,255,255
+Unit = Jr34.2 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2883
+  Colour : 236,233,216
+Unit = Jr35
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1943
+  Colour : 255,255,255
+Unit = Jr35 - ?Jr34
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2361
+  Colour : 236,233,216
+Unit = Jr35-1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1937
+  Colour : 255,255,255
+Unit = Jr35-2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1936
+  Colour : 255,255,255
+Unit = Jr35.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1942
+  Colour : 255,255,255
+Unit = Jr35.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1941
+  Colour : 255,255,255
+Unit = Jr35.2 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2897
+  Colour : 236,233,216
+Unit = Jr36
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2699
+  Colour : 236,233,216
+Unit = Jr37
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2698
+  Colour : 236,233,216
+Unit = Jr38
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2697
+  Colour : 236,233,216
+Unit = Jr38.2 - Jr38.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2799
+  Colour : 236,233,216
+Unit = Jr38.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2888
+  Colour : 236,233,216
+Unit = Jr38.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2881
+  Colour : 236,233,216
+Unit = Jr38.4 - Jr38.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2775
+  Colour : 236,233,216
+Unit = Jr39.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3091
+  Colour : 236,233,216
+Unit = Jr39.1 - ?Jr34
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2826
+  Colour : 236,233,216
+Unit = Jr39.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2424
+  Colour : 255,255,255
+Unit = Jr4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3094
+  Colour : 236,233,216
+Unit = Jr40
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2696
+  Colour : 236,233,216
+Unit = Jr40.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2889
+  Colour : 236,233,216
+Unit = Jr40.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2890
+  Colour : 236,233,216
+Unit = Jr41
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2360
+  Colour : 236,233,216
+Unit = Jr41 - ?Jr39
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2792
+  Colour : 236,233,216
+Unit = Jr42
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2774
+  Colour : 236,233,216
+Unit = Jr42/older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2859
+  Colour : 236,233,216
+Unit = Jr43
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3098
+  Colour : 236,233,216
+Unit = Jr43 - ?Jr42
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2876
+  Colour : 236,233,216
+Unit = Jr44
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3105
+  Colour : 236,233,216
+Unit = Jr44/Jr45
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2798
+  Colour : 236,233,216
+Unit = Jr45
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2359
+  Colour : 236,233,216
+Unit = Jr45 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3100
+  Colour : 236,233,216
+Unit = Jr45.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2865
+  Colour : 236,233,216
+Unit = Jr45.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3101
+  Colour : 236,233,216
+Unit = Jr45/older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2773
+  Colour : 236,233,216
+Unit = Jr5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3093
+  Colour : 236,233,216
+Unit = Jr6
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2481
+  Colour : 240,240,240
+Unit = Jr7
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3095
+  Colour : 236,233,216
+Unit = Jr8
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3109
+  Colour : 236,233,216
+Unit = Jr9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2482
+  Colour : 240,240,240
+Unit = K1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3049
+  Colour : 236,233,216
+Unit = K1 - Jr45
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2570
+  Colour : 236,233,216
+Unit = K1 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2912
+  Colour : 236,233,216
+Unit = K1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2863
+  Colour : 236,233,216
+Unit = K1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2858
+  Colour : 236,233,216
+Unit = K1.2/K1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2908
+  Colour : 236,233,216
+Unit = K1/Jr45
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2896
+  Colour : 236,233,216
+Unit = K10
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2843
+  Colour : 236,233,216
+Unit = K10.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3044
+  Colour : 236,233,216
+Unit = K10.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2476
+  Colour : 240,240,240
+Unit = K10.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2537
+  Colour : 236,233,216
+Unit = K10.3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3120
+  Colour : 236,233,216
+Unit = K10.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2486
+  Colour : 236,233,216
+Unit = K10.3.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2565
+  Colour : 236,233,216
+Unit = K11
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2559
+  Colour : 236,233,216
+Unit = K11.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2485
+  Colour : 236,233,216
+Unit = K12
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2842
+  Colour : 236,233,216
+Unit = K12.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2487
+  Colour : 236,233,216
+Unit = K12.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2563
+  Colour : 236,233,216
+Unit = K13
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2475
+  Colour : 240,240,240
+Unit = K13.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2484
+  Colour : 236,233,216
+Unit = K13.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3104
+  Colour : 236,233,216
+Unit = K13.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2929
+  Colour : 236,233,216
+Unit = K13.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2535
+  Colour : 236,233,216
+Unit = K13.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2928
+  Colour : 236,233,216
+Unit = K13.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3043
+  Colour : 236,233,216
+Unit = K13.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2534
+  Colour : 236,233,216
+Unit = K13/?K12
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2643
+  Colour : 236,233,216
+Unit = K14
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3038
+  Colour : 236,233,216
+Unit = K14.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2642
+  Colour : 236,233,216
+Unit = K14.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2641
+  Colour : 236,233,216
+Unit = K14.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2532
+  Colour : 236,233,216
+Unit = K14.2.1/K14.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2533
+  Colour : 236,233,216
+Unit = K14.2.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2927
+  Colour : 236,233,216
+Unit = K14.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2355
+  Colour : 236,233,216
+Unit = K14.3.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2474
+  Colour : 240,240,240
+Unit = K15
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3037
+  Colour : 236,233,216
+Unit = K15.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2483
+  Colour : 236,233,216
+Unit = K15.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2953
+  Colour : 236,233,216
+Unit = K15.1.1?
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2473
+  Colour : 240,240,240
+Unit = K15.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2999
+  Colour : 236,233,216
+Unit = K16
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2952
+  Colour : 236,233,216
+Unit = K16.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2558
+  Colour : 236,233,216
+Unit = K16.2 - K18.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2354
+  Colour : 236,233,216
+Unit = K16.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3055
+  Colour : 236,233,216
+Unit = K17
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2530
+  Colour : 236,233,216
+Unit = K17 - K16
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2531
+  Colour : 236,233,216
+Unit = K17 - K16.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2472
+  Colour : 240,240,240
+Unit = K17.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3054
+  Colour : 236,233,216
+Unit = K18
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2353
+  Colour : 236,233,216
+Unit = K18.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2471
+  Colour : 240,240,240
+Unit = K18.1 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2562
+  Colour : 236,233,216
+Unit = K18.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2470
+  Colour : 240,240,240
+Unit = K19
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3001
+  Colour : 236,233,216
+Unit = K19.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2926
+  Colour : 236,233,216
+Unit = K19.1 - ?K18.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2529
+  Colour : 236,233,216
+Unit = K19.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2469
+  Colour : 240,240,240
+Unit = K19.2 - K19.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2557
+  Colour : 236,233,216
+Unit = K2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2907
+  Colour : 236,233,216
+Unit = K2 - ?K1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2893
+  Colour : 236,233,216
+Unit = K2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2857
+  Colour : 236,233,216
+Unit = K2.1 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2788
+  Colour : 236,233,216
+Unit = K2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2856
+  Colour : 236,233,216
+Unit = K2.2/?older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2862
+  Colour : 236,233,216
+Unit = K20
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2578
+  Colour : 236,233,216
+Unit = K20 - ?K19.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2528
+  Colour : 236,233,216
+Unit = K20.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2468
+  Colour : 240,240,240
+Unit = K20.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2841
+  Colour : 236,233,216
+Unit = K20.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2467
+  Colour : 240,240,240
+Unit = K20.2.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2466
+  Colour : 240,240,240
+Unit = K21
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2577
+  Colour : 236,233,216
+Unit = K21.1
+  Abbreviation : K21.1
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2176
+  Colour : 236,233,216
+Unit = K21.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2465
+  Colour : 240,240,240
+Unit = K21.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2464
+  Colour : 240,240,240
+Unit = K22
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2840
+  Colour : 236,233,216
+Unit = K22.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3009
+  Colour : 236,233,216
+Unit = K22.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2925
+  Colour : 236,233,216
+Unit = K22.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3008
+  Colour : 236,233,216
+Unit = K22.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3007
+  Colour : 236,233,216
+Unit = K23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3087
+  Colour : 236,233,216
+Unit = K23.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2837
+  Colour : 236,233,216
+Unit = K23.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3126
+  Colour : 236,233,216
+Unit = K23.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2463
+  Colour : 240,240,240
+Unit = K23.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2839
+  Colour : 236,233,216
+Unit = K23.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3125
+  Colour : 236,233,216
+Unit = K23.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2838
+  Colour : 236,233,216
+Unit = K23.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2462
+  Colour : 240,240,240
+Unit = K24
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2836
+  Colour : 236,233,216
+Unit = K24.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3057
+  Colour : 236,233,216
+Unit = K24.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2461
+  Colour : 240,240,240
+Unit = K24.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2915
+  Colour : 236,233,216
+Unit = K24.1.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2914
+  Colour : 236,233,216
+Unit = K24.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3053
+  Colour : 236,233,216
+Unit = K25
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2460
+  Colour : 240,240,240
+Unit = K25.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2835
+  Colour : 236,233,216
+Unit = K25.1 - K24
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2824
+  Colour : 236,233,216
+Unit = K25.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3127
+  Colour : 236,233,216
+Unit = K25.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2833
+  Colour : 236,233,216
+Unit = K25.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2834
+  Colour : 236,233,216
+Unit = K25.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2913
+  Colour : 236,233,216
+Unit = K25.2.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3052
+  Colour : 236,233,216
+Unit = K25.2.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3051
+  Colour : 236,233,216
+Unit = K26 - K25.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2823
+  Colour : 236,233,216
+Unit = K26.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2298
+  Colour : 236,233,216
+Unit = K26.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3050
+  Colour : 236,233,216
+Unit = K26.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2490
+  Colour : 236,233,216
+Unit = K26.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2297
+  Colour : 236,233,216
+Unit = K26.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3000
+  Colour : 236,233,216
+Unit = K26.2.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2296
+  Colour : 236,233,216
+Unit = K26.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2295
+  Colour : 236,233,216
+Unit = K3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3002
+  Colour : 236,233,216
+Unit = K3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2906
+  Colour : 236,233,216
+Unit = K4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2646
+  Colour : 236,233,216
+Unit = K5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2942
+  Colour : 236,233,216
+Unit = K5.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2358
+  Colour : 236,233,216
+Unit = K6
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2941
+  Colour : 236,233,216
+Unit = K6 - K5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2645
+  Colour : 236,233,216
+Unit = K6.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2892
+  Colour : 236,233,216
+Unit = K6.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2917
+  Colour : 236,233,216
+Unit = K7
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2880
+  Colour : 236,233,216
+Unit = K7.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2580
+  Colour : 236,233,216
+Unit = K7.1 - K5.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2825
+  Colour : 236,233,216
+Unit = K7.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2538
+  Colour : 236,233,216
+Unit = K7.2 - ?K6
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2569
+  Colour : 236,233,216
+Unit = K7.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2568
+  Colour : 236,233,216
+Unit = K8
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3041
+  Colour : 236,233,216
+Unit = K8.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3058
+  Colour : 236,233,216
+Unit = K8.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2357
+  Colour : 236,233,216
+Unit = K8.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2477
+  Colour : 240,240,240
+Unit = K9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3045
+  Colour : 236,233,216
+Unit = K9 - K7
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2644
+  Colour : 236,233,216
+Unit = K9.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2567
+  Colour : 236,233,216
+Unit = K9.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3113
+  Colour : 236,233,216
+Unit = K9.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2566
+  Colour : 236,233,216
+Unit = KM2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2937
+  Colour : 236,233,216
+Unit = KM3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2936
+  Colour : 236,233,216
+Unit = KM4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2935
+  Colour : 236,233,216
+Unit = KP2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2939
+  Colour : 236,233,216
+Unit = KP3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2938
+  Colour : 236,233,216
+Unit = KP4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2940
+  Colour : 236,233,216
+Unit = O. complex
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2691
+  Colour : 236,233,216
+Unit = order/K1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2421
+  Colour : 255,255,255
+Unit = P/T group
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2686
+  Colour : 236,233,216
+Unit = S. septatus / R. bisecta
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2687
+  Colour : 236,233,216
+Unit = Spinidinium spp./I. cf. cooksoniae
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2690
+  Colour : 236,233,216
+Unit = T1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1318
+  Colour : 255,255,255
+Unit = T1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2489
+  Colour : 236,233,216
+Unit = T1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2302
+  Colour : 236,233,216
+Unit = T1.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2294
+  Colour : 236,233,216
+Unit = T1.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3056
+  Colour : 236,233,216
+Unit = T1.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2758
+  Colour : 236,233,216
+Unit = T1.3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2292
+  Colour : 236,233,216
+Unit = T1.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2293
+  Colour : 236,233,216
+Unit = T10
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1309
+  Colour : 255,255,255
+Unit = T10.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2282
+  Colour : 236,233,216
+Unit = T11
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1308
+  Colour : 255,255,255
+Unit = T11.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2931
+  Colour : 236,233,216
+Unit = T11.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2678
+  Colour : 236,233,216
+Unit = T11.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2677
+  Colour : 236,233,216
+Unit = T11.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2676
+  Colour : 236,233,216
+Unit = T11.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2281
+  Colour : 236,233,216
+Unit = T12
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1307
+  Colour : 255,255,255
+Unit = T12 - T9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2666
+  Colour : 236,233,216
+Unit = T12.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1364
+  Colour : 255,255,255
+Unit = T12.1 - T11
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2665
+  Colour : 236,233,216
+Unit = T12.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2301
+  Colour : 236,233,216
+Unit = T12.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2458
+  Colour : 240,240,240
+Unit = T12.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1363
+  Colour : 255,255,255
+Unit = T12.2 - T12.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2300
+  Colour : 236,233,216
+Unit = T12.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3036
+  Colour : 236,233,216
+Unit = T13
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1306
+  Colour : 255,255,255
+Unit = T13.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1362
+  Colour : 255,255,255
+Unit = T13.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2753
+  Colour : 236,233,216
+Unit = T13.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3035
+  Colour : 236,233,216
+Unit = T13.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1361
+  Colour : 255,255,255
+Unit = T13.2 - T13.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2307
+  Colour : 236,233,216
+Unit = T13.2 - T13.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2752
+  Colour : 236,233,216
+Unit = T13.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1360
+  Colour : 255,255,255
+Unit = T13.3 - T13.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2675
+  Colour : 236,233,216
+Unit = T14
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1305
+  Colour : 255,255,255
+Unit = T14.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1359
+  Colour : 255,255,255
+Unit = T14.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1358
+  Colour : 255,255,255
+Unit = T14.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1357
+  Colour : 255,255,255
+Unit = T14.3 - T14.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2299
+  Colour : 236,233,216
+Unit = T14.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1356
+  Colour : 255,255,255
+Unit = T14.4 -T14.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2278
+  Colour : 236,233,216
+Unit = T14.4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3034
+  Colour : 236,233,216
+Unit = T14.4.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3031
+  Colour : 236,233,216
+Unit = T14/T13
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2832
+  Colour : 236,233,216
+Unit = T15.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1354
+  Colour : 255,255,255
+Unit = T15.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1353
+  Colour : 255,255,255
+Unit = T15.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3033
+  Colour : 236,233,216
+Unit = T15.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3030
+  Colour : 236,233,216
+Unit = T15.2.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2740
+  Colour : 236,233,216
+Unit = T15.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1352
+  Colour : 255,255,255
+Unit = T15.3 - T15.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2919
+  Colour : 236,233,216
+Unit = T15.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1355
+  Colour : 255,255,255
+Unit = T15.4/3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2664
+  Colour : 236,233,216
+Unit = T16.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1350
+  Colour : 255,255,255
+Unit = T16.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1349
+  Colour : 255,255,255
+Unit = T16.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1348
+  Colour : 255,255,255
+Unit = T16.3 - T15
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2831
+  Colour : 236,233,216
+Unit = T16.3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2924
+  Colour : 236,233,216
+Unit = T16.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2923
+  Colour : 236,233,216
+Unit = T16.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1347
+  Colour : 255,255,255
+Unit = T16.4/3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2663
+  Colour : 236,233,216
+Unit = T16.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1346
+  Colour : 255,255,255
+Unit = T16.5.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3029
+  Colour : 236,233,216
+Unit = T16.5.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3028
+  Colour : 236,233,216
+Unit = T16.6
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1345
+  Colour : 255,255,255
+Unit = T17 - T16
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2830
+  Colour : 236,233,216
+Unit = T17.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1344
+  Colour : 255,255,255
+Unit = T17.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1343
+  Colour : 255,255,255
+Unit = T18.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1342
+  Colour : 255,255,255
+Unit = T18.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3032
+  Colour : 236,233,216
+Unit = T18.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1341
+  Colour : 255,255,255
+Unit = T18.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1340
+  Colour : 255,255,255
+Unit = T18.3 - T18.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2277
+  Colour : 236,233,216
+Unit = T18.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1339
+  Colour : 255,255,255
+Unit = T18.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1338
+  Colour : 255,255,255
+Unit = T18.5.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2276
+  Colour : 236,233,216
+Unit = T19.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1337
+  Colour : 255,255,255
+Unit = T19.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1336
+  Colour : 255,255,255
+Unit = T19.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1335
+  Colour : 255,255,255
+Unit = T2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1317
+  Colour : 255,255,255
+Unit = T2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2738
+  Colour : 236,233,216
+Unit = T2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2737
+  Colour : 236,233,216
+Unit = T20.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1334
+  Colour : 255,255,255
+Unit = T20.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1333
+  Colour : 255,255,255
+Unit = T20.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1332
+  Colour : 255,255,255
+Unit = T20.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1331
+  Colour : 255,255,255
+Unit = T21.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1330
+  Colour : 255,255,255
+Unit = T21.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1329
+  Colour : 255,255,255
+Unit = T21.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1328
+  Colour : 255,255,255
+Unit = T21.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1327
+  Colour : 255,255,255
+Unit = T22.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1326
+  Colour : 255,255,255
+Unit = T22.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1325
+  Colour : 255,255,255
+Unit = T22.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1324
+  Colour : 255,255,255
+Unit = T23.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1323
+  Colour : 255,255,255
+Unit = T23.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1322
+  Colour : 255,255,255
+Unit = T23.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1321
+  Colour : 255,255,255
+Unit = T24
+  Abbreviation : T24
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1293
+  Colour : 255,255,255
+Unit = T24.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1320
+  Colour : 255,255,255
+Unit = T24.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1319
+  Colour : 255,255,255
+Unit = T24.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1294
+  Colour : 255,255,255
+Unit = T24.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1295
+  Colour : 255,255,255
+Unit = T28.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2339
+  Colour : 236,233,216
+Unit = T3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1316
+  Colour : 255,255,255
+Unit = T3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2291
+  Colour : 236,233,216
+Unit = T3.1.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2488
+  Colour : 236,233,216
+Unit = T3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2290
+  Colour : 236,233,216
+Unit = T3.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2289
+  Colour : 236,233,216
+Unit = T3.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2321
+  Colour : 236,233,216
+Unit = T3.4 - T3.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2736
+  Colour : 236,233,216
+Unit = T31.2 - T31.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2338
+  Colour : 236,233,216
+Unit = T31.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2337
+  Colour : 236,233,216
+Unit = T32
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2336
+  Colour : 236,233,216
+Unit = T34.2 - T34.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2335
+  Colour : 236,233,216
+Unit = T34.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2334
+  Colour : 236,233,216
+Unit = T34.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2333
+  Colour : 236,233,216
+Unit = T35.2 - T35.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2332
+  Colour : 236,233,216
+Unit = T35.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2331
+  Colour : 236,233,216
+Unit = T36
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2330
+  Colour : 236,233,216
+Unit = T38
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2329
+  Colour : 236,233,216
+Unit = T4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1315
+  Colour : 255,255,255
+Unit = T4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2288
+  Colour : 236,233,216
+Unit = T4.2 - T4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2320
+  Colour : 236,233,216
+Unit = T4.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2319
+  Colour : 236,233,216
+Unit = T4.3 - T4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2757
+  Colour : 236,233,216
+Unit = T4.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2317
+  Colour : 236,233,216
+Unit = T40
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2328
+  Colour : 236,233,216
+Unit = T45.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2327
+  Colour : 236,233,216
+Unit = T45.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2326
+  Colour : 236,233,216
+Unit = T45.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2325
+  Colour : 236,233,216
+Unit = T5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1314
+  Colour : 255,255,255
+Unit = T5.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2287
+  Colour : 236,233,216
+Unit = T5.2 - T4.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2756
+  Colour : 236,233,216
+Unit = T5.2/T4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2459
+  Colour : 240,240,240
+Unit = T5.2? - T4.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2735
+  Colour : 236,233,216
+Unit = T5.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2318
+  Colour : 236,233,216
+Unit = T5.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2316
+  Colour : 236,233,216
+Unit = T5.4 - T5.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2734
+  Colour : 236,233,216
+Unit = T50.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2323
+  Colour : 236,233,216
+Unit = T50.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2324
+  Colour : 236,233,216
+Unit = T6
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1313
+  Colour : 255,255,255
+Unit = T6.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2755
+  Colour : 236,233,216
+Unit = T6.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2286
+  Colour : 236,233,216
+Unit = T6.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2315
+  Colour : 236,233,216
+Unit = T6.2 - T6.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2733
+  Colour : 236,233,216
+Unit = T60
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2322
+  Colour : 236,233,216
+Unit = T7
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1312
+  Colour : 255,255,255
+Unit = T7.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2314
+  Colour : 236,233,216
+Unit = T7.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2313
+  Colour : 236,233,216
+Unit = T7.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2312
+  Colour : 236,233,216
+Unit = T7.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2311
+  Colour : 236,233,216
+Unit = T7.4 - T7.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2732
+  Colour : 236,233,216
+Unit = T7.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2731
+  Colour : 236,233,216
+Unit = T7.5 - ?T7.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2669
+  Colour : 236,233,216
+Unit = T7.5 - T7.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2754
+  Colour : 236,233,216
+Unit = T8
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1311
+  Colour : 255,255,255
+Unit = T8 or older
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2922
+  Colour : 236,233,216
+Unit = T8.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2954
+  Colour : 236,233,216
+Unit = T8.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2285
+  Colour : 236,233,216
+Unit = T8.2 - T8.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2668
+  Colour : 236,233,216
+Unit = T8.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3124
+  Colour : 236,233,216
+Unit = T8.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2730
+  Colour : 236,233,216
+Unit = T8.3-?T8.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2853
+  Colour : 236,233,216
+Unit = T8.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2848
+  Colour : 236,233,216
+Unit = T8.4 - T8.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2309
+  Colour : 236,233,216
+Unit = T9
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 1310
+  Colour : 255,255,255
+Unit = T9.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2681
+  Colour : 236,233,216
+Unit = T9.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2852
+  Colour : 236,233,216
+Unit = T9.2.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2847
+  Colour : 236,233,216
+Unit = T9.2.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2846
+  Colour : 236,233,216
+Unit = T9.2.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2680
+  Colour : 236,233,216
+Unit = T9.2.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2398
+  Colour : 240,240,240
+Unit = T9.2.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2934
+  Colour : 236,233,216
+Unit = T9.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2845
+  Colour : 236,233,216
+Unit = T9.3.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2397
+  Colour : 240,240,240
+Unit = T9.3.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2396
+  Colour : 240,240,240
+Unit = T9.4
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2921
+  Colour : 236,233,216
+Unit = T9.4 - T9.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2729
+  Colour : 236,233,216
+Unit = T9.4.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2284
+  Colour : 236,233,216
+Unit = T9.4.1 - T9.2.5
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2679
+  Colour : 236,233,216
+Unit = T9.4.1.1
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2933
+  Colour : 236,233,216
+Unit = T9.4.1.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2932
+  Colour : 236,233,216
+Unit = T9.4.2
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2395
+  Colour : 240,240,240
+Unit = T9.4.3
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2283
+  Colour : 236,233,216
+Unit = Tr13
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3097
+  Colour : 236,233,216
+Unit = Tr15
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3096
+  Colour : 236,233,216
+Unit = unass.
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2479
+  Colour : 240,240,240
+Unit = Unassigned
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2356
+  Colour : 236,233,216
+Unit = Unassigned (Jr13 - Jr6 cavings)
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2930
+  Colour : 236,233,216
+Unit = Undiff.
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2667
+  Colour : 236,233,216
+Unit = Undifferentiated
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 3003
+  Colour : 236,233,216
+Unit = Y. lanceolatum
+  Abbreviation : 
+  Type = Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2689
+  Colour : 236,233,216
+Unit = ?T34.2 - T34.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2724
+  Colour : 236,233,216
+Unit = K60.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2957
+  Colour : 236,233,216
+Unit = K70
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2956
+  Colour : 236,233,216
+Unit = K80
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2955
+  Colour : 236,233,216
+Unit = P10
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2966
+  Colour : 236,233,216
+Unit = P11
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2965
+  Colour : 236,233,216
+Unit = P12
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2964
+  Colour : 236,233,216
+Unit = P13
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2963
+  Colour : 236,233,216
+Unit = P14
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2962
+  Colour : 236,233,216
+Unit = P15
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2961
+  Colour : 236,233,216
+Unit = P17
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2960
+  Colour : 236,233,216
+Unit = P18
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2959
+  Colour : 236,233,216
+Unit = P19
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2958
+  Colour : 236,233,216
+Unit = P3
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2972
+  Colour : 236,233,216
+Unit = P4
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2971
+  Colour : 236,233,216
+Unit = P6
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2970
+  Colour : 236,233,216
+Unit = P7
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2969
+  Colour : 236,233,216
+Unit = P8
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2968
+  Colour : 236,233,216
+Unit = P9
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2967
+  Colour : 236,233,216
+Unit = T10.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2762
+  Colour : 236,233,216
+Unit = T23.2.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2674
+  Colour : 236,233,216
+Unit = T23.3.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2672
+  Colour : 236,233,216
+Unit = T23.3.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2673
+  Colour : 236,233,216
+Unit = T25
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2761
+  Colour : 236,233,216
+Unit = T25.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2709
+  Colour : 236,233,216
+Unit = T25.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2708
+  Colour : 236,233,216
+Unit = T28
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2707
+  Colour : 236,233,216
+Unit = T28.2 - T28.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2728
+  Colour : 236,233,216
+Unit = T31
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2706
+  Colour : 236,233,216
+Unit = T31.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2727
+  Colour : 236,233,216
+Unit = T31.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2726
+  Colour : 236,233,216
+Unit = T34
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2705
+  Colour : 236,233,216
+Unit = T34.4 - T34.3
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2725
+  Colour : 236,233,216
+Unit = T35.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2760
+  Colour : 236,233,216
+Unit = T35.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2759
+  Colour : 236,233,216
+Unit = T36 - ?T35.3
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2662
+  Colour : 236,233,216
+Unit = T4.4 T4.2
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2816
+  Colour : 236,233,216
+Unit = T40.2 - T40.1
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2723
+  Colour : 236,233,216
+Unit = T40.3
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2722
+  Colour : 236,233,216
+Unit = T45
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2704
+  Colour : 236,233,216
+Unit = T50.1 - T45
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2661
+  Colour : 236,233,216
+Unit = T70
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2660
+  Colour : 236,233,216
+Unit = T82
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2721
+  Colour : 236,233,216
+Unit = T85
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2720
+  Colour : 236,233,216
+Unit = T85 - T82
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2659
+  Colour : 236,233,216
+Unit = T91
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2658
+  Colour : 236,233,216
+Unit = T93
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2657
+  Colour : 236,233,216
+Unit = T94
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2656
+  Colour : 236,233,216
+Unit = T97 -T96
+  Abbreviation : 
+  Type = Sub Zone
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 2655
+  Colour : 236,233,216
+Unit = T23
+  Abbreviation : 
+  Type = Zone
+  Youngest : 2.59
+  Oldest : 5.33
+  Dictionary ID : 1296
+  Colour : 255,255,255
+Unit = T22
+  Abbreviation : 
+  Type = Zone
+  Youngest : 5.33
+  Oldest : 11.61
+  Dictionary ID : 1297
+  Colour : 255,255,255
+Unit = T21
+  Abbreviation : 
+  Type = Zone
+  Youngest : 11.61
+  Oldest : 15.97
+  Dictionary ID : 1298
+  Colour : 255,255,255
+Unit = T20
+  Abbreviation : 
+  Type = Zone
+  Youngest : 15.97
+  Oldest : 23.03
+  Dictionary ID : 1299
+  Colour : 255,255,255
+Unit = T19
+  Abbreviation : 
+  Type = Zone
+  Youngest : 23.03
+  Oldest : 28.4
+  Dictionary ID : 1300
+  Colour : 255,255,255
+Unit = T18
+  Abbreviation : 
+  Type = Zone
+  Youngest : 28.4
+  Oldest : 33.9
+  Dictionary ID : 1301
+  Colour : 255,255,255
+Unit = T17
+  Abbreviation : 
+  Type = Zone
+  Youngest : 33.9
+  Oldest : 37.2
+  Dictionary ID : 1302
+  Colour : 255,255,255
+Unit = T16
+  Abbreviation : 
+  Type = Zone
+  Youngest : 37.2
+  Oldest : 44.0
+  Dictionary ID : 1303
+  Colour : 255,255,255
+Unit = T15
+  Abbreviation : 
+  Type = Zone
+  Youngest : 44.0
+  Oldest : 48.6
+  Dictionary ID : 1304
+  Colour : 255,255,255
+
+[HEADER]
+Well Name = 15/9-F11A
+Well Code = 159-F11A
+Operator = Statoil
+Field = Volve
+Country = NOCS
+Type = Borehole
+Units = metres
+Longitude = 0.0
+Latitude = 0.0
+Terminal depth = 3600.00m
+Depth Datum = RTE
+
+[SAMPLE 2590m CU]
+Base Depth = 2590.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 34
+
+[SAMPLE 2610m CU]
+Base Depth = 2610.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 35
+
+[SAMPLE 2630m CU]
+Base Depth = 2630.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 36
+
+[SAMPLE 2650m CU]
+Base Depth = 2650.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 37
+
+[SAMPLE 2670m CU]
+Base Depth = 2670.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 38
+
+[SAMPLE 2690m CU]
+Base Depth = 2690.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 39
+
+[SAMPLE 2690.0m LOG]
+Top Depth = 2690.000m
+Base Depth = 2690.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 54
+
+[SAMPLE 2709.0m LOG]
+Base Depth = 2709.000m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 48
+
+[SAMPLE 2710m CU]
+Base Depth = 2710.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 40
+
+[SAMPLE 2730m CU]
+Base Depth = 2730.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 41
+
+[SAMPLE 2750m CU]
+Base Depth = 2750.000m
+Type = CU
+Created = 13-Sep-2013
+Modified = 13-Sep-2013
+Sample id = 42
+
+[SAMPLE 2770m CU]
+Base Depth = 2770.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 1
+
+[SAMPLE 2800.0m LOG]
+Top Depth = 2800.000m
+Base Depth = 2800.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 55
+
+[SAMPLE 2810m CU]
+Base Depth = 2810.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 3
+
+[SAMPLE 2810.0m LOG]
+Top Depth = 2810.000m
+Base Depth = 2810.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 56
+
+[SAMPLE 2819.0m LOG]
+Base Depth = 2819.000m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 43
+
+[SAMPLE 2830m CU]
+Base Depth = 2830.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 4
+
+[SAMPLE 2860m CU]
+Base Depth = 2860.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 5
+
+[SAMPLE 2890m CU]
+Base Depth = 2890.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 6
+
+[SAMPLE 2920.0m LOG]
+Top Depth = 2920.000m
+Base Depth = 2920.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 57
+
+[SAMPLE 2950m CU]
+Base Depth = 2950.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 8
+
+[SAMPLE 2952.0m LOG]
+Top Depth = 2952.000m
+Base Depth = 2952.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 58
+
+[SAMPLE 2980m CU]
+Base Depth = 2980.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 9
+
+[SAMPLE 3010m CU]
+Base Depth = 3010.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 10
+
+[SAMPLE 3040.0m LOG]
+Top Depth = 3040.000m
+Base Depth = 3040.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 59
+
+[SAMPLE 3070m CU]
+Base Depth = 3070.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 12
+
+[SAMPLE 3070.0m LOG]
+Top Depth = 3070.000m
+Base Depth = 3070.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 60
+
+[SAMPLE 3072.0m LOG]
+Base Depth = 3072.000m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 50
+
+[SAMPLE 3100m CU]
+Base Depth = 3100.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 13
+
+[SAMPLE 3100.0m LOG]
+Top Depth = 3100.000m
+Base Depth = 3100.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 61
+
+[SAMPLE 3130m CU]
+Base Depth = 3130.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 14
+
+[SAMPLE 3130.0m LOG]
+Top Depth = 3130.000m
+Base Depth = 3130.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 62
+
+[SAMPLE 3160m CU]
+Base Depth = 3160.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 15
+
+[SAMPLE 3190m CU]
+Base Depth = 3190.000m
+Type = CU
+Created = 13-Aug-2013
+Modified = 13-Aug-2013
+Sample id = 16
+
+[SAMPLE 3220.0m LOG]
+Top Depth = 3220.000m
+Base Depth = 3220.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 63
+
+[SAMPLE 3250m CU]
+Base Depth = 3250.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 18
+
+[SAMPLE 3252.0m LOG]
+Top Depth = 3252.000m
+Base Depth = 3252.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 64
+
+[SAMPLE 3280m CU]
+Base Depth = 3280.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 19
+
+[SAMPLE 3280.0m LOG]
+Top Depth = 3280.000m
+Base Depth = 3280.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 65
+
+[SAMPLE 3310m CU]
+Base Depth = 3310.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 20
+
+[SAMPLE 3340.0m LOG]
+Top Depth = 3340.000m
+Base Depth = 3340.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 66
+
+[SAMPLE 3370m CU]
+Base Depth = 3370.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 22
+
+[SAMPLE 3372.0m LOG]
+Base Depth = 3372.000m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 51
+
+[SAMPLE 3400m CU]
+Base Depth = 3400.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 23
+
+[SAMPLE 3402.0m LOG]
+Base Depth = 3402.000m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 52
+
+[SAMPLE 3420m CU]
+Base Depth = 3420.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 24
+
+[SAMPLE 3428.5m LOG]
+Base Depth = 3428.500m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 44
+
+[SAMPLE 3430.0m LOG]
+Top Depth = 3430.000m
+Base Depth = 3430.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 67
+
+[SAMPLE 3440m CU]
+Base Depth = 3440.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 26
+
+[SAMPLE 3440.0m LOG]
+Top Depth = 3440.000m
+Base Depth = 3440.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 68
+
+[SAMPLE 3441.5m LOG]
+Base Depth = 3441.500m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 53
+
+[SAMPLE 3450m CU]
+Base Depth = 3450.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 27
+
+[SAMPLE 3470m CU]
+Base Depth = 3470.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 29
+
+[SAMPLE 3474.5m LOG]
+Base Depth = 3474.500m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 45
+
+[SAMPLE 3481m CU]
+Base Depth = 3481.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 30
+
+[SAMPLE 3490m CU]
+Base Depth = 3490.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 31
+
+[SAMPLE 3502.0m LOG]
+Top Depth = 3502.000m
+Base Depth = 3502.000m
+Type = LOG
+Created = 03-Oct-2013
+Modified = 03-Oct-2013
+Sample id = 69
+
+[SAMPLE 3511m CU]
+Base Depth = 3511.000m
+Type = CU
+Created = 16-Aug-2013
+Modified = 16-Aug-2013
+Sample id = 33
+
+[SAMPLE 3525.5m LOG]
+Base Depth = 3525.500m
+Type = LOG
+Created = 23-Sep-2013
+Modified = 23-Sep-2013
+Sample id = 46
+
+[BIOSTRATIGRAPHIC COMMENT 2590m CU]
+Discipline = Micropalaeontology
+Sample ID = 34
+Analyst = FOSSI
+Comment = Occurrence Reticulophragmium paupera, common sphaerosiderite
+
+[BIOSTRATIGRAPHIC COMMENT 2630m CU]
+Discipline = Micropalaeontology
+Sample ID = 36
+Analyst = FOSSI
+Comment = LSAO sphaerosiderite
+
+[BIOSTRATIGRAPHIC COMMENT 2670m CU]
+Discipline = Micropalaeontology
+Sample ID = 38
+Analyst = FOSSI
+Comment = OCC Cenodiscus lenticularis
+
+[BIOSTRATIGRAPHIC COMMENT 2730m CU]
+Discipline = Micropalaeontology
+Sample ID = 41
+Analyst = FOSSI
+Comment = LO Stensioeina beccariformis and Spiroplectammina spectabilis, increase abundant and diverse agglutinated foraminifera
+
+[BIOSTRATIGRAPHIC COMMENT 2750m CU]
+Discipline = Micropalaeontology
+Sample ID = 42
+Analyst = FOSSI
+Comment = LO Eoglobigerina trivialis, Ceonodiscus spp.
+
+[BIOSTRATIGRAPHIC COMMENT 2770m CU]
+Discipline = Micropalaeontology
+Sample ID = 1
+Analyst = FOSSI
+Comment = LO Globorotalia archeocompressa, reappearance Spiroplectammina spectabilis
+
+[BIOSTRATIGRAPHIC COMMENT 2830m CU]
+Discipline = Micropalaeontology
+Sample ID = 4
+Analyst = FOSSI
+Comment = LAO Rugoglobigerina rugosa
+
+[BIOSTRATIGRAPHIC COMMENT 2860m CU]
+Discipline = Micropalaeontology
+Sample ID = 5
+Analyst = FOSSI
+Comment = LFO Inoceramus prisms
+
+[BIOSTRATIGRAPHIC COMMENT 2950m CU]
+Discipline = Micropalaeontology
+Sample ID = 8
+Analyst = FOSSI
+Comment = Peak OCC Inoceramus prisms
+
+[BIOSTRATIGRAPHIC COMMENT 2980m CU]
+Discipline = Micropalaeontology
+Sample ID = 9
+Analyst = FOSSI
+Comment = LO red-stained microfossils, LO Dorothia trochoides
+
+[BIOSTRATIGRAPHIC COMMENT 3160m CU]
+Discipline = Micropalaeontology
+Sample ID = 15
+Analyst = FOSSI
+Comment = LO Cenosphaera spp.& Globotruncana spp.
+
+[BIOSTRATIGRAPHIC COMMENT 3250m CU]
+Discipline = Micropalaeontology
+Sample ID = 18
+Analyst = FOSSI
+Comment = Minor influx Globotruncana spp.
+
+[BIOSTRATIGRAPHIC COMMENT 3310m CU]
+Discipline = Micropalaeontology
+Sample ID = 20
+Analyst = FOSSI
+Comment = LCO agglutinated foraminifera
+
+[BIOSTRATIGRAPHIC COMMENT 3370m CU]
+Discipline = Micropalaeontology
+Sample ID = 22
+Analyst = FOSSI
+Comment = LO Dicarinella hagni, Praeglobotruncana spp.
+
+[BIOSTRATIGRAPHIC COMMENT 3400m CU]
+Discipline = Micropalaeontology
+Sample ID = 23
+Analyst = FOSSI
+Comment = LAO Hedbergella delrioensis
+
+[BIOSTRATIGRAPHIC COMMENT 3420m CU]
+Discipline = Micropalaeontology
+Sample ID = 24
+Analyst = FOSSI
+Comment = Samples from 3420m - 3490m heavily contaminated with Turonian cavings
+
+[BIOSTRATIGRAPHIC COMMENT 3450m CU]
+Discipline = Micropalaeontology
+Sample ID = 27
+Analyst = FOSSI
+Comment = LAO Hedbergella planispira
+
+[BIOSTRATIGRAPHIC COMMENT 3511m CU]
+Discipline = Micropalaeontology
+Sample ID = 33
+Analyst = FOSSI
+Comment = LO Falsogaudryinella praemoesiana. F. xenogena, Marssonella trochus and indet. smooth ostracod, influx Blefusciana aptica & Blefusciana aptiana (red)
+
+[BIOSTRATIGRAPHIC COMMENT 2770m CU]
+Discipline = Nannopalaeontology
+Sample ID = 1
+Analyst = FOSSI
+Comment = OCC common Pareaprinsius tenuiculus and abundant Praeprinsius dimorphosus. Reworked Late Cretaceous species.
+
+[BIOSTRATIGRAPHIC COMMENT 2830m CU]
+Discipline = Nannopalaeontology
+Sample ID = 4
+Analyst = FOSSI
+Comment = LO of in situ Arkhangelskiella spp.; Lucianorhabdus cayeuxii;  Micula staurophora; Prediscosphaera grandis. Caved Tertiary species.
+
+[BIOSTRATIGRAPHIC COMMENT 2860m CU]
+Discipline = Nannopalaeontology
+Sample ID = 5
+Analyst = FOSSI
+Comment = LCO Arkhangelskiella maastrichtiana; Micula staurophora; Micula swastica; Lucianorhabdus cayeuxii; LO Kamptnerius magnificus; Cribosphaeralla ehrenbergii
+
+[BIOSTRATIGRAPHIC COMMENT 2890m CU]
+Discipline = Nannopalaeontology
+Sample ID = 6
+Analyst = FOSSI
+Comment = OCC Cribosphaerella daniae
+
+[BIOSTRATIGRAPHIC COMMENT 3010m CU]
+Discipline = Nannopalaeontology
+Sample ID = 10
+Analyst = FOSSI
+Comment = LO Reinhardtites levis; Quadrum gartneri; consistent Watznaueria barnesiae
+
+[BIOSTRATIGRAPHIC COMMENT 3100m CU]
+Discipline = Nannopalaeontology
+Sample ID = 13
+Analyst = FOSSI
+Comment = LCO Reinhardtites levis; LO Reinhardtites anthophorus; Heteromarginatus bugensis
+
+[BIOSTRATIGRAPHIC COMMENT 3130m CU]
+Discipline = Nannopalaeontology
+Sample ID = 14
+Analyst = FOSSI
+Comment = LO Eiffellithus eximius; LCO Watznaueria barnesiae
+
+[BIOSTRATIGRAPHIC COMMENT 3190m CU]
+Discipline = Nannopalaeontology
+Sample ID = 16
+Analyst = FOSSI
+Comment = OCC ?Lithastrinus grillii
+
+[BIOSTRATIGRAPHIC COMMENT 3400m CU]
+Discipline = Nannopalaeontology
+Sample ID = 23
+Analyst = FOSSI
+Comment = LCO Eprolithus floralis; LO Eprolithus eptapetalus
+
+[BIOSTRATIGRAPHIC COMMENT 3420m CU]
+Discipline = Nannopalaeontology
+Sample ID = 24
+Analyst = FOSSI
+Comment = LO Rhagodiscus asper; LCO Tranolithus orionatus
+
+[BIOSTRATIGRAPHIC COMMENT 3440m CU]
+Discipline = Nannopalaeontology
+Sample ID = 26
+Analyst = FOSSI
+Comment = LCO Biscutum constans
+
+[BIOSTRATIGRAPHIC COMMENT 3450m CU]
+Discipline = Nannopalaeontology
+Sample ID = 27
+Analyst = FOSSI
+Comment = LO Gartnerago praeobliquum
+
+[BIOSTRATIGRAPHIC COMMENT 3470m CU]
+Discipline = Nannopalaeontology
+Sample ID = 29
+Analyst = FOSSI
+Comment = OCC Staurolithites angustus
+
+[BIOSTRATIGRAPHIC COMMENT 2590m CU]
+Discipline = Palynology
+Sample ID = 34
+Analyst = FOSSI
+Comment = OCC Thalassiphora `archa`; common Palaeocystodinium bulliforme; superabundant Areoligera coronata `complex`
+
+[BIOSTRATIGRAPHIC COMMENT 2610m CU]
+Discipline = Palynology
+Sample ID = 35
+Analyst = FOSSI
+Comment = OCC common Palaeocystodinium bulliforme; abundant Areoligera coronata `complex`
+
+[BIOSTRATIGRAPHIC COMMENT 2630m CU]
+Discipline = Palynology
+Sample ID = 36
+Analyst = FOSSI
+Comment = OCC abundant Cordosphaeridium gracile and superabundant Palaeoperidinium pyrophorum
+
+[BIOSTRATIGRAPHIC COMMENT 2650m CU]
+Discipline = Palynology
+Sample ID = 37
+Analyst = FOSSI
+Comment = OCC abundant Cordosphaeridium gracile and superabundant Palaeoperidinium pyrophorum
+
+[BIOSTRATIGRAPHIC COMMENT 2670m CU]
+Discipline = Palynology
+Sample ID = 38
+Analyst = FOSSI
+Comment = OCC Areoligera `constricta` and Spiniferites `runtata`
+
+[BIOSTRATIGRAPHIC COMMENT 2690m CU]
+Discipline = Palynology
+Sample ID = 39
+Analyst = FOSSI
+Comment = LO Spiniferites `magnifica`; Operculodinium `robustum`; OCC common Cerodinium speciosum speciosum and C. striatum
+
+[BIOSTRATIGRAPHIC COMMENT 2710m CU]
+Discipline = Palynology
+Sample ID = 40
+Analyst = FOSSI
+Comment = OCC common Palaeocystodinium lidiae; abundant Cerodinium speciosum speciosum
+
+[BIOSTRATIGRAPHIC COMMENT 2730m CU]
+Discipline = Palynology
+Sample ID = 41
+Analyst = FOSSI
+Comment = LCO Spiniferites `magnifica`; LFO Cerodinium diebelii; OCC abundant Operculodinium centrocarpum
+
+[BIOSTRATIGRAPHIC COMMENT 2750m CU]
+Discipline = Palynology
+Sample ID = 42
+Analyst = FOSSI
+Comment = LCO Alisocysta reticulata and Areoligera `constricta`
+
+[BIOSTRATIGRAPHIC COMMENT 2770m CU]
+Discipline = Palynology
+Sample ID = 1
+Analyst = FOSSI
+Comment = LAO Alisocysta reticulata and Areoligera `constricta`
+
+[BIOSTRATIGRAPHIC COMMENT 2810m CU]
+Discipline = Palynology
+Sample ID = 3
+Analyst = FOSSI
+Comment = LCO Pulchrasphaera minuscula; OCC Palynodinium `inflata` (Rw)
+
+[BIOSTRATIGRAPHIC COMMENT 2830m CU]
+Discipline = Palynology
+Sample ID = 4
+Analyst = FOSSI
+Comment = LFO Palynodinium grallator and Palynodinium `inflata`; OCC Spongodinium delitiense; Circulodinium distinctum; OCC Palaeohystrichophora infusorioides (Rw)
+
+[BIOSTRATIGRAPHIC COMMENT 2860m CU]
+Discipline = Palynology
+Sample ID = 5
+Analyst = FOSSI
+Comment = OCC Spongodinium delitiense and Senoniasphaera inornata; assemblage dominated by Tertiary caving
+
+[BIOSTRATIGRAPHIC COMMENT 2890m CU]
+Discipline = Palynology
+Sample ID = 6
+Analyst = FOSSI
+Comment = LO Imagidinium cristatum; assemblage dominated by Tertiary caving; poor recovery down to 3250m
+
+[BIOSTRATIGRAPHIC COMMENT 2950m CU]
+Discipline = Palynology
+Sample ID = 8
+Analyst = FOSSI
+Comment = OCC Imagidinium cristatum; poor recovery
+
+[BIOSTRATIGRAPHIC COMMENT 3070m CU]
+Discipline = Palynology
+Sample ID = 12
+Analyst = FOSSI
+Comment = LO Odontochitina costata; poor recovery
+
+[BIOSTRATIGRAPHIC COMMENT 3160m CU]
+Discipline = Palynology
+Sample ID = 15
+Analyst = FOSSI
+Comment = Assembalge dominated by SAO Palaeoperidinium pyrophorum
+
+[BIOSTRATIGRAPHIC COMMENT 3250m CU]
+Discipline = Palynology
+Sample ID = 18
+Analyst = FOSSI
+Comment = Assemblage dominated by caving
+
+[BIOSTRATIGRAPHIC COMMENT 3280m CU]
+Discipline = Palynology
+Sample ID = 19
+Analyst = FOSSI
+Comment = LAO Heterosphaeridium difficile; top influx SAO Surculosphaeridium longifurcatum; common Palaeohystrichophora infusorioides
+
+[BIOSTRATIGRAPHIC COMMENT 3310m CU]
+Discipline = Palynology
+Sample ID = 20
+Analyst = FOSSI
+Comment = OCC abundant Heterosphaeridium difficile
+
+[BIOSTRATIGRAPHIC COMMENT 3370m CU]
+Discipline = Palynology
+Sample ID = 22
+Analyst = FOSSI
+Comment = LCO Cyclonephelium compactum/membraniphorum; LAO Surculosphaeridium longifurcatum and Palaeohystrichophora infusorioides
+
+[BIOSTRATIGRAPHIC COMMENT 3400m CU]
+Discipline = Palynology
+Sample ID = 23
+Analyst = FOSSI
+Comment = LAO Cyclonephelium compactum/membraniphorum; abundant Surculosphaeridium longifurcatum and Palaeohystrichophora infusorioides
+
+[BIOSTRATIGRAPHIC COMMENT 3481m CU]
+Discipline = Palynology
+Sample ID = 30
+Analyst = FOSSI
+Comment = LO  Apteodinium grande and Litosphaeridium siphoniphorum
+
+[BIOSTRATIGRAPHIC COMMENT 3490m CU]
+Discipline = Palynology
+Sample ID = 31
+Analyst = FOSSI
+Comment = Top influx SAO Apteodinium grande (biozone K13.2.2)
+
+[INTERVAL 2590.00m - 2690.00m]
+Type = Chronostratigraphy
+Age = Late Paleocene
+  Scheme ID : 233
+  Top sample : 2590m CU
+  Base sample : 2690.0m LOG
+  Top sample ID : 34
+  Base sample ID : 54
+  Separator : -
+  Upper dictionary ID : 2651
+  Upper unit : Late Paleocene
+  Upper boundary : Possible
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2690.00m - 2819.00m]
+Type = Chronostratigraphy
+Age = Early Paleocene
+  Scheme ID : 233
+  Top sample : 2690.0m LOG
+  Base sample : 2819.0m LOG
+  Top sample ID : 54
+  Base sample ID : 43
+  Separator : -
+  Upper dictionary ID : 2750
+  Upper unit : Early Paleocene
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2819.00m - 2980.00m]
+Type = Chronostratigraphy
+Age = Late Maastrichtian
+  Scheme ID : 233
+  Top sample : 2819.0m LOG
+  Base sample : 2980m CU
+  Top sample ID : 43
+  Base sample ID : 9
+  Separator : -
+  Upper dictionary ID : 2002
+  Upper unit : Late Maastrichtian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2980.00m - 3100.00m]
+Type = Chronostratigraphy
+Age = Early Maastrichtian
+  Scheme ID : 233
+  Top sample : 2980m CU
+  Base sample : 3100.0m LOG
+  Top sample ID : 9
+  Base sample ID : 61
+  Separator : -
+  Upper dictionary ID : 2003
+  Upper unit : Early Maastrichtian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3100.00m - 3160.00m]
+Type = Chronostratigraphy
+Age = Early? - Late Campanian
+  Scheme ID : 233
+  Top sample : 3100.0m LOG
+  Base sample : 3160m CU
+  Top sample ID : 61
+  Base sample ID : 15
+  Separator : -
+  Upper unit : Early?
+  Lower dictionary ID : 2005
+  Lower unit : Late Campanian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3160.00m - 3250.00m]
+Type = Chronostratigraphy
+Age = Santonian
+  Scheme ID : 233
+  Top sample : 3160m CU
+  Base sample : 3250m CU
+  Top sample ID : 15
+  Base sample ID : 18
+  Separator : -
+  Upper dictionary ID : 2008
+  Upper unit : Santonian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3250.00m - 3280.00m]
+Type = Chronostratigraphy
+Age = Late Coniacian? - Early Santonian
+  Scheme ID : 233
+  Top sample : 3250m CU
+  Base sample : 3280.0m LOG
+  Top sample ID : 18
+  Base sample ID : 65
+  Separator : -
+  Upper unit : Late Coniacian?
+  Lower dictionary ID : 2011
+  Lower unit : Early Santonian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3280.00m - 3428.50m]
+Type = Chronostratigraphy
+Age = Cenomanian - Early Coniacian
+  Scheme ID : 233
+  Top sample : 3280.0m LOG
+  Base sample : 3428.5m LOG
+  Top sample ID : 65
+  Base sample ID : 44
+  Separator : -
+  Upper dictionary ID : 2020
+  Upper unit : Cenomanian
+  Lower dictionary ID : 2015
+  Lower unit : Early Coniacian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3428.50m - 3474.50m]
+Type = Chronostratigraphy
+Age = Late Albian
+  Scheme ID : 233
+  Top sample : 3428.5m LOG
+  Base sample : 3474.5m LOG
+  Top sample ID : 44
+  Base sample ID : 45
+  Separator : -
+  Upper dictionary ID : 2026
+  Upper unit : Late Albian
+  Upper boundary : Confident
+  Lower boundary : ?Unconformable
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3474.50m - 3511.00m]
+Type = Chronostratigraphy
+Age = E. Aptian - Barremian
+  Scheme ID : 233
+  Top sample : 3474.5m LOG
+  Base sample : 3511m CU
+  Top sample ID : 45
+  Base sample ID : 33
+  Separator : -
+  Upper dictionary ID : 2029
+  Upper informal unit : E. Aptian
+  Upper unit : Aptian
+  Lower dictionary ID : 2032
+  Lower unit : Barremian
+  Upper boundary : ?Unconformable
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3511.00m - 3525.50m]
+Type = Chronostratigraphy
+Age = Early Barremian
+  Scheme ID : 233
+  Top sample : 3511m CU
+  Base sample : 3525.5m LOG
+  Top sample ID : 33
+  Base sample ID : 46
+  Separator : -
+  Upper dictionary ID : 2034
+  Upper unit : Early Barremian
+  Upper boundary : Confident
+  Lower boundary : Unconformable
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2590.00m - 2670.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = T2.2 - T2.1
+  Scheme ID : 43
+  Top sample : 2590m CU
+  Base sample : 2670m CU
+  Top sample ID : 34
+  Base sample ID : 38
+  Separator : -
+  Upper dictionary ID : 2737
+  Upper unit : T2.2
+  Lower dictionary ID : 2738
+  Lower unit : T2.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2690.00m - 2709.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = T1.3
+  Scheme ID : 43
+  Top sample : 2690.0m LOG
+  Base sample : 2709.0m LOG
+  Top sample ID : 54
+  Base sample ID : 48
+  Separator : -
+  Upper dictionary ID : 2758
+  Upper unit : T1.3
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2730.00m - 2730.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = T1.2.2
+  Scheme ID : 43
+  Top sample : 2730m CU
+  Base sample : 2730m CU
+  Top sample ID : 41
+  Base sample ID : 41
+  Separator : -
+  Upper dictionary ID : 3056
+  Upper unit : T1.2.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2750.00m - 2770.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = T1.2.1
+  Scheme ID : 43
+  Top sample : 2750m CU
+  Base sample : 2770m CU
+  Top sample ID : 42
+  Base sample ID : 1
+  Separator : -
+  Upper dictionary ID : 2294
+  Upper unit : T1.2.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2800.00m - 2810.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = T1.1
+  Scheme ID : 43
+  Top sample : 2800.0m LOG
+  Base sample : 2810.0m LOG
+  Top sample ID : 55
+  Base sample ID : 56
+  Separator : -
+  Upper dictionary ID : 2489
+  Upper unit : T1.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2830.00m - 2920.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K26.2.2
+  Scheme ID : 43
+  Top sample : 2830m CU
+  Base sample : 2920.0m LOG
+  Top sample ID : 4
+  Base sample ID : 57
+  Separator : -
+  Upper dictionary ID : 3000
+  Upper unit : K26.2.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2950.00m - 2952.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K26.2.1/?26.1
+  Scheme ID : 43
+  Top sample : 2950m CU
+  Base sample : 2952.0m LOG
+  Top sample ID : 8
+  Base sample ID : 58
+  Separator : -
+  Upper unit : K26.2.1/?26.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 2980.00m - 3040.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K25
+  Scheme ID : 43
+  Top sample : 2980m CU
+  Base sample : 3040.0m LOG
+  Top sample ID : 9
+  Base sample ID : 59
+  Separator : -
+  Upper dictionary ID : 2460
+  Upper unit : K25
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3070.00m - 3072.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K25.1
+  Scheme ID : 43
+  Top sample : 3070.0m LOG
+  Base sample : 3072.0m LOG
+  Top sample ID : 60
+  Base sample ID : 50
+  Separator : -
+  Upper dictionary ID : 2835
+  Upper unit : K25.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3100.00m - 3100.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K24.2
+  Scheme ID : 43
+  Top sample : 3100.0m LOG
+  Base sample : 3100.0m LOG
+  Top sample ID : 61
+  Base sample ID : 61
+  Separator : -
+  Upper dictionary ID : 3053
+  Upper unit : K24.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3130.00m - 3130.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K24.1
+  Scheme ID : 43
+  Top sample : 3130.0m LOG
+  Base sample : 3130.0m LOG
+  Top sample ID : 62
+  Base sample ID : 62
+  Separator : -
+  Upper dictionary ID : 3057
+  Upper unit : K24.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3160.00m - 3220.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K22 - K21
+  Scheme ID : 43
+  Top sample : 3160m CU
+  Base sample : 3220.0m LOG
+  Top sample ID : 15
+  Base sample ID : 63
+  Separator : -
+  Upper dictionary ID : 2840
+  Upper unit : K22
+  Lower dictionary ID : 2577
+  Lower unit : K21
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3250.00m - 3252.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K21.1
+  Scheme ID : 43
+  Top sample : 3250m CU
+  Base sample : 3252.0m LOG
+  Top sample ID : 18
+  Base sample ID : 64
+  Separator : -
+  Upper dictionary ID : 2176
+  Upper unit : K21.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3280.00m - 3340.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K19.1 - K17
+  Scheme ID : 43
+  Top sample : 3280.0m LOG
+  Base sample : 3340.0m LOG
+  Top sample ID : 65
+  Base sample ID : 66
+  Separator : -
+  Upper dictionary ID : 2926
+  Upper unit : K19.1
+  Lower dictionary ID : 2530
+  Lower unit : K17
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3370.00m - 3372.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K17.1
+  Scheme ID : 43
+  Top sample : 3370m CU
+  Base sample : 3372.0m LOG
+  Top sample ID : 22
+  Base sample ID : 51
+  Separator : -
+  Upper dictionary ID : 3054
+  Upper unit : K17.1
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3400.00m - 3402.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K15.1.2
+  Scheme ID : 43
+  Top sample : 3400m CU
+  Base sample : 3402.0m LOG
+  Top sample ID : 23
+  Base sample ID : 52
+  Separator : -
+  Upper unit : K15.1.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3420.00m - 3430.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K14.2
+  Scheme ID : 43
+  Top sample : 3420m CU
+  Base sample : 3430.0m LOG
+  Top sample ID : 24
+  Base sample ID : 67
+  Separator : -
+  Upper dictionary ID : 2641
+  Upper unit : K14.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3440.00m - 3441.50m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K13.3
+  Scheme ID : 43
+  Top sample : 3440.0m LOG
+  Base sample : 3441.5m LOG
+  Top sample ID : 68
+  Base sample ID : 53
+  Separator : -
+  Upper dictionary ID : 2534
+  Upper unit : K13.3
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3450.00m - 3502.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K13.2 - K13.1.2
+  Scheme ID : 43
+  Top sample : 3450m CU
+  Base sample : 3502.0m LOG
+  Top sample ID : 27
+  Base sample ID : 69
+  Separator : -
+  Upper dictionary ID : 2535
+  Upper unit : K13.2
+  Lower dictionary ID : 2929
+  Lower unit : K13.1.2
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[INTERVAL 3511.00m - 3511.00m]
+Type = Biozone
+Biozone data = Ichron Limited Biozone (2012)
+Zone = K7.3 + (K8.1)
+  Scheme ID : 43
+  Top sample : 3511m CU
+  Base sample : 3511m CU
+  Top sample ID : 33
+  Base sample ID : 33
+  Separator : -
+  Upper dictionary ID : 2568
+  Upper informal unit : K7.3 + (K8.1)
+  Upper unit : K7.3
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 03-Oct-2013
+Modifier = FOSSI
+
+[END OF FILE]

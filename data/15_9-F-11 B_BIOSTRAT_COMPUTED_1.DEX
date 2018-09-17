@@ -1,0 +1,338 @@
+[PROLOG]
+File Format = DEX Paleo Data Exchange Format
+Software = StrataBugs v2.0
+Data prepared by = BioStrat Ltd.
+Location = Cumbria, UK
+Date Locale = C
+Date = 29-Aug-2014
+
+[Chronostratigraphy Scheme]
+Scheme name = Unassigned Chronostratigraphy
+Scheme ID : 20
+Number of units : 0
+
+
+[Biozones Scheme]
+Scheme name = Unassigned Panel 1
+Scheme ID : 22
+Discipline: Microfaunal
+Number of units : 0
+
+
+[Lithostratigraphy Scheme]
+Scheme name = Unassigned Lithostratigraphy
+Scheme ID : 19
+Number of units : 0
+
+
+[HEADER]
+Well Name = N15/9-F-11B
+Well Code = N1509F11B
+Operator = Statoil
+Field = Volve
+Country = NOCS
+Type = Borehole
+Units = metres
+Longitude = 0.0
+Latitude = 0.0
+Terminal depth = 5000.00m
+Depth Datum = RTE
+
+[SAMPLE 3351.0m LOG]
+Base Depth = 3351.000m
+Type = LOG
+Created = 01-Jan-2014
+Modified = 01-Jan-2014
+Sample id = 13
+
+[SAMPLE 3360m CU L92]
+Base Depth = 3360.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 2
+Label = L92
+
+[SAMPLE 3370m CU L91]
+Base Depth = 3370.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 3
+Label = L91
+
+[SAMPLE 3380m CU L93]
+Base Depth = 3380.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 12
+Label = L93
+
+[SAMPLE 3390m CU L94]
+Base Depth = 3390.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 5
+Label = L94
+
+[SAMPLE 3400m CU L95]
+Base Depth = 3400.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 4
+Label = L95
+
+[SAMPLE 3410m CU L96]
+Base Depth = 3410.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 6
+Label = L96
+
+[SAMPLE 3420m CU L97]
+Base Depth = 3420.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 7
+Label = L97
+
+[SAMPLE 3430m CU L98]
+Base Depth = 3430.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 8
+Label = L98
+
+[SAMPLE 3440m CU L99]
+Base Depth = 3440.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 9
+Label = L99
+
+[SAMPLE 3450m CU L100]
+Base Depth = 3450.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 10
+Label = L100
+
+[SAMPLE 3453.0m LOG]
+Base Depth = 3453.000m
+Type = LOG
+Created = 29-Aug-2014
+Modified = 29-Aug-2014
+Sample id = 15
+
+[SAMPLE 3460m CU L101]
+Base Depth = 3460.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 11
+Label = L101
+
+[SAMPLE 3467.5m LOG]
+Base Depth = 3467.500m
+Type = LOG
+Created = 01-Jan-2014
+Modified = 01-Jan-2014
+Sample id = 14
+
+[BIOSTRATIGRAPHIC COMMENT 3360m CU L92]
+Discipline = Palynology
+Sample ID = 2
+Analyst = BIOS
+Comment = R.aemula CMN, R.cladophora CMN, E.galeritum PRES.  Sparse in situ dinocysts. Cretaceous caving SA (mainly Late Albian).
+
+[BIOSTRATIGRAPHIC COMMENT 3370m CU L91]
+Discipline = Palynology
+Sample ID = 3
+Analyst = BIOS
+Comment = LAO R.aemula, LFO C.cerastes, LO Batiacasphaera sp. sensu BioStrat 1994, C.polonicum CMN, LCO E.galeritum, S.crystallinum FREQ. Rich & diverse open marine microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3380m CU L93]
+Discipline = Palynology
+Sample ID = 12
+Analyst = BIOS
+Comment = S. "scopa" PRES. Abundant & diverse dinocysts. Miospores & algal debris SA.
+
+[BIOSTRATIGRAPHIC COMMENT 3390m CU L94]
+Discipline = Palynology
+Sample ID = 5
+Analyst = BIOS
+Comment = Systematophora spp. FREQ-CMN, FO T.iunctispina? Rich & diverse open marine microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3400m CU L95]
+Discipline = Palynology
+Sample ID = 4
+Analyst = BIOS
+Comment = Abundant & diverse dinocysts. Batiacasphaera sp. sensu BioStrat 1994 CMN, Systematophora spp. CMN.
+
+[BIOSTRATIGRAPHIC COMMENT 3410m CU L96]
+Discipline = Palynology
+Sample ID = 6
+Analyst = BIOS
+Comment = FO L.mirabile, LO L.scarburghensis, Systematophora spp. CMN. Rich & diverse open marine microflora.
+
+[BIOSTRATIGRAPHIC COMMENT 3420m CU L97]
+Discipline = Palynology
+Sample ID = 7
+Analyst = BIOS
+Comment = LFO S. creberbarbatum. Callovian reworking CMN. LO ABT & diverse pteridophytes. Algal debris SA.
+
+[BIOSTRATIGRAPHIC COMMENT 3430m CU L98]
+Discipline = Palynology
+Sample ID = 8
+Analyst = BIOS
+Comment = Systematophora spp. PRES, FCO Batiacasphaera spp. (granulate), G.j.longicornis FREQ, LO S.creberbarbatum FREQ. Rich & diverse open marine microflora. Callovian reworking FREQ.
+
+[BIOSTRATIGRAPHIC COMMENT 3440m CU L99]
+Discipline = Palynology
+Sample ID = 9
+Analyst = BIOS
+Comment = LCO S.creberbarbatum, LO L.liesbergensis,  R.aemula ACME, LFO L.scarburghensis, FO Systematophora spp. FREQ/CMN, FFO G.j.longicornis
+
+[BIOSTRATIGRAPHIC COMMENT 3450m CU L100]
+Discipline = Palynology
+Sample ID = 10
+Analyst = BIOS
+Comment = LO G.centriconnata, Systematophora spp. CMN, L.scarburghensis FREQ, Wanaea sp. PRES, S.vestitum PRES/FREQ. Hugin reworking PRES?
+
+[BIOSTRATIGRAPHIC COMMENT 3460m CU L101]
+Discipline = Palynology
+Sample ID = 11
+Analyst = BIOS
+Comment = LCO S.vestitum, L.scarburghensis FREQ, W. acollaris? (or digitata) PRES?, L.liesbergensis PRES, Systematophora spp.? PRES?, P.paracalathus PRES. Very ABT & diverse pteridophytes.
+
+[INTERVAL 3360.00m - 3430.00m]
+Type = Chronostratigraphy
+Age = Mid Oxfordian
+  Scheme ID : 20
+  Top sample : 3360m CU L92
+  Base sample : 3430m CU L98
+  Top sample ID : 2
+  Base sample ID : 8
+  Separator : -
+  Upper unit : Mid Oxfordian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3440.00m - 3450.00m]
+Type = Chronostratigraphy
+Age = Early-Mid Oxfordian
+  Scheme ID : 20
+  Top sample : 3440m CU L99
+  Base sample : 3450m CU L100
+  Top sample ID : 9
+  Base sample ID : 10
+  Separator : -
+  Upper unit : Early-Mid Oxfordian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3460.00m - 3460.00m]
+Type = Chronostratigraphy
+Age = Late Callovian-Early Oxfordian
+  Scheme ID : 20
+  Top sample : 3460m CU L101
+  Base sample : 3460m CU L101
+  Top sample ID : 11
+  Base sample ID : 11
+  Separator : -
+  Upper unit : Late Callovian-Early Oxfordian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3360.00m - 3430.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ31
+  Scheme ID : 22
+  Top sample : 3360m CU L92
+  Base sample : 3430m CU L98
+  Top sample ID : 2
+  Base sample ID : 8
+  Separator : -
+  Upper unit : JZ31
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3440.00m - 3450.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ30-31
+  Scheme ID : 22
+  Top sample : 3440m CU L99
+  Base sample : 3450m CU L100
+  Top sample ID : 9
+  Base sample ID : 10
+  Separator : -
+  Upper unit : JZ30-31
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3460.00m - 3460.00m]
+Type = Biozone
+Biozone data = Unassigned Panel 1
+Zone = JZ27-30
+  Scheme ID : 22
+  Top sample : 3460m CU L101
+  Base sample : 3460m CU L101
+  Top sample ID : 11
+  Base sample ID : 11
+  Separator : -
+  Upper unit : JZ27-30
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 14-Nov-2013
+Modifier = BIOS
+
+[INTERVAL 3351.00m - 3467.50m]
+Type = Lithostratigraphy
+Formation = Heather
+  Scheme ID : 19
+  Top sample : 3351.0m LOG
+  Base sample : 3467.5m LOG
+  Top sample ID : 13
+  Base sample ID : 14
+  Separator : -
+  Upper unit : Heather
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 01-Jan-2014
+Modifier = BIOS
+
+[END OF FILE]

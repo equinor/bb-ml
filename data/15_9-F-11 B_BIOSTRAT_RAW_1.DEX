@@ -1,0 +1,5441 @@
+[PROLOG]
+File Format = DEX Paleo Data Exchange Format
+Software = StrataBugs v2.0
+Data prepared by = BioStrat Ltd.
+Location = Cumbria, UK
+Date Locale = C
+Date = 29-Aug-2014
+
+[HEADER]
+Well Name = N15/9-F-11B
+Well Code = N1509F11B
+Operator = Statoil
+Field = Volve
+Country = NOCS
+Type = Borehole
+Units = metres
+Longitude = 0.0
+Latitude = 0.0
+Terminal depth = 5000.00m
+Depth Datum = RTE
+
+[SAMPLE 3351.0m LOG]
+Base Depth = 3351.000m
+Type = LOG
+Created = 01-Jan-2014
+Modified = 01-Jan-2014
+Sample id = 13
+
+[SAMPLE 3360m CU L92]
+Base Depth = 3360.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 2
+Label = L92
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+Species = Ambonosphaera spp.
+  Code : DC
+  Species id : 8855
+  Species count : 1
+Species = Amphorulla spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 10784
+  Species count : 1
+  Sp Comment : h55
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 1
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 19
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Species count : 1
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 2
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 24
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 2
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 2
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 1
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 9
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Species count : 1
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Abundance : +
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 2
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 2
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 1
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 10
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 2
+Species = Epiplosphaera gochtii Fensome,R.A., 1979
+  Code : DC
+  Species id : 2647
+  Species count : 1
+Species = Epiplosphaera spp.
+  Code : DC
+  Species id : 8932
+  Species count : 1
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 2
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Species count : 1
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 6
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 3
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 1
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Species count : 2
+Species = Leptodinium mirabile Klement, 1960
+  Code : DC
+  Species id : 6940
+  Species count : 2
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Species count : 1
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 2
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 1
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 5
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Species count : 2
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 8
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 5
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 1
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 6
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 8
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Abundance : +
+Species = Staplinisporites telatus () Doring, 1965
+  Code : SP
+  Species id : 802
+  Species count : 1
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 1
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 1
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 1
+Species = Taeniophora iunctispina
+  Code : DC
+  Species id : 2659
+  Species count : 1
+  Sp Comment : h53
+Species = Vitreisporites pallidus, 1958
+  Code : PO
+  Species id : 7881
+  Abundance : +
+
+[SAMPLE 3370m CU L91]
+Base Depth = 3370.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 3
+Label = L91
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthaulax spp.
+  Code : DC
+  Species id : 8853
+  Species count : 1
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Batiacasphaera "microreticulata"
+  Code : DC
+  Qualifier : ?
+  Species id : 13308
+  Species count : 1
+  Sp Comment : b46
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 1
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 6
+Species = Biretisporites potonei
+  Code : SP
+  Species id : 201
+  Abundance : +
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 28
+Species = Bosedinia spp.
+  Code : AC
+  Species id : 9155
+  Species count : 2
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 2
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Abundance : +
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 12
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 2
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+  Code : DC
+  Species id : 1920
+  Species count : 4
+  Sp Comment : b51
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 5
+Species = Ctenidodinium spp.
+  Code : DC
+  Species id : 8910
+  Abundance : +
+Species = Ctenidodinium tenellum/stauromatos
+  Code : DC
+  Qualifier : Reworked
+  Species id : 12708
+  Abundance : +
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 9
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Species count : 1
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 1
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 3
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 15
+Species = Downiesphaeridium tribuliferum
+  Code : DC
+  Species id : 8894
+  Abundance : +
+Species = Durotrigia sp.W
+  Code : DC
+  Species id : 8929
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 6
+Species = Epiplosphaera gochtii Fensome,R.A., 1979
+  Code : DC
+  Species id : 2647
+  Species count : 1
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 1
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 7
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 2
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 7
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 2
+Species = Ischyosporites spp.
+  Code : SP
+  Species id : 10646
+  Abundance : +
+Species = Lecaniella spp.
+  Code : FB
+  Species id : 9162
+  Abundance : +
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Species count : 2
+Species = Lithodinia cf. planoseptata
+  Code : DC
+  Species id : 9907
+  Species count : 1
+  Sp Comment : b44
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Abundance : +
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : ABT
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 4
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 2
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Abundance : +
+Species = Neoraistrickia truncata Fensome (MS), 1983
+  Code : SP
+  Species id : 5038
+  Abundance : +
+Species = Orobodinium spp.
+  Code : DC
+  Species id : 9244
+  Species count : 1
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 4
+Species = Pilosidinium spp.
+  Code : DC
+  Species id : 13732
+  Species count : 1
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 2
+Species = Reutlingia spp.
+  Code : DC
+  Species id : 11811
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 25
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 26
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 5
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 4
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 7
+Species = Sirmiodiniopsis spp.
+  Code : DC
+  Species id : 11555
+  Species count : 1
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 2
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Abundance : +
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 2
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 2
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Abundance : +
+Species = Tubotuberella spp.
+  Code : DC
+  Species id : 10459
+  Abundance : +
+
+[SAMPLE 3380m CU L93]
+Base Depth = 3380.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 12
+Label = L93
+
+Discipline = P
+  Modified : 12-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = "Sangarelladinium" ? "ignotum"
+  Code : AL
+  Species id : 13780
+  Abundance : +
+Species = Acanthaulax spp.
+  Code : DC
+  Species id : 8853
+  Species count : 1
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : SA WITH CMN BRANCHLETS
+Species = Ambonosphaera staffinensis
+  Code : DC
+  Species id : 9216
+  Species count : 1
+Species = Arkellea teichophora
+  Code : DC
+  Species id : 8862
+  Species count : 1
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 1
+  Sp Comment : L36
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 3
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 30
+Species = Bosedinia spp.
+  Code : AC
+  Species id : 9155
+  Species count : 1
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Abundance : +
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 1
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cassiculosphaeridia spp.
+  Code : DC
+  Species id : 8883
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 13
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 1
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+  Code : DC
+  Species id : 1920
+  Species count : 1
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 3
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 2
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 9
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 2
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 1
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 12
+Species = Dissiliodinium spp. (microgranulate)
+  Code : DC
+  Species id : 12971
+  Abundance : +
+Species = Dissiliodinium spp.
+  Code : DC
+  Species id : 8915
+  Species count : 4
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Abundance : +
+Species = Durotrigia sp.W
+  Code : DC
+  Species id : 8929
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 6
+Species = Endoscrinium luridum Gocht, 1970
+  Code : DC
+  Species id : 3172
+  Abundance : +
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 1
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Species count : 1
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 6
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Gleicheniidites spp. () Lund,J.J., 1977
+  Code : SP
+  Species id : 9276
+  Species count : 1
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 2
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 8
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 2
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Abundance : +
+Species = Leiosphaeridia spp.
+  Code : AC
+  Species id : 1198
+  Species count : 1
+Species = Matonisporites spp.
+  Code : SP
+  Species id : 11307
+  Abundance : +
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 2
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : ABT
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 2
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 1
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Abundance : +
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 2
+Species = Pareodinia spp.
+  Code : DC
+  Species id : 9152
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 12
+Species = Pilosidinium spp.
+  Code : DC
+  Species id : 13732
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Abundance : +
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Species count : 1
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 13
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 23
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 4
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 1
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Species count : 1
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 13
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 1
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 1
+Species = Striatella spp.
+  Code : SP
+  Species id : 10922
+  Species count : 1
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3593
+  Species count : 1
+Species = Systematophora "scopa"
+  Code : DC
+  Species id : 10671
+  Abundance : +
+  Sp Comment : h38
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 2
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 3
+  Sp Comment : d52
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 3
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Abundance : +
+Species = Tubotuberella spp.
+  Code : DC
+  Species id : 10459
+  Species count : 2
+Species = Valensiella spp.
+  Code : DC
+  Species id : 9040
+  Species count : 2
+Species = Wanaea thysanota Woollam,R., 1982
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2639
+  Species count : 1
+
+[SAMPLE 3390m CU L94]
+Base Depth = 3390.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 5
+Label = L94
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Acanthaulax spp.
+  Code : DC
+  Species id : 8853
+  Species count : 2
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+Species = Ambonosphaera staffinensis
+  Code : DC
+  Species id : 9216
+  Abundance : +
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Atopodinium prostatum Drugg,W.S., 1978
+  Code : DC
+  Species id : 3435
+  Species count : 2
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 1
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 5
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 28
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 3
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Abundance : +
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Abundance : +
+  Sp Comment : o44
+Species = Cassiculosphaeridia spp.
+  Code : DC
+  Species id : 8883
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 13
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 1
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+  Code : DC
+  Species id : 1920
+  Species count : 2
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 2
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 1
+Species = Concavissimisporites rariverrucatus
+  Code : SP
+  Species id : 13412
+  Abundance : +
+Species = Ctenidodinium tenellum/stauromatos
+  Code : DC
+  Qualifier : Reworked
+  Species id : 12708
+  Abundance : +
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 7
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Species count : 1
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 1
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 1
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 17
+Species = Dissiliodinium globulus
+  Code : DC
+  Species id : 8920
+  Species count : 1
+Species = Durotrigia "reticulata"
+  Code : DC
+  Species id : 8926
+  Abundance : +
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 5
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 5
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+  Code : DC
+  Species id : 1657
+  Abundance : +
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 5
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 10
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Abundance : +
+Species = Leptodinium mirabile Klement, 1960
+  Code : DC
+  Species id : 6940
+  Abundance : +
+  Sp Comment : d44
+Species = Leptodinium spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8967
+  Species count : 2
+  Sp Comment : c47 elongate-deltoid
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Abundance : +
+Species = Lithodinia cf. planoseptata
+  Code : DC
+  Species id : 9907
+  Abundance : +
+Species = Lithodinia spp.
+  Code : DC
+  Species id : 8972
+  Species count : 1
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : ABT
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 2
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 3
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Species count : 1
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 10
+Species = Prasinophycaean algae spp.
+  Code : ALPR
+  Species id : 13909
+  Abundance : +
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Species count : 2
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 23
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 33
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 2
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Abundance : +
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 2
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Abundance : +
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 8
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 3
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Abundance : +
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 3
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 1
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 1
+Species = Taeniophora iunctispina
+  Code : DC
+  Qualifier : ?
+  Species id : 2659
+  Abundance : +
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Abundance : +
+
+[SAMPLE 3400m CU L95]
+Base Depth = 3400.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 4
+Label = L95
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "asperum"
+  Code : AL
+  Species id : 13810
+  Abundance : +
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (cystocarps)
+  Code : AL
+  Species id : 13942
+  Abundance : +
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (thalloid - fibrous)
+  Code : AL
+  Species id : 13925
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : abt
+Species = Algal cells? (carpospores?)
+  Code : AL
+  Species id : 13846
+  Abundance : +
+Species = Ambonosphaera spp.
+  Code : DC
+  Species id : 8855
+  Species count : 1
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Arkellea teichophora
+  Code : DC
+  Species id : 8862
+  Abundance : +
+Species = Atopodinium haromense Thomas,J.E. Cox,B.M., 1988
+  Code : DC
+  Species id : 3434
+  Abundance : +
+Species = Atopodinium prostatum Drugg,W.S., 1978
+  Code : DC
+  Species id : 3435
+  Species count : 1
+Species = Atopodinium spp.
+  Code : DC
+  Species id : 8864
+  Species count : 1
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 5
+  Sp Comment : e50/2, d42, h44
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 4
+Species = Biretisporites potonei
+  Code : SP
+  Species id : 201
+  Abundance : +
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 22
+Species = Botryococcus spp.
+  Code : FB
+  Species id : 9132
+  Species count : 1
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 2
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Abundance : +
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 12
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Abundance : +
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+  Code : DC
+  Species id : 1920
+  Species count : 2
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 1
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 1
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 16
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Species count : 1
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Abundance : +
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 2
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 1
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Abundance : +
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 2
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 16
+Species = Dissiliodinium globulus
+  Code : DC
+  Species id : 8920
+  Abundance : +
+Species = Dissiliodinium spp. (microgranulate)
+  Code : DC
+  Species id : 12971
+  Abundance : +
+Species = Dissiliodinium spp.
+  Code : DC
+  Species id : 8915
+  Abundance : +
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 4
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Abundance : +
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Abundance : +
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 3
+Species = Fromea tornatilis (Drugg), 1978
+  Code : AC
+  Qualifier : Reworked
+  Species id : 2583
+  Species count : 1
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Gleicheniidites spp. () Lund,J.J., 1977
+  Code : SP
+  Species id : 9276
+  Abundance : +
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+  Code : DC
+  Species id : 1657
+  Species count : 1
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 5
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 5
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 1
+Species = Granulatisporites spp.
+  Code : SP
+  Species id : 9116
+  Species count : 1
+Species = Ischyosporites marburghensis
+  Code : SP
+  Species id : 9080
+  Abundance : +
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Abundance : +
+Species = Lecaniella spp.
+  Code : FB
+  Species id : 9162
+  Species count : 1
+Species = Leptodinium spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8967
+  Abundance : +
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Abundance : +
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 4
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 4
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 3
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Species count : 2
+Species = Obtusisporis canadensis
+  Code : SP
+  Species id : 11770
+  Abundance : +
+Species = Orobodinium spp.
+  Code : DC
+  Species id : 9244
+  Species count : 1
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 2
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Qualifier : Reworked
+  Species id : 1988
+  Species count : 3
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 8
+Species = Prasinophycaean algae spp.
+  Code : ALPR
+  Species id : 13909
+  Abundance : +
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Abundance : +
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 14
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 24
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 4
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 2
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 2
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Abundance : +
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 10
+Species = Sentusidinium- Cleistosphaeridium transient
+  Code : DC
+  Species id : 11914
+  Species count : 1
+Species = Sestrosporites pseudoalveolatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 1740
+  Abundance : +
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 3
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Species count : 1
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 1
+Species = Stereisporites spp.
+  Code : SP
+  Species id : 9114
+  Abundance : +
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3593
+  Species count : 1
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 2
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 2
+  Sp Comment : k58
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 2
+Species = Todisporites spp.
+  Code : SP
+  Species id : 9090
+  Abundance : +
+Species = Tubotuberella cf. egemenii
+  Code : DC
+  Qualifier : ?
+  Species id : 10243
+  Abundance : +
+  Sp Comment : d36
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Species count : 1
+Species = Tubotuberella spp.
+  Code : DC
+  Species id : 10459
+  Abundance : +
+Species = Valensiella spp.
+  Code : DC
+  Species id : 9040
+  Species count : 1
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2635
+  Species count : 1
+  Sp Comment : d38
+
+[SAMPLE 3410m CU L96]
+Base Depth = 3410.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 6
+Label = L96
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (bricks)
+  Code : AL
+  Species id : 13912
+  Abundance : +
+Species = Algal cells (cups)
+  Code : AL
+  Species id : 13945
+  Abundance : +
+  Sp Comment : e38
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+Species = Apteodinium spp.
+  Code : DC
+  Species id : 8860
+  Abundance : +
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 4
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 3
+Species = Batiacasphaera spp.
+  Code : DC
+  Species id : 8868
+  Species count : 1
+Species = Bisaccates undiff.
+  Code : PO
+  Qualifier : ?
+  Species id : 9118
+  Species count : 1
+  Sp Comment : e34 spinate
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 23
+Species = Bosedinia spp. (granulate)
+  Code : AC
+  Species id : 13643
+  Species count : 1
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 1
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Abundance : +
+Species = Cassiculosphaeridia spp.
+  Code : DC
+  Species id : 8883
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 11
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 1
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 2
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Abundance : +
+Species = Conbaculatisporites mesozoicus Klaus, 1960
+  Code : SP
+  Species id : 8498
+  Abundance : +
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 11
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Abundance : +
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Abundance : +
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 2
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 14
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Species count : 1
+Species = Downiesphaeridium tribuliferum
+  Code : DC
+  Species id : 8894
+  Abundance : +
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 3
+Species = Endoscrinium luridum Gocht, 1970
+  Code : DC
+  Species id : 3172
+  Abundance : +
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Species count : 1
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 2
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Abundance : +
+Species = Evansia spp.
+  Code : DC
+  Species id : 8937
+  Abundance : +
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 6
+Species = Foveosporites moretonensis
+  Code : SP
+  Species id : 9110
+  Abundance : +
+Species = Gleicheniidites spp. () Lund,J.J., 1977
+  Code : SP
+  Species id : 9276
+  Abundance : +
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 4
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 6
+Species = Granulatisporites spp.
+  Code : SP
+  Species id : 9116
+  Abundance : +
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Species count : 1
+Species = Leptodinium mirabile Klement, 1960
+  Code : DC
+  Species id : 6940
+  Abundance : +
+  Sp Comment : p55
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+  Code : DC
+  Species id : 7922
+  Species count : 2
+  Sp Comment : L54
+Species = Lithodinia spp.
+  Code : DC
+  Species id : 8972
+  Abundance : +
+Species = Matonisporites ? sp.1
+  Code : SP
+  Qualifier : Reworked
+  Species id : 11742
+  Species count : 1
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 2
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 2
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 2
+Species = Obtusisporis canadensis
+  Code : SP
+  Species id : 11770
+  Abundance : +
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 3
+Species = Paragonyaulacysta cf. calloviensis
+  Code : DC
+  Species id : 9003
+  Abundance : +
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Qualifier : Reworked
+  Species id : 1988
+  Abundance : +
+Species = Pareodinia spp.
+  Code : DC
+  Species id : 9152
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 13
+Species = Pilosidinium echinatum
+  Code : DC
+  Species id : 13733
+  Abundance : +
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2158
+  Abundance : +
+Species = Prasinophycaean algae spp.
+  Code : ALPR
+  Qualifier : ?
+  Species id : 13909
+  Abundance : +
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Abundance : +
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 17
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 30
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 5
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 2
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Abundance : +
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 11
+Species = Sentusidinium- Cleistosphaeridium transient
+  Code : DC
+  Species id : 11914
+  Species count : 1
+Species = Sestrosporites pseudoalveolatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 1740
+  Abundance : +
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 1
+Species = Staplinisporites telatus () Doring, 1965
+  Code : SP
+  Species id : 802
+  Abundance : +
+Species = Stephanelytron cf. tabulophorum
+  Code : DC
+  Species id : 10617
+  Species count : 1
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 1
+Species = Stephanelytron scarburghense
+  Code : DC
+  Species id : 8041
+  Abundance : +
+Species = Striatella seeburghensis
+  Code : SP
+  Species id : 9086
+  Abundance : +
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3593
+  Species count : 2
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 2
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 2
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 4
+Species = Todisporites spp.
+  Code : SP
+  Species id : 9090
+  Species count : 1
+Species = Verrucosisporites spp.
+  Code : SP
+  Species id : 10766
+  Abundance : +
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2635
+  Species count : 1
+  Sp Comment : o61
+Species = Wanaea spp.
+  Code : DC
+  Qualifier : Reworked
+  Qualifier : ?
+  Species id : 9247
+  Species count : 2
+  Sp Comment : j49
+Species = Wanaea thysanota Woollam,R., 1982
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2639
+  Species count : 1
+  Sp Comment : q56
+
+[SAMPLE 3420m CU L97]
+Base Depth = 3420.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 7
+Label = L97
+
+Discipline = P
+  Modified : 29-Aug-2014
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = "Sangarelladinium" ? "ignotum"
+  Code : AL
+  Species id : 13780
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Abundance : +
+Species = Algal cells (convolute)
+  Code : AL
+  Species id : 13863
+  Abundance : +
+  Sp Comment : LO
+Species = Algal cells (cups)
+  Code : AL
+  Species id : 13945
+  Abundance : +
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (sutures)
+  Code : AL
+  Species id : 13905
+  Abundance : +
+  Sp Comment : LO
+Species = Algal cells (thalloid - fibrous)
+  Code : AL
+  Species id : 13925
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : SA, including large thallus frags ABT
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Abundance : +
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 1
+Species = Batiacasphaera spp. (scabrate)
+  Code : DC
+  Species id : 10876
+  Species count : 1
+Species = Batiacasphaera spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8868
+  Species count : 1
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 17
+Species = Bosedinia spp.
+  Code : AC
+  Species id : 9155
+  Species count : 2
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Abundance : +
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 3
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Abundance : +
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 16
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 2
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 1
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 2
+Species = Couperisporites jurassicus
+  Code : SP
+  Species id : 8488
+  Abundance : +
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 17
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Abundance : +
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Abundance : +
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Abundance : +
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Abundance : +
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 6
+Species = Dissiliodinium spp.
+  Code : DC
+  Species id : 8915
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 2
+Species = Epiplosphaera spp.
+  Code : DC
+  Species id : 8932
+  Species count : 1
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 2
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Abundance : +
+Species = Evansia spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8937
+  Species count : 1
+  Sp Comment : large, smooth d40
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 4
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 1
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 5
+Species = Granulatisporites spp.
+  Code : SP
+  Species id : 9116
+  Abundance : +
+Species = Ischyosporites marburghensis
+  Code : SP
+  Species id : 9080
+  Abundance : +
+Species = Kallosphaeridium cf. nigeriaense
+  Code : DC
+  Qualifier : Reworked
+  Species id : 9154
+  Species count : 4
+  Sp Comment : j32
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Species count : 2
+Species = Leiosphaeridia spp.
+  Code : AC
+  Species id : 1198
+  Species count : 1
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+  Code : DC
+  Species id : 7922
+  Abundance : +
+  Sp Comment : d51 frag
+Species = Matonisporites ? sp.1
+  Code : SP
+  Species id : 11742
+  Species count : 1
+Species = Matonisporites phlebopteroides
+  Code : SP
+  Species id : 10786
+  Abundance : +
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 5
+Species = Mendicodinium spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 1135
+  Species count : 2
+  Sp Comment : d34, f51
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : CMN
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 3
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 3
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Abundance : +
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 4
+Species = Pareodinia ceratophora ssp. A
+  Code : DC
+  Qualifier : Reworked
+  Species id : 10416
+  Abundance : +
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Qualifier : Reworked
+  Species id : 1988
+  Species count : 4
+Species = Pareodinia spp.
+  Code : DC
+  Species id : 9152
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 16
+Species = Pilosidinium echinatum
+  Code : DC
+  Species id : 13733
+  Species count : 1
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2158
+  Species count : 3
+  Sp Comment : j61
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Abundance : +
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Abundance : +
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 9
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 19
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 2
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 1
+Species = Sentusidinium cf. sparsibarbatum
+  Code : DC
+  Species id : 13443
+  Species count : 2
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 3
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 12
+  Sp Comment : k36
+Species = Sentusidinium- Cleistosphaeridium transient
+  Code : DC
+  Species id : 11914
+  Species count : 1
+Species = Sestrosporites pseudoalveolatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 1740
+  Abundance : +
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Abundance : +
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Species count : 1
+Species = Staplinisporites telatus () Doring, 1965
+  Code : SP
+  Species id : 802
+  Abundance : +
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 1
+Species = Striatella "triangulata"
+  Code : SP
+  Species id : 13667
+  Abundance : +
+Species = Striatella spp.
+  Code : SP
+  Species id : 10922
+  Abundance : +
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3593
+  Abundance : +
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 3
+  Sp Comment : j53
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 1
+Species = Todisporites spp.
+  Code : SP
+  Species id : 9090
+  Species count : 1
+Species = Tuberositriletes "horridus"
+  Code : SP
+  Species id : 9984
+  Abundance : +
+Species = Tubotuberella eisenackii oligodentata (Cook. & Eis. 1958)Stov. & Ev., 1978
+  Code : DC
+  Species id : 3385
+  Species count : 1
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Species count : 3
+Species = Tubotuberella spp.
+  Code : DC
+  Species id : 10459
+  Species count : 1
+Species = Vitreisporites pallidus, 1958
+  Code : PO
+  Species id : 7881
+  Abundance : +
+Species = Wanaea acollaris Dodekova,L., 1975
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2640
+  Species count : 6
+  Sp Comment : j43, j38
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2635
+  Species count : 2
+  Sp Comment : e45/2
+Species = Wanaea spp.
+  Code : DC
+  Qualifier : Reworked
+  Species id : 9247
+  Species count : 1
+  Sp Comment : k41 prob acollaris type
+
+[SAMPLE 3430m CU L98]
+Base Depth = 3430.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 8
+Label = L98
+
+Discipline = P
+  Modified : 13-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Keiodiscus" spp.
+  Code : AC
+  Qualifier : Reworked
+  Species id : 11299
+  Abundance : +
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : SA
+Species = Ambonosphaera spp.
+  Code : DC
+  Species id : 8855
+  Species count : 1
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 2
+Species = Atopodinium spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8864
+  Abundance : +
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 6
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 16
+Species = Botryococcus spp.
+  Code : FB
+  Species id : 9132
+  Abundance : +
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 2
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Species count : 1
+Species = Callialasporites segmentatus () Cornet & Traverse, 1975
+  Code : PO
+  Species id : 803
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 1
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 10
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 2
+Species = Chlamydophorella spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8885
+  Abundance : +
+  Sp Comment : shiney
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 3
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 12
+Species = Cyst indet (bulbose)
+  Code : AC
+  Species id : 13930
+  Abundance : +
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Abundance : +
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Species count : 1
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Abundance : +
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 1
+Species = Dingodinium harsveldtii
+  Code : DC
+  Species id : 11303
+  Species count : 1
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 21
+Species = Dissiliodinium globulus
+  Code : DC
+  Species id : 8920
+  Species count : 1
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Abundance : +
+Species = Durotrigia sp.W
+  Code : DC
+  Species id : 8929
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 1
+Species = Epiplosphaera gochtii Fensome,R.A., 1979
+  Code : DC
+  Species id : 2647
+  Abundance : +
+Species = Epiplosphaera spp.
+  Code : DC
+  Species id : 8932
+  Abundance : +
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Species count : 2
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 4
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+  Code : DC
+  Species id : 1657
+  Species count : 1
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 3
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 9
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 2
+Species = Kallosphaeridium cf. nigeriaense
+  Code : DC
+  Qualifier : Reworked
+  Species id : 9154
+  Species count : 3
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Abundance : +
+Species = Lecaniella spp.
+  Code : FB
+  Species id : 9162
+  Species count : 1
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Species count : 1
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 2
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : cmn
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 3
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 1
+Species = Obtusisporis canadensis
+  Code : SP
+  Species id : 11770
+  Abundance : +
+Species = Orobodinium automobile
+  Code : DC
+  Species id : 9243
+  Species count : 1
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 3
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 9
+Species = Pilosidinium echinatum
+  Code : DC
+  Species id : 13733
+  Species count : 1
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2158
+  Abundance : +
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 2
+Species = Prolixosphaeridium mixtispinosum Davey,R.J., 1969
+  Code : DC
+  Species id : 3296
+  Species count : 1
+  Sp Comment : L36
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Species count : 2
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Reutlingia spp.
+  Code : DC
+  Species id : 11811
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 12
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 34
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 2
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 1
+Species = Sentusidinium cf. sparsibarbatum
+  Code : DC
+  Species id : 13443
+  Species count : 1
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 4
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Species count : 2
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 17
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 3
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3593
+  Species count : 1
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 2
+  Sp Comment : f35, m57
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 1
+Species = Tasmanites spp.
+  Code : AL
+  Species id : 1289
+  Species count : 1
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Species count : 1
+Species = Tubotuberella spp.
+  Code : DC
+  Species id : 10459
+  Species count : 1
+Species = Vitreisporites pallidus, 1958
+  Code : PO
+  Species id : 7881
+  Species count : 1
+
+[SAMPLE 3440m CU L99]
+Base Depth = 3440.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 9
+Label = L99
+
+Discipline = P
+  Modified : 13-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthaulax spp.
+  Code : DC
+  Species id : 8853
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 2
+  Sp Comment : freq
+Species = Algal cells (cups)
+  Code : AL
+  Species id : 13945
+  Abundance : +
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : abt
+Species = Apteodinium spp.
+  Code : DC
+  Species id : 8860
+  Abundance : +
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Species count : 1
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 3
+Species = Belodinium asaphum
+  Code : DC
+  Species id : 8880
+  Abundance : +
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 20
+Species = Bosedinia spp. (granulate)
+  Code : AC
+  Species id : 13643
+  Abundance : +
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 1
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Species count : 1
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 13
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Species count : 2
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 1
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+  Code : DC
+  Species id : 3443
+  Species count : 3
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 11
+Species = Cyst indet (bulbose)
+  Code : AC
+  Species id : 13930
+  Species count : 1
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Abundance : +
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 2
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 1
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Species count : 1
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Abundance : +
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 18
+Species = Dissiliodinium fragile
+  Code : DC
+  Species id : 8996
+  Abundance : +
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Species count : 2
+Species = Downiesphaeridium tribuliferum
+  Code : DC
+  Species id : 8894
+  Abundance : +
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 1
+Species = Endoscrinium spp.
+  Code : DC
+  Species id : 8933
+  Abundance : +
+Species = Epiplosphaera spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8932
+  Abundance : +
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 1
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 3
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+  Code : DC
+  Species id : 1657
+  Abundance : +
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 4
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 7
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Abundance : +
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Abundance : +
+Species = Leiosphaeridia spp.
+  Code : AC
+  Species id : 1198
+  Species count : 1
+Species = Leptodinium spp.
+  Code : DC
+  Species id : 8967
+  Abundance : +
+Species = Liesbergia liesbergensis
+  Code : DC
+  Species id : 13946
+  Abundance : +
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+  Code : DC
+  Species id : 7922
+  Species count : 3
+  Sp Comment : f55
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Abundance : +
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 4
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 1
+Species = Nannoceratopsis pellucida Deflandre, 1938
+  Code : DC
+  Species id : 2110
+  Abundance : +
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 4
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Species id : 1988
+  Species count : 2
+Species = Pareodinia procerchagrinata
+  Code : DC
+  Qualifier : Reworked
+  Species id : 11297
+  Abundance : +
+  Sp Comment : k40
+Species = Pareodinia spp.
+  Code : DC
+  Species id : 9152
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 9
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Species count : 1
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Abundance : +
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 17
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 40
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 2
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 3
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 8
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Species count : 2
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 13
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Abundance : +
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Abundance : +
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Species count : 1
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Species id : 3593
+  Species count : 2
+  Sp Comment : e39
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 1
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 2
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 1
+Species = Tubotuberella dangeardii Stover,L.E. Evitt,W.R., 1978
+  Code : DC
+  Species id : 3383
+  Abundance : +
+Species = Wanaea acollaris Dodekova,L., 1975
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2640
+  Abundance : +
+  Sp Comment : p33
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2635
+  Species count : 1
+Species = Wanaea spp.
+  Code : DC
+  Species id : 9247
+  Species count : 1
+
+[SAMPLE 3450m CU L100]
+Base Depth = 3450.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 10
+Label = L100
+
+Discipline = P
+  Modified : 13-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Algal cells (cups)
+  Code : AL
+  Species id : 13945
+  Abundance : +
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+Species = Algal cells (thalloid - fibrous)
+  Code : AL
+  Species id : 13925
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Abundance : +
+Species = Arkellea teichophora
+  Code : DC
+  Species id : 8862
+  Abundance : +
+Species = Atopodinium haromense Thomas,J.E. Cox,B.M., 1988
+  Code : DC
+  Species id : 3434
+  Abundance : +
+Species = Batiacasphaera sp. sensu BioStrat1994
+  Code : DC
+  Species id : 13944
+  Species count : 1
+  Sp Comment : j60
+Species = Belodinium asaphum
+  Code : DC
+  Species id : 8880
+  Abundance : +
+Species = Biretisporites potonei
+  Code : SP
+  Species id : 201
+  Abundance : +
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 10
+Species = Bosedinia spp.
+  Code : AC
+  Species id : 9155
+  Abundance : +
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Abundance : +
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Abundance : +
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Species count : 1
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3131
+  Species count : 2
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 9
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Abundance : +
+Species = Chlamydophorella spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 8885
+  Species count : 1
+  Sp Comment : e41
+Species = Chlamydophorella spp.
+  Code : DC
+  Species id : 8885
+  Species count : 1
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+  Code : DC
+  Species id : 1919
+  Species count : 2
+Species = Cibotiumspora juriensis
+  Code : SP
+  Species id : 9108
+  Abundance : +
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Species count : 2
+Species = Ctenidodinium spp.
+  Code : DC
+  Species id : 8910
+  Abundance : +
+Species = Ctenidodinium tenellum/stauromatos
+  Code : DC
+  Qualifier : Reworked
+  Species id : 12708
+  Species count : 2
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 21
+Species = Cyclopsiella spp.
+  Code : AC
+  Species id : 9063
+  Abundance : +
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Species count : 2
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Species count : 1
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 1
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 1
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Abundance : +
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 2
+Species = Dingodinium harsveldtii
+  Code : DC
+  Species id : 11303
+  Abundance : +
+  Sp Comment : e49
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 14
+Species = Dissiliodinium globulus
+  Code : DC
+  Species id : 8920
+  Species count : 2
+Species = Dissiliodinium spp. (microgranulate)
+  Code : DC
+  Species id : 12971
+  Species count : 1
+Species = Dissiliodinium spp.
+  Code : DC
+  Species id : 8915
+  Species count : 1
+Species = Downiesphaeridium tribuliferum
+  Code : DC
+  Species id : 8894
+  Species count : 1
+Species = Durotrigia "reticulata"
+  Code : DC
+  Qualifier : Reworked
+  Species id : 8926
+  Species count : 1
+Species = Durotrigia sp.W
+  Code : DC
+  Species id : 8929
+  Species count : 1
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 1
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Species count : 1
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Species count : 3
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+  Code : PO
+  Species id : 29
+  Species count : 1
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 7
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Gleicheniidites spp. () Lund,J.J., 1977
+  Code : SP
+  Species id : 9276
+  Abundance : +
+Species = Gonyaulacysta centriconnata Riding,J.B., 1983
+  Code : DC
+  Species id : 1654
+  Abundance : +
+  Sp Comment : e52
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+  Code : DC
+  Species id : 1657
+  Species count : 1
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 2
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 8
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 2
+Species = Granulatisporites spp.
+  Code : SP
+  Species id : 9116
+  Abundance : +
+Species = Ischyosporites "latimuris"
+  Code : SP
+  Species id : 10659
+  Abundance : +
+Species = Ischyosporites marburghensis
+  Code : SP
+  Species id : 9080
+  Abundance : +
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Species count : 1
+Species = Lecaniella spp.
+  Code : FB
+  Species id : 9162
+  Species count : 1
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+  Code : DC
+  Species id : 7922
+  Species count : 4
+  Sp Comment : frags
+Species = Matonisporites equiexinus Couper, 1958
+  Code : SP
+  Species id : 8236
+  Species count : 1
+Species = Matonisporites spp.
+  Code : SP
+  Species id : 11307
+  Abundance : +
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Qualifier : Reworked
+  Species id : 3511
+  Species count : 4
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+  Sp Comment : freq-cmn
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 5
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 3
+Species = Neoraistrickia truncata Fensome (MS), 1983
+  Code : SP
+  Species id : 5038
+  Abundance : +
+Species = Orobodinium automobile
+  Code : DC
+  Species id : 9243
+  Abundance : +
+  Sp Comment : d63
+Species = Orobodinium spp.
+  Code : DC
+  Species id : 9244
+  Abundance : +
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 5
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Species id : 1988
+  Species count : 2
+Species = Pareodinia prolongata Sarjeant, 1959
+  Code : DC
+  Species id : 1992
+  Abundance : +
+Species = Pareodinia spp.
+  Code : DC
+  Species id : 9152
+  Species count : 1
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 9
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+  Code : DC
+  Qualifier : Reworked
+  Species id : 2158
+  Species count : 3
+  Sp Comment : d59, g37
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Species count : 1
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Abundance : +
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 11
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 22
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 2
+Species = Scriniodinium cf. crystallinum
+  Code : DC
+  Species id : 9921
+  Abundance : +
+Species = Scriniodinium crystallinum () Eisenack, 1964
+  Code : DC
+  Species id : 1690
+  Species count : 2
+Species = Sentusidinium cf. sparsibarbatum
+  Code : DC
+  Species id : 13443
+  Abundance : +
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 5
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Species count : 1
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 12
+Species = Sentusidinium- Cleistosphaeridium transient
+  Code : DC
+  Species id : 11914
+  Abundance : +
+Species = Sentusidinium? "elongatum"
+  Code : DC
+  Qualifier : ?
+  Species id : 13677
+  Abundance : +
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Abundance : +
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Abundance : +
+Species = Staplinisporites telatus () Doring, 1965
+  Code : SP
+  Species id : 802
+  Abundance : +
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Abundance : +
+Species = Stereisporites spp.
+  Code : SP
+  Species id : 9114
+  Species count : 1
+Species = Striatella spp.
+  Code : SP
+  Species id : 10922
+  Abundance : +
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Species id : 3593
+  Species count : 3
+Species = Systematophora areolata Klement, 1960
+  Code : DC
+  Species id : 2142
+  Species count : 2
+  Sp Comment : k53
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Species id : 2144
+  Species count : 2
+  Sp Comment : h46, h37
+Species = Systematophora spp.
+  Code : DC
+  Species id : 9033
+  Species count : 2
+  Sp Comment : f52
+Species = Tasmanites spp.
+  Code : AL
+  Species id : 1289
+  Abundance : +
+Species = Todisporites spp.
+  Code : SP
+  Species id : 9090
+  Abundance : +
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Species count : 1
+Species = Valensiella spp.
+  Code : DC
+  Species id : 9040
+  Abundance : +
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Species id : 2635
+  Species count : 1
+Species = Wanaea spp.
+  Code : DC
+  Species id : 9247
+  Species count : 2
+  Sp Comment : e33
+Species = Wanaea thysanota Woollam,R., 1982
+  Code : DC
+  Species id : 2639
+  Species count : 1
+  Sp Comment : k48
+
+[SAMPLE 3453.0m LOG]
+Base Depth = 3453.000m
+Type = LOG
+Created = 29-Aug-2014
+Modified = 29-Aug-2014
+Sample id = 15
+
+[SAMPLE 3460m CU L101]
+Base Depth = 3460.000m
+Type = CU
+Created = 11-Nov-2013
+Modified = 11-Nov-2013
+Sample id = 11
+Label = L101
+
+Discipline = P
+  Modified : 14-Nov-2013
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Cibotiumspora juriensis
+  Code : SP
+  Species id : 9108
+  Abundance : +
+Species = Cyathidites spp.
+  Code : SP
+  Species id : 9105
+  Species count : 24
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+  Code : PO
+  Species id : 790
+  Species count : 10
+Species = Exesipollenites spp.
+  Code : PO
+  Species id : 9137
+  Species count : 2
+Species = Classopollis torosus
+  Code : PO
+  Species id : 9076
+  Abundance : +
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 7
+Species = Sentusidinium spp.
+  Code : DC
+  Species id : 9153
+  Species count : 10
+Species = Cerebropollenites thiergartii Schulz,E., 1967
+  Code : PO
+  Qualifier : Reworked
+  Species id : 789
+  Abundance : +
+Species = Perinopollenites elatoides Jain,K.P., 1968
+  Code : PO
+  Species id : 7886
+  Species count : 17
+Species = Spores indet.
+  Code : SP
+  Species id : 9112
+  Species count : 1
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+  Code : DC
+  Species id : 3131
+  Species count : 1
+  Sp Comment : c59
+Species = Osmundacidites spp.
+  Code : SP
+  Species id : 9143
+  Species count : 7
+Species = Todisporites spp.
+  Code : SP
+  Species id : 9090
+  Species count : 1
+Species = Mendicodinium groenlandicum Davey, 1979
+  Code : DC
+  Species id : 3511
+  Species count : 4
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+  Code : SP
+  Species id : 97
+  Abundance : +
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : PO
+  Species id : 812
+  Species count : 1
+Species = Monosulcites spp.
+  Code : PO
+  Species id : 320
+  Species count : 1
+Species = Eucommiidites spp.
+  Code : PO
+  Species id : 10755
+  Abundance : +
+Species = Eucommiidites minor Groot & Penny, 1960
+  Code : PO
+  Species id : 31
+  Abundance : +
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+  Code : DC
+  Species id : 1648
+  Species count : 6
+Species = Kallosphaeridium spp.
+  Code : DC
+  Species id : 1145
+  Species count : 2
+Species = Callialasporites turbatus Schulz,E., 1967
+  Code : PO
+  Species id : 807
+  Species count : 1
+Species = Callialasporites spp.
+  Code : PO
+  Species id : 9073
+  Abundance : +
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+  Code : SP
+  Species id : 3017
+  Species count : 2
+Species = Staplinisporites telatus () Doring, 1965
+  Code : SP
+  Species id : 802
+  Species count : 1
+Species = Acanthomorph acritarchs (sphaeroidal)
+  Code : AC
+  Species id : 13535
+  Species count : 1
+Species = Cyst indet (split)
+  Code : AC
+  Species id : 13913
+  Species count : 1
+Species = Leiosphaeridia spp.
+  Code : AC
+  Species id : 1198
+  Species count : 1
+Species = Microforamifera (rotalid)
+  Code : AC
+  Species id : 9165
+  Abundance : +
+Species = Algal cells (undifferentiated)
+  Code : AL
+  Species id : 13975
+  Abundance : +
+  Sp Comment : SA
+Species = "Sangarelladinium" "confusum"
+  Code : AL
+  Species id : 13814
+  Abundance : +
+Species = Algal cells (ribbed)
+  Code : AL
+  Species id : 13862
+  Abundance : +
+  Sp Comment : cmn
+Species = Algal cells (cups)
+  Code : AL
+  Species id : 13945
+  Abundance : +
+  Sp Comment : freq?
+Species = Neoraistrickia spp.
+  Code : SP
+  Qualifier : ?
+  Species id : 9098
+  Abundance : +
+Species = Liesbergia liesbergensis
+  Code : DC
+  Species id : 13946
+  Species count : 1
+  Sp Comment : b56
+Species = Retitriletes semimuris
+  Code : SP
+  Species id : 9102
+  Abundance : +
+Species = Uvaesporites argenteaeformis () Schulz, 1967
+  Code : SP
+  Species id : 800
+  Abundance : +
+Species = Prolixosphaeridium spp.
+  Code : DC
+  Species id : 11877
+  Abundance : +
+  Sp Comment : o57
+Species = Tasmanites spp.
+  Code : AL
+  Species id : 1289
+  Abundance : +
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+  Code : DC
+  Species id : 2635
+  Abundance : +
+Species = Botryococcus spp.
+  Code : FB
+  Species id : 9132
+  Abundance : +
+Species = Wanaea cf. clathrata
+  Code : DC
+  Species id : 13908
+  Abundance : +
+  Sp Comment : q34/2
+Species = Callialasporites microvelatus Schulz, 1966
+  Code : PO
+  Species id : 806
+  Species count : 1
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 150
+  Species count : 4
+Species = Araucariacidites australis
+  Code : PO
+  Species id : 7296
+  Abundance : +
+Species = Dissiliodinium spp.
+  Code : DC
+  Species id : 8915
+  Species count : 2
+Species = Dictyophyllidites harrisii Couper, 1958
+  Code : SP
+  Species id : 8270
+  Species count : 2
+Species = Dictyophyllidites spp.
+  Code : SP
+  Species id : 11323
+  Species count : 3
+Species = Misc. palynomorphs Count 1
+  Code : MP
+  Species id : 10620
+  Species count : 3
+Species = Dinocysts Count 1
+  Code : MP
+  Species id : 10525
+  Species count : 7
+Species = Algal cells (petaloid, undifferentiated)
+  Code : AL
+  Species id : 13917
+  Abundance : +
+  Sp Comment : cmn
+Species = Pareodinia ceratophora Deflandre, 1947
+  Code : DC
+  Species id : 1988
+  Abundance : +
+Species = Retitriletes spp.
+  Code : SP
+  Species id : 9099
+  Species count : 1
+Species = Rigaudella aemula Below, 1982
+  Code : DC
+  Species id : 3302
+  Species count : 15
+Species = Algal cells (thalloid - Type 1)
+  Code : AL
+  Species id : 13829
+  Abundance : +
+Species = Granulatisporites spp.
+  Code : SP
+  Species id : 9116
+  Abundance : +
+Species = Dictyophyllidites mortoni
+  Code : SP
+  Species id : 13138
+  Abundance : +
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+  Code : DC
+  Species id : 7922
+  Species count : 5
+Species = Rhynchodiniopsis cladophora Below, 1981
+  Code : DC
+  Species id : 2589
+  Species count : 13
+Species = Ischyosporites "latimuris"
+  Code : SP
+  Species id : 10659
+  Abundance : +
+Species = Algal cells (skolochorate)
+  Code : AL
+  Species id : 13845
+  Abundance : +
+Species = Sentusidinium cf. sparsibarbatum
+  Code : DC
+  Species id : 13443
+  Species count : 1
+Species = Downiesphaeridium iaculigerum
+  Code : DC
+  Species id : 8893
+  Species count : 2
+Species = "Sangarelladinium" "asperum"
+  Code : AL
+  Species id : 13810
+  Abundance : +
+Species = Callialasporites segmentatus () Cornet & Traverse, 1975
+  Code : PO
+  Species id : 803
+  Abundance : +
+Species = Bosedinia spp. (granulate)
+  Code : AC
+  Species id : 13643
+  Abundance : +
+Species = Algal cells (bricks)
+  Code : AL
+  Species id : 13912
+  Species count : 1
+Species = Systematophora fasciculigera Klement,K.W., 1960
+  Code : DC
+  Qualifier : ?
+  Species id : 2144
+  Species count : 2
+  Sp Comment : d61, o54
+Species = Ctenidodinium tenellum/stauromatos
+  Code : DC
+  Qualifier : Reworked
+  Species id : 12708
+  Species count : 1
+Species = Stephanelytron spp.
+  Code : DC
+  Species id : 9031
+  Species count : 1
+Species = Matonisporites phlebopteroides
+  Code : SP
+  Species id : 10786
+  Abundance : +
+Species = Systematophora spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 9033
+  Species count : 2
+  Sp Comment : e55
+Species = Rigaudella filamentosa () Below,R., 1982
+  Code : DC
+  Species id : 3303
+  Species count : 4
+Species = Polystephanephorus spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 9015
+  Species count : 1
+Species = Matonisporites ? sp.1
+  Code : SP
+  Species id : 11742
+  Species count : 1
+Species = Surculosphaeridium vestitum Davey, 1966
+  Code : DC
+  Species id : 3593
+  Species count : 7
+Species = Striatella "triangulata"
+  Code : SP
+  Species id : 13667
+  Abundance : +
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+  Code : DC
+  Species id : 3170
+  Species count : 3
+Species = Matonisporites equiexinus Couper, 1958
+  Code : SP
+  Species id : 8236
+  Species count : 2
+Species = Convolutispora klukiforma
+  Code : SP
+  Species id : 12450
+  Abundance : +
+Species = Downiesphaeridium tribuliferum
+  Code : DC
+  Species id : 8894
+  Abundance : +
+Species = Cyclopsiella "fragile"
+  Code : AC
+  Qualifier : ?
+  Species id : 13316
+  Species count : 1
+Species = Pristinuspollenites spp.
+  Code : PO
+  Species id : 8743
+  Abundance : +
+Species = cf. Vitreisporites spp.
+  Code : PO
+  Species id : 13779
+  Abundance : +
+Species = Vitreisporites pallidus, 1958
+  Code : PO
+  Species id : 7881
+  Abundance : +
+Species = Cyst indet.
+  Code : AC
+  Species id : 9617
+  Abundance : +
+Species = "Sangarelladinium" ? "ignotum"
+  Code : AL
+  Species id : 13780
+  Abundance : +
+Species = "Sangarelladinium" spp.
+  Code : AL
+  Species id : 13813
+  Abundance : +
+Species = Kallosphaeridium spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 1145
+  Species count : 1
+  Sp Comment : dense hairs
+Species = Matonisporites spp.
+  Code : SP
+  Species id : 11307
+  Species count : 1
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+  Code : DC
+  Species id : 3310
+  Species count : 4
+Species = Sentusidinium? "elongatum"
+  Code : DC
+  Qualifier : ?
+  Species id : 13677
+  Abundance : +
+Species = Ischyosporites spp.
+  Code : SP
+  Species id : 10646
+  Abundance : +
+Species = Ischyosporites marburghensis
+  Code : SP
+  Species id : 9080
+  Abundance : +
+Species = Dissiliodinium spp. (microgranulate)
+  Code : DC
+  Species id : 12971
+  Species count : 1
+Species = Stephanelytron scarburghense
+  Code : DC
+  Species id : 8041
+  Species count : 1
+Species = Sirmiodiniopsis spp.
+  Code : DC
+  Qualifier : ?
+  Species id : 11555
+  Abundance : +
+  Sp Comment : g41
+Species = Sentusidinium sparsibarbatum
+  Code : DC
+  Species id : 3311
+  Species count : 1
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+  Code : PO
+  Species id : 813
+  Abundance : +
+Species = Sestrosporites pseudoalveolatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+  Code : SP
+  Species id : 1740
+  Abundance : +
+Species = Striatella spp.
+  Code : SP
+  Species id : 10922
+  Abundance : +
+Species = Wanaea acollaris Dodekova,L., 1975
+  Code : DC
+  Species id : 2640
+  Species count : 1
+  Sp Comment : g45
+Species = Kallosphaeridium cf. nigeriaense
+  Code : DC
+  Species id : 9154
+  Abundance : +
+Species = Tubotuberella eisenackii
+  Code : DC
+  Species id : 3379
+  Species count : 2
+Species = Algal cells (convolute)
+  Code : AL
+  Species id : 13863
+  Abundance : +
+Species = Spirotaenia spp.
+  Code : FB
+  Species id : 13816
+  Species count : 1
+  Sp Comment : h60
+Species = Antulsporites spp.
+  Code : SP
+  Species id : 8775
+  Abundance : +
+Species = Durotrigia "reticulata"
+  Code : DC
+  Species id : 8926
+  Species count : 1
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+  Code : DC
+  Species id : 1920
+  Abundance : +
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+  Code : DC
+  Species id : 2158
+  Species count : 1
+  Sp Comment : j45
+Species = Durotrigia spp.
+  Code : DC
+  Species id : 9150
+  Species count : 2
+Species = Batiacasphaera spp. (granulate)
+  Code : DC
+  Species id : 9200
+  Species count : 2
+Species = Gonyaulacysta spp.
+  Code : DC
+  Species id : 8952
+  Species count : 2
+Species = Sirmiodinium grossii Alberti, 1961
+  Code : DC
+  Species id : 2687
+  Species count : 1
+Species = Stephanelytron redcliffense
+  Code : DC
+  Species id : 9029
+  Abundance : +
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+  Code : DC
+  Species id : 1659
+  Species count : 1
+
+[SAMPLE 3467.5m LOG]
+Base Depth = 3467.500m
+Type = LOG
+Created = 01-Jan-2014
+Modified = 01-Jan-2014
+Sample id = 14
+
+[SPECIES LIST]
+Species = Acanthaulax spp.
+   ID : 8853
+   Category : DC
+   Genus : Acanthaulax
+   Species : spp.
+
+Species = Acanthomorph acritarchs (sphaeroidal)
+   ID : 13535
+   Category : AC
+   Genus : Acanthomorph
+   Species : acritarchs (sphaeroidal)
+
+Species = Algal cells (bricks)
+   ID : 13912
+   Category : AL
+   Genus : Algal cells
+   Species : (bricks)
+
+Species = Algal cells (convolute)
+   ID : 13863
+   Category : AL
+   Genus : Algal cells
+   Species : (convolute)
+
+Species = Algal cells (cups)
+   ID : 13945
+   Category : AL
+   Genus : Algal cells
+   Species : (cups)
+
+Species = Algal cells (cystocarps)
+   ID : 13942
+   Category : AL
+   Genus : Algal cells
+   Species : (cystocarps)
+
+Species = Algal cells (petaloid, undifferentiated)
+   ID : 13917
+   Category : AL
+   Genus : Algal cells
+   Species : (petaloid, undifferentiated)
+
+Species = Algal cells (ribbed)
+   ID : 13862
+   Category : AL
+   Genus : Algal cells
+   Species : (ribbed)
+
+Species = Algal cells (skolochorate)
+   ID : 13845
+   Category : AL
+   Genus : Algal cells
+   Species : (skolochorate)
+
+Species = Algal cells (sutures)
+   ID : 13905
+   Category : AL
+   Genus : Algal cells
+   Species : (sutures)
+
+Species = Algal cells (thalloid - fibrous)
+   ID : 13925
+   Category : AL
+   Genus : Algal cells
+   Species : (thalloid - fibrous)
+
+Species = Algal cells (thalloid - Type 1)
+   ID : 13829
+   Category : AL
+   Genus : Algal cells
+   Species : (thalloid - Type 1)
+
+Species = Algal cells (undifferentiated)
+   ID : 13975
+   Category : AL
+   Genus : Algal cells
+   Species : (undifferentiated)
+
+Species = Algal cells? (carpospores?)
+   ID : 13846
+   Category : AL
+   Genus : Algal cells
+   Post-Genus qualifier : ?
+   Species : (carpospores?)
+
+Species = Ambonosphaera spp.
+   ID : 8855
+   Category : DC
+   Genus : Ambonosphaera
+   Species : spp.
+
+Species = Ambonosphaera staffinensis
+   ID : 9216
+   Category : DC
+   Genus : Ambonosphaera
+   Species : staffinensis
+
+Species = Amphorulla spp.
+   ID : 10784
+   Category : DC
+   Genus : Amphorulla
+   Species : spp.
+
+Species = Antulsporites spp.
+   ID : 8775
+   Category : SP
+   Genus : Antulsporites
+   Species : spp.
+
+Species = Apteodinium spp.
+   ID : 8860
+   Category : DC
+   Genus : Apteodinium
+   Species : spp.
+
+Species = Araucariacidites australis
+   ID : 7296
+   Category : PO
+   Genus : Araucariacidites
+   Species : australis
+
+Species = Arkellea teichophora
+   ID : 8862
+   Category : DC
+   Genus : Arkellea
+   Species : teichophora
+
+Species = Atopodinium haromense Thomas,J.E. Cox,B.M., 1988
+   ID : 3434
+   Category : DC
+   Genus : Atopodinium
+   Species : haromense
+   Author : Thomas,J.E. Cox,B.M.
+   Year : 1988
+
+Species = Atopodinium prostatum Drugg,W.S., 1978
+   ID : 3435
+   Category : DC
+   Genus : Atopodinium
+   Species : prostatum
+   Author : Drugg,W.S.
+   Year : 1978
+
+Species = Atopodinium spp.
+   ID : 8864
+   Category : DC
+   Genus : Atopodinium
+   Species : spp.
+
+Species = Batiacasphaera "microreticulata"
+   ID : 13308
+   Category : DC
+   Genus : Batiacasphaera
+   Pre-Species qualifier : "
+   Species : microreticulata
+   Post-Species qualifier : "
+
+Species = Batiacasphaera sp. sensu BioStrat1994
+   ID : 13944
+   Category : DC
+   Genus : Batiacasphaera
+   Species : sp. sensu BioStrat1994
+
+Species = Batiacasphaera spp.
+   ID : 8868
+   Category : DC
+   Genus : Batiacasphaera
+   Species : spp.
+
+Species = Batiacasphaera spp. (granulate)
+   ID : 9200
+   Category : DC
+   Genus : Batiacasphaera
+   Species : spp. (granulate)
+
+Species = Batiacasphaera spp. (scabrate)
+   ID : 10876
+   Category : DC
+   Genus : Batiacasphaera
+   Species : spp. (scabrate)
+
+Species = Belodinium asaphum
+   ID : 8880
+   Category : DC
+   Genus : Belodinium
+   Species : asaphum
+
+Species = Biretisporites potonei
+   ID : 201
+   Category : SP
+   Genus : Biretisporites
+   Species : potonei
+
+Species = Bisaccates undiff.
+   ID : 9118
+   Category : PO
+   Genus : Bisaccates
+   Species : undiff.
+
+Species = Bosedinia spp.
+   ID : 9155
+   Category : AC
+   Genus : Bosedinia
+   Species : spp.
+
+Species = Bosedinia spp. (granulate)
+   ID : 13643
+   Category : AC
+   Genus : Bosedinia
+   Species : spp. (granulate)
+
+Species = Botryococcus spp.
+   ID : 9132
+   Category : FB
+   Genus : Botryococcus
+   Species : spp.
+
+Species = Callialasporites dampieri Kherngrin,G.F.V. Khlonova,A.F, 1983
+   ID : 812
+   Category : PO
+   Genus : Callialasporites
+   Species : dampieri
+   Author : Kherngrin,G.F.V. Khlonova,A.F
+   Year : 1983
+
+Species = Callialasporites microvelatus Schulz, 1966
+   ID : 806
+   Category : PO
+   Genus : Callialasporites
+   Species : microvelatus
+   Author : Schulz
+   Year : 1966
+
+Species = Callialasporites segmentatus () Cornet & Traverse, 1975
+   ID : 803
+   Category : PO
+   Genus : Callialasporites
+   Species : segmentatus
+   Author : () Cornet & Traverse
+   Year : 1975
+
+Species = Callialasporites spp.
+   ID : 9073
+   Category : PO
+   Genus : Callialasporites
+   Species : spp.
+
+Species = Callialasporites trilobatus Archangelsky,S. Baldoni,A.M., 1983
+   ID : 813
+   Category : PO
+   Genus : Callialasporites
+   Species : trilobatus
+   Author : Archangelsky,S. Baldoni,A.M.
+   Year : 1983
+
+Species = Callialasporites turbatus Schulz,E., 1967
+   ID : 807
+   Category : PO
+   Genus : Callialasporites
+   Species : turbatus
+   Author : Schulz,E.
+   Year : 1967
+
+Species = Cassiculosphaeridia dictydia () Riley,L.A. Fenton,J.P.G., 1980
+   ID : 3131
+   Category : DC
+   Genus : Cassiculosphaeridia
+   Species : dictydia
+   Author : () Riley,L.A. Fenton,J.P.G.
+   Year : 1980
+
+Species = Cassiculosphaeridia spp.
+   ID : 8883
+   Category : DC
+   Genus : Cassiculosphaeridia
+   Species : spp.
+
+Species = Cerebropollenites macroverrucosus Schulz,E., 1967
+   ID : 790
+   Category : PO
+   Genus : Cerebropollenites
+   Species : macroverrucosus
+   Author : Schulz,E.
+   Year : 1967
+
+Species = Cerebropollenites thiergartii Schulz,E., 1967
+   ID : 789
+   Category : PO
+   Genus : Cerebropollenites
+   Species : thiergartii
+   Author : Schulz,E.
+   Year : 1967
+
+Species = Chlamydophorella spp.
+   ID : 8885
+   Category : DC
+   Genus : Chlamydophorella
+   Species : spp.
+
+Species = Chytroeisphaeridia cerastes Davey,R.J., 1979
+   ID : 1920
+   Category : DC
+   Genus : Chytroeisphaeridia
+   Species : cerastes
+   Author : Davey,R.J.
+   Year : 1979
+
+Species = Chytroeisphaeridia chytroeides Norvick & Burger, 1975
+   ID : 1919
+   Category : DC
+   Genus : Chytroeisphaeridia
+   Species : chytroeides
+   Author : Norvick & Burger
+   Year : 1975
+
+Species = Cibotiumspora juriensis
+   ID : 9108
+   Category : SP
+   Genus : Cibotiumspora
+   Species : juriensis
+
+Species = Classopollis torosus
+   ID : 9076
+   Category : PO
+   Genus : Classopollis
+   Species : torosus
+
+Species = Compositosphaeridium polonicum Erkmen,U., 1980
+   ID : 3443
+   Category : DC
+   Genus : Compositosphaeridium
+   Species : polonicum
+   Author : Erkmen,U.
+   Year : 1980
+
+Species = Conbaculatisporites mesozoicus Klaus, 1960
+   ID : 8498
+   Category : SP
+   Genus : Conbaculatisporites
+   Species : mesozoicus
+   Author : Klaus
+   Year : 1960
+
+Species = Concavissimisporites rariverrucatus
+   ID : 13412
+   Category : SP
+   Genus : Concavissimisporites
+   Species : rariverrucatus
+
+Species = Convolutispora klukiforma
+   ID : 12450
+   Category : SP
+   Genus : Convolutispora
+   Species : klukiforma
+
+Species = Couperisporites jurassicus
+   ID : 8488
+   Category : SP
+   Genus : Couperisporites
+   Species : jurassicus
+
+Species = Ctenidodinium spp.
+   ID : 8910
+   Category : DC
+   Genus : Ctenidodinium
+   Species : spp.
+
+Species = Ctenidodinium tenellum/stauromatos
+   ID : 12708
+   Category : DC
+   Genus : Ctenidodinium
+   Species : tenellum/stauromatos
+
+Species = Cyathidites spp.
+   ID : 9105
+   Category : SP
+   Genus : Cyathidites
+   Species : spp.
+
+Species = Cyclopsiella "fragile"
+   ID : 13316
+   Category : AC
+   Genus : Cyclopsiella
+   Pre-Species qualifier : "
+   Species : fragile
+   Post-Species qualifier : "
+
+Species = Cyclopsiella spp.
+   ID : 9063
+   Category : AC
+   Genus : Cyclopsiella
+   Species : spp.
+
+Species = Cyst indet.
+   ID : 9617
+   Category : AC
+   Genus : Cyst
+   Species : indet.
+
+Species = Cyst indet (bulbose)
+   ID : 13930
+   Category : AC
+   Genus : Cyst indet
+   Species : (bulbose)
+
+Species = Cyst indet (split)
+   ID : 13913
+   Category : AC
+   Genus : Cyst indet
+   Species : (split)
+
+Species = Densoisporites velatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+   ID : 150
+   Category : SP
+   Genus : Densoisporites
+   Species : velatus
+   Author : Kherngrin,G.F.V. Khlonova,A.F
+   Year : 1983
+
+Species = Dictyophyllidites harrisii Couper, 1958
+   ID : 8270
+   Category : SP
+   Genus : Dictyophyllidites
+   Species : harrisii
+   Author : Couper
+   Year : 1958
+
+Species = Dictyophyllidites mortoni
+   ID : 13138
+   Category : SP
+   Genus : Dictyophyllidites
+   Species : mortoni
+
+Species = Dictyophyllidites spp.
+   ID : 11323
+   Category : SP
+   Genus : Dictyophyllidites
+   Species : spp.
+
+Species = Dingodinium harsveldtii
+   ID : 11303
+   Category : DC
+   Genus : Dingodinium
+   Species : harsveldtii
+
+Species = Dinocysts Count 1
+   ID : 10525
+   Category : MP
+   Genus : Dinocysts
+   Species : Count 1
+
+Species = Dissiliodinium fragile
+   ID : 8996
+   Category : DC
+   Genus : Dissiliodinium
+   Species : fragile
+
+Species = Dissiliodinium globulus
+   ID : 8920
+   Category : DC
+   Genus : Dissiliodinium
+   Species : globulus
+
+Species = Dissiliodinium spp.
+   ID : 8915
+   Category : DC
+   Genus : Dissiliodinium
+   Species : spp.
+
+Species = Dissiliodinium spp. (microgranulate)
+   ID : 12971
+   Category : DC
+   Genus : Dissiliodinium
+   Species : spp. (microgranulate)
+
+Species = Downiesphaeridium iaculigerum
+   ID : 8893
+   Category : DC
+   Genus : Downiesphaeridium
+   Species : iaculigerum
+
+Species = Downiesphaeridium tribuliferum
+   ID : 8894
+   Category : DC
+   Genus : Downiesphaeridium
+   Species : tribuliferum
+
+Species = Durotrigia "reticulata"
+   ID : 8926
+   Category : DC
+   Genus : Durotrigia
+   Pre-Species qualifier : "
+   Species : reticulata
+   Post-Species qualifier : "
+
+Species = Durotrigia sp.W
+   ID : 8929
+   Category : DC
+   Genus : Durotrigia
+   Species : sp.W
+
+Species = Durotrigia spp.
+   ID : 9150
+   Category : DC
+   Genus : Durotrigia
+   Species : spp.
+
+Species = Endoscrinium galeritum Lentin,J.K. Williams,G.L., 1973
+   ID : 3170
+   Category : DC
+   Genus : Endoscrinium
+   Species : galeritum
+   Author : Lentin,J.K. Williams,G.L.
+   Year : 1973
+
+Species = Endoscrinium luridum Gocht, 1970
+   ID : 3172
+   Category : DC
+   Genus : Endoscrinium
+   Species : luridum
+   Author : Gocht
+   Year : 1970
+
+Species = Endoscrinium spp.
+   ID : 8933
+   Category : DC
+   Genus : Endoscrinium
+   Species : spp.
+
+Species = Epiplosphaera gochtii Fensome,R.A., 1979
+   ID : 2647
+   Category : DC
+   Genus : Epiplosphaera
+   Species : gochtii
+   Author : Fensome,R.A.
+   Year : 1979
+
+Species = Epiplosphaera spp.
+   ID : 8932
+   Category : DC
+   Genus : Epiplosphaera
+   Species : spp.
+
+Species = Eucommiidites minor Groot & Penny, 1960
+   ID : 31
+   Category : PO
+   Genus : Eucommiidites
+   Species : minor
+   Author : Groot & Penny
+   Year : 1960
+
+Species = Eucommiidites spp.
+   ID : 10755
+   Category : PO
+   Genus : Eucommiidites
+   Species : spp.
+
+Species = Eucommiidites troedssonii Fensome (MS), 1983
+   ID : 29
+   Category : PO
+   Genus : Eucommiidites
+   Species : troedssonii
+   Author : Fensome (MS)
+   Year : 1983
+
+Species = Evansia spp.
+   ID : 8937
+   Category : DC
+   Genus : Evansia
+   Species : spp.
+
+Species = Exesipollenites spp.
+   ID : 9137
+   Category : PO
+   Genus : Exesipollenites
+   Species : spp.
+
+Species = Foveosporites moretonensis
+   ID : 9110
+   Category : SP
+   Genus : Foveosporites
+   Species : moretonensis
+
+Species = Fromea tornatilis (Drugg), 1978
+   ID : 2583
+   Category : AC
+   Genus : Fromea
+   Species : tornatilis
+   Author : (Drugg)
+   Year : 1978
+
+Species = Gleicheniidites senonicus Ross,N.E., 1949
+   ID : 97
+   Category : SP
+   Genus : Gleicheniidites
+   Species : senonicus
+   Author : Ross,N.E.
+   Year : 1949
+
+Species = Gleicheniidites spp. () Lund,J.J., 1977
+   ID : 9276
+   Category : SP
+   Genus : Gleicheniidites
+   Species : spp.
+   Author : () Lund,J.J.
+   Year : 1977
+
+Species = Gonyaulacysta centriconnata Riding,J.B., 1983
+   ID : 1654
+   Category : DC
+   Genus : Gonyaulacysta
+   Species : centriconnata
+   Author : Riding,J.B.
+   Year : 1983
+
+Species = Gonyaulacysta cretacea ()Sarj. In Davey,Downie et al., 1969
+   ID : 1657
+   Category : DC
+   Genus : Gonyaulacysta
+   Species : cretacea
+   Author : ()Sarj. In Davey,Downie et al.
+   Year : 1969
+
+Species = Gonyaulacysta jurassica Norris & Sarjeant, 1965
+   ID : 1648
+   Category : DC
+   Genus : Gonyaulacysta
+   Species : jurassica
+   Author : Norris & Sarjeant
+   Year : 1965
+
+Species = Gonyaulacysta jurassica longicornis (Deflandre), 1938
+   ID : 1659
+   Category : DC
+   Genus : Gonyaulacysta
+   Species : jurassica
+   Subspecies : longicornis
+   Author : (Deflandre)
+   Year : 1938
+
+Species = Gonyaulacysta spp.
+   ID : 8952
+   Category : DC
+   Genus : Gonyaulacysta
+   Species : spp.
+
+Species = Granulatisporites spp.
+   ID : 9116
+   Category : SP
+   Genus : Granulatisporites
+   Species : spp.
+
+Species = Ischyosporites "latimuris"
+   ID : 10659
+   Category : SP
+   Genus : Ischyosporites
+   Pre-Species qualifier : "
+   Species : latimuris
+   Post-Species qualifier : "
+
+Species = Ischyosporites marburghensis
+   ID : 9080
+   Category : SP
+   Genus : Ischyosporites
+   Species : marburghensis
+
+Species = Ischyosporites spp.
+   ID : 10646
+   Category : SP
+   Genus : Ischyosporites
+   Species : spp.
+
+Species = Kallosphaeridium cf. nigeriaense
+   ID : 9154
+   Category : DC
+   Genus : Kallosphaeridium
+   Pre-Species qualifier : cf.
+   Species : nigeriaense
+
+Species = Kallosphaeridium spp.
+   ID : 1145
+   Category : DC
+   Genus : Kallosphaeridium
+   Species : spp.
+
+Species = "Keiodiscus" spp.
+   ID : 11299
+   Category : AC
+   Pre-Genus qualifier : "
+   Genus : Keiodiscus
+   Post-Genus qualifier : "
+   Species : spp.
+
+Species = Lecaniella spp.
+   ID : 9162
+   Category : FB
+   Genus : Lecaniella
+   Species : spp.
+
+Species = Leiosphaeridia spp.
+   ID : 1198
+   Category : AC
+   Genus : Leiosphaeridia
+   Species : spp.
+
+Species = Leptodinium mirabile Klement, 1960
+   ID : 6940
+   Category : DC
+   Genus : Leptodinium
+   Species : mirabile
+   Author : Klement
+   Year : 1960
+
+Species = Leptodinium spp.
+   ID : 8967
+   Category : DC
+   Genus : Leptodinium
+   Species : spp.
+
+Species = Liesbergia liesbergensis
+   ID : 13946
+   Category : DC
+   Genus : Liesbergia
+   Species : liesbergensis
+
+Species = Liesbergia scarburghensis () Berger,J.P., 1986
+   ID : 7922
+   Category : DC
+   Genus : Liesbergia
+   Species : scarburghensis
+   Author : () Berger,J.P.
+   Year : 1986
+
+Species = Lithodinia cf. planoseptata
+   ID : 9907
+   Category : DC
+   Genus : Lithodinia
+   Pre-Species qualifier : cf.
+   Species : planoseptata
+
+Species = Lithodinia spp.
+   ID : 8972
+   Category : DC
+   Genus : Lithodinia
+   Species : spp.
+
+Species = Matonisporites ? sp.1
+   ID : 11742
+   Category : SP
+   Genus : Matonisporites
+   Species : ? sp.1
+
+Species = Matonisporites equiexinus Couper, 1958
+   ID : 8236
+   Category : SP
+   Genus : Matonisporites
+   Species : equiexinus
+   Author : Couper
+   Year : 1958
+
+Species = Matonisporites phlebopteroides
+   ID : 10786
+   Category : SP
+   Genus : Matonisporites
+   Species : phlebopteroides
+
+Species = Matonisporites spp.
+   ID : 11307
+   Category : SP
+   Genus : Matonisporites
+   Species : spp.
+
+Species = Mendicodinium groenlandicum Davey, 1979
+   ID : 3511
+   Category : DC
+   Genus : Mendicodinium
+   Species : groenlandicum
+   Author : Davey
+   Year : 1979
+
+Species = Mendicodinium spp.
+   ID : 1135
+   Category : DC
+   Genus : Mendicodinium
+   Species : spp.
+
+Species = Microforamifera (rotalid)
+   ID : 9165
+   Category : AC
+   Genus : Microforamifera
+   Species : (rotalid)
+
+Species = Misc. palynomorphs Count 1
+   ID : 10620
+   Category : MP
+   Genus : Misc.
+   Species : palynomorphs Count 1
+
+Species = Monosulcites spp.
+   ID : 320
+   Category : PO
+   Genus : Monosulcites
+   Species : spp.
+
+Species = Nannoceratopsis pellucida Deflandre, 1938
+   ID : 2110
+   Category : DC
+   Genus : Nannoceratopsis
+   Species : pellucida
+   Author : Deflandre
+   Year : 1938
+
+Species = Neoraistrickia spp.
+   ID : 9098
+   Category : SP
+   Genus : Neoraistrickia
+   Species : spp.
+
+Species = Neoraistrickia truncata Fensome (MS), 1983
+   ID : 5038
+   Category : SP
+   Genus : Neoraistrickia
+   Species : truncata
+   Author : Fensome (MS)
+   Year : 1983
+
+Species = Obtusisporis canadensis
+   ID : 11770
+   Category : SP
+   Genus : Obtusisporis
+   Species : canadensis
+
+Species = Orobodinium automobile
+   ID : 9243
+   Category : DC
+   Genus : Orobodinium
+   Species : automobile
+
+Species = Orobodinium spp.
+   ID : 9244
+   Category : DC
+   Genus : Orobodinium
+   Species : spp.
+
+Species = Osmundacidites spp.
+   ID : 9143
+   Category : SP
+   Genus : Osmundacidites
+   Species : spp.
+
+Species = Paragonyaulacysta cf. calloviensis
+   ID : 9003
+   Category : DC
+   Genus : Paragonyaulacysta
+   Pre-Species qualifier : cf.
+   Species : calloviensis
+
+Species = Pareodinia ceratophora Deflandre, 1947
+   ID : 1988
+   Category : DC
+   Genus : Pareodinia
+   Species : ceratophora
+   Author : Deflandre
+   Year : 1947
+
+Species = Pareodinia ceratophora ssp. A
+   ID : 10416
+   Category : DC
+   Genus : Pareodinia
+   Species : ceratophora ssp. A
+
+Species = Pareodinia procerchagrinata
+   ID : 11297
+   Category : DC
+   Genus : Pareodinia
+   Species : procerchagrinata
+
+Species = Pareodinia prolongata Sarjeant, 1959
+   ID : 1992
+   Category : DC
+   Genus : Pareodinia
+   Species : prolongata
+   Author : Sarjeant
+   Year : 1959
+
+Species = Pareodinia spp.
+   ID : 9152
+   Category : DC
+   Genus : Pareodinia
+   Species : spp.
+
+Species = Perinopollenites elatoides Jain,K.P., 1968
+   ID : 7886
+   Category : PO
+   Genus : Perinopollenites
+   Species : elatoides
+   Author : Jain,K.P.
+   Year : 1968
+
+Species = Pilosidinium echinatum
+   ID : 13733
+   Category : DC
+   Genus : Pilosidinium
+   Species : echinatum
+
+Species = Pilosidinium spp.
+   ID : 13732
+   Category : DC
+   Genus : Pilosidinium
+   Species : spp.
+
+Species = Polystephanephorus paracalathus (Sarj. 1960) Down. & Sarj, 1965
+   ID : 2158
+   Category : DC
+   Genus : Polystephanephorus
+   Species : paracalathus
+   Author : (Sarj. 1960) Down. & Sarj
+   Year : 1965
+
+Species = Polystephanephorus spp.
+   ID : 9015
+   Category : DC
+   Genus : Polystephanephorus
+   Species : spp.
+
+Species = Prasinophycaean algae spp.
+   ID : 13909
+   Category : ALPR
+   Genus : Prasinophycaean algae
+   Species : spp.
+
+Species = Pristinuspollenites spp.
+   ID : 8743
+   Category : PO
+   Genus : Pristinuspollenites
+   Species : spp.
+
+Species = Prolixosphaeridium mixtispinosum Davey,R.J., 1969
+   ID : 3296
+   Category : DC
+   Genus : Prolixosphaeridium
+   Species : mixtispinosum
+   Author : Davey,R.J.
+   Year : 1969
+
+Species = Prolixosphaeridium spp.
+   ID : 11877
+   Category : DC
+   Genus : Prolixosphaeridium
+   Species : spp.
+
+Species = Retitriletes austroclavatidites () Krutzsch, 1963
+   ID : 3017
+   Category : SP
+   Genus : Retitriletes
+   Species : austroclavatidites
+   Author : () Krutzsch
+   Year : 1963
+
+Species = Retitriletes semimuris
+   ID : 9102
+   Category : SP
+   Genus : Retitriletes
+   Species : semimuris
+
+Species = Retitriletes spp.
+   ID : 9099
+   Category : SP
+   Genus : Retitriletes
+   Species : spp.
+
+Species = Reutlingia spp.
+   ID : 11811
+   Category : DC
+   Genus : Reutlingia
+   Species : spp.
+
+Species = Rhynchodiniopsis cladophora Below, 1981
+   ID : 2589
+   Category : DC
+   Genus : Rhynchodiniopsis
+   Species : cladophora
+   Author : Below
+   Year : 1981
+
+Species = Rigaudella aemula Below, 1982
+   ID : 3302
+   Category : DC
+   Genus : Rigaudella
+   Species : aemula
+   Author : Below
+   Year : 1982
+
+Species = Rigaudella filamentosa () Below,R., 1982
+   ID : 3303
+   Category : DC
+   Genus : Rigaudella
+   Species : filamentosa
+   Author : () Below,R.
+   Year : 1982
+
+Species = "Sangarelladinium" "asperum"
+   ID : 13810
+   Category : AL
+   Pre-Genus qualifier : "
+   Genus : Sangarelladinium
+   Post-Genus qualifier : "
+   Pre-Species qualifier : "
+   Species : asperum
+   Post-Species qualifier : "
+
+Species = "Sangarelladinium" "confusum"
+   ID : 13814
+   Category : AL
+   Pre-Genus qualifier : "
+   Genus : Sangarelladinium
+   Post-Genus qualifier : "
+   Pre-Species qualifier : "
+   Species : confusum
+   Post-Species qualifier : "
+
+Species = "Sangarelladinium" spp.
+   ID : 13813
+   Category : AL
+   Pre-Genus qualifier : "
+   Genus : Sangarelladinium
+   Post-Genus qualifier : "
+   Species : spp.
+
+Species = "Sangarelladinium" ? "ignotum"
+   ID : 13780
+   Category : AL
+   Pre-Genus qualifier : "
+   Genus : Sangarelladinium
+   Post-Genus qualifier : " ?
+   Pre-Species qualifier : "
+   Species : ignotum
+   Post-Species qualifier : "
+
+Species = Scriniodinium crystallinum () Eisenack, 1964
+   ID : 1690
+   Category : DC
+   Genus : Scriniodinium
+   Species : crystallinum
+   Author : () Eisenack
+   Year : 1964
+
+Species = Scriniodinium cf. crystallinum
+   ID : 9921
+   Category : DC
+   Genus : Scriniodinium
+   Pre-Species qualifier : cf.
+   Species : crystallinum
+
+Species = Sentusidinium creberbarbatum Erkmen,U. Sarjeant,W.A.S., 1980
+   ID : 3310
+   Category : DC
+   Genus : Sentusidinium
+   Species : creberbarbatum
+   Author : Erkmen,U. Sarjeant,W.A.S.
+   Year : 1980
+
+Species = Sentusidinium sparsibarbatum
+   ID : 3311
+   Category : DC
+   Genus : Sentusidinium
+   Species : sparsibarbatum
+
+Species = Sentusidinium cf. sparsibarbatum
+   ID : 13443
+   Category : DC
+   Genus : Sentusidinium
+   Pre-Species qualifier : cf.
+   Species : sparsibarbatum
+
+Species = Sentusidinium spp.
+   ID : 9153
+   Category : DC
+   Genus : Sentusidinium
+   Species : spp.
+
+Species = Sentusidinium? "elongatum"
+   ID : 13677
+   Category : DC
+   Genus : Sentusidinium
+   Post-Genus qualifier : ?
+   Pre-Species qualifier : "
+   Species : elongatum
+   Post-Species qualifier : "
+
+Species = Sentusidinium- Cleistosphaeridium transient
+   ID : 11914
+   Category : DC
+   Genus : Sentusidinium-
+   Species : Cleistosphaeridium transient
+
+Species = Sestrosporites pseudoalveolatus Kherngrin,G.F.V. Khlonova,A.F, 1983
+   ID : 1740
+   Category : SP
+   Genus : Sestrosporites
+   Species : pseudoalveolatus
+   Author : Kherngrin,G.F.V. Khlonova,A.F
+   Year : 1983
+
+Species = Sirmiodiniopsis spp.
+   ID : 11555
+   Category : DC
+   Genus : Sirmiodiniopsis
+   Species : spp.
+
+Species = Sirmiodinium grossii Alberti, 1961
+   ID : 2687
+   Category : DC
+   Genus : Sirmiodinium
+   Species : grossii
+   Author : Alberti
+   Year : 1961
+
+Species = Spirotaenia spp.
+   ID : 13816
+   Category : FB
+   Genus : Spirotaenia
+   Species : spp.
+
+Species = Spores indet.
+   ID : 9112
+   Category : SP
+   Genus : Spores
+   Species : indet.
+
+Species = Staplinisporites telatus () Doring, 1965
+   ID : 802
+   Category : SP
+   Genus : Staplinisporites
+   Species : telatus
+   Author : () Doring
+   Year : 1965
+
+Species = Stephanelytron cf. tabulophorum
+   ID : 10617
+   Category : DC
+   Genus : Stephanelytron
+   Species : cf. tabulophorum
+
+Species = Stephanelytron redcliffense
+   ID : 9029
+   Category : DC
+   Genus : Stephanelytron
+   Species : redcliffense
+
+Species = Stephanelytron scarburghense
+   ID : 8041
+   Category : DC
+   Genus : Stephanelytron
+   Species : scarburghense
+
+Species = Stephanelytron spp.
+   ID : 9031
+   Category : DC
+   Genus : Stephanelytron
+   Species : spp.
+
+Species = Stereisporites spp.
+   ID : 9114
+   Category : SP
+   Genus : Stereisporites
+   Species : spp.
+
+Species = Striatella seeburghensis
+   ID : 9086
+   Category : SP
+   Genus : Striatella
+   Species : seeburghensis
+
+Species = Striatella spp.
+   ID : 10922
+   Category : SP
+   Genus : Striatella
+   Species : spp.
+
+Species = Striatella "triangulata"
+   ID : 13667
+   Category : SP
+   Genus : Striatella
+   Pre-Species qualifier : "
+   Species : triangulata
+   Post-Species qualifier : "
+
+Species = Surculosphaeridium vestitum Davey, 1966
+   ID : 3593
+   Category : DC
+   Genus : Surculosphaeridium
+   Species : vestitum
+   Author : Davey
+   Year : 1966
+
+Species = Systematophora areolata Klement, 1960
+   ID : 2142
+   Category : DC
+   Genus : Systematophora
+   Species : areolata
+   Author : Klement
+   Year : 1960
+
+Species = Systematophora fasciculigera Klement,K.W., 1960
+   ID : 2144
+   Category : DC
+   Genus : Systematophora
+   Species : fasciculigera
+   Author : Klement,K.W.
+   Year : 1960
+
+Species = Systematophora "scopa"
+   ID : 10671
+   Category : DC
+   Genus : Systematophora
+   Pre-Species qualifier : "
+   Species : scopa
+   Post-Species qualifier : "
+
+Species = Systematophora spp.
+   ID : 9033
+   Category : DC
+   Genus : Systematophora
+   Species : spp.
+
+Species = Taeniophora iunctispina
+   ID : 2659
+   Category : DC
+   Genus : Taeniophora
+   Species : iunctispina
+
+Species = Tasmanites spp.
+   ID : 1289
+   Category : AL
+   Genus : Tasmanites
+   Species : spp.
+
+Species = Todisporites spp.
+   ID : 9090
+   Category : SP
+   Genus : Todisporites
+   Species : spp.
+
+Species = Tuberositriletes "horridus"
+   ID : 9984
+   Category : SP
+   Genus : Tuberositriletes
+   Pre-Species qualifier : "
+   Species : horridus
+   Post-Species qualifier : "
+
+Species = Tubotuberella cf. egemenii
+   ID : 10243
+   Category : DC
+   Genus : Tubotuberella
+   Species : cf. egemenii
+
+Species = Tubotuberella dangeardii Stover,L.E. Evitt,W.R., 1978
+   ID : 3383
+   Category : DC
+   Genus : Tubotuberella
+   Species : dangeardii
+   Author : Stover,L.E. Evitt,W.R.
+   Year : 1978
+
+Species = Tubotuberella eisenackii
+   ID : 3379
+   Category : DC
+   Genus : Tubotuberella
+   Species : eisenackii
+
+Species = Tubotuberella eisenackii oligodentata (Cook. & Eis. 1958)Stov. & Ev., 1978
+   ID : 3385
+   Category : DC
+   Genus : Tubotuberella
+   Species : eisenackii
+   Subspecies : oligodentata
+   Author : (Cook. & Eis. 1958)Stov. & Ev.
+   Year : 1978
+
+Species = Tubotuberella spp.
+   ID : 10459
+   Category : DC
+   Genus : Tubotuberella
+   Species : spp.
+
+Species = Uvaesporites argenteaeformis () Schulz, 1967
+   ID : 800
+   Category : SP
+   Genus : Uvaesporites
+   Species : argenteaeformis
+   Author : () Schulz
+   Year : 1967
+
+Species = Valensiella spp.
+   ID : 9040
+   Category : DC
+   Genus : Valensiella
+   Species : spp.
+
+Species = Verrucosisporites spp.
+   ID : 10766
+   Category : SP
+   Genus : Verrucosisporites
+   Species : spp.
+
+Species = Vitreisporites pallidus, 1958
+   ID : 7881
+   Category : PO
+   Genus : Vitreisporites
+   Species : pallidus
+   Year : 1958
+
+Species = cf. Vitreisporites spp.
+   ID : 13779
+   Category : PO
+   Pre-Genus qualifier : cf. 
+   Genus : Vitreisporites
+   Species : spp.
+
+Species = Wanaea acollaris Dodekova,L., 1975
+   ID : 2640
+   Category : DC
+   Genus : Wanaea
+   Species : acollaris
+   Author : Dodekova,L.
+   Year : 1975
+
+Species = Wanaea cf. clathrata
+   ID : 13908
+   Category : DC
+   Genus : Wanaea
+   Pre-Species qualifier : cf.
+   Species : clathrata
+
+Species = Wanaea digitata Eisenack,A. Cookson,I.C., 1958
+   ID : 2635
+   Category : DC
+   Genus : Wanaea
+   Species : digitata
+   Author : Eisenack,A. Cookson,I.C.
+   Year : 1958
+
+Species = Wanaea spp.
+   ID : 9247
+   Category : DC
+   Genus : Wanaea
+   Species : spp.
+
+Species = Wanaea thysanota Woollam,R., 1982
+   ID : 2639
+   Category : DC
+   Genus : Wanaea
+   Species : thysanota
+   Author : Woollam,R.
+   Year : 1982
+
+
+[END OF FILE]

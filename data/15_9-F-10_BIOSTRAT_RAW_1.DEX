@@ -1,0 +1,2073 @@
+[PROLOG]
+File Format = DEX Paleo Data Exchange Format
+Software = StrataBugs JSBUGS
+Data prepared by = BioStrat Ltd.
+Location = Cumbria, UK
+Date Locale = C
+Date = 04-Jan-2010
+
+[Chronostratigraphy Scheme]
+Scheme name = Harland et.al.  1989 (Lower Paleozoic)
+Scheme ID : 1
+Number of units : 60
+
+Unit = Devonian
+  Abbreviation : D
+  Type = Period
+  Youngest : 362.5
+  Oldest : 408.5
+  Dictionary ID : 1
+Unit = Late Devonian
+  Abbreviation : D3
+  Type = Epoch
+  Youngest : 362.5
+  Oldest : 377.4
+  Dictionary ID : 2
+Unit = Famennian
+  Abbreviation : FAM
+  Type = Age
+  Youngest : 362.5
+  Oldest : 367.0
+  Dictionary ID : 3
+Unit = Frasnian
+  Abbreviation : FRS
+  Type = Age
+  Youngest : 367.0
+  Oldest : 377.4
+  Dictionary ID : 4
+Unit = Middle Devonian
+  Abbreviation : D2
+  Type = Epoch
+  Youngest : 377.4
+  Oldest : 386.0
+  Dictionary ID : 5
+Unit = Givetian
+  Abbreviation : GIV
+  Type = Age
+  Youngest : 377.4
+  Oldest : 380.8
+  Dictionary ID : 6
+Unit = Eifelian
+  Abbreviation : EIF
+  Type = Age
+  Youngest : 380.8
+  Oldest : 386.0
+  Dictionary ID : 7
+Unit = Early Devonian
+  Abbreviation : D1
+  Type = Epoch
+  Youngest : 386.0
+  Oldest : 408.5
+  Dictionary ID : 8
+Unit = Emsian
+  Abbreviation : EMS
+  Type = Age
+  Youngest : 386.0
+  Oldest : 390.4
+  Dictionary ID : 9
+Unit = Pragian
+  Abbreviation : PRA
+  Type = Age
+  Youngest : 390.4
+  Oldest : 396.3
+  Dictionary ID : 10
+Unit = Lochkovian
+  Abbreviation : LOK
+  Type = Age
+  Youngest : 396.3
+  Oldest : 408.5
+  Dictionary ID : 11
+Unit = Silurian
+  Abbreviation : S
+  Type = Period
+  Youngest : 408.5
+  Oldest : 439.0
+  Dictionary ID : 12
+Unit = Pridoli
+  Abbreviation : PRD
+  Type = Epoch
+  Youngest : 408.5
+  Oldest : 410.7
+  Dictionary ID : 13
+Unit = Ludlow
+  Abbreviation : LUD
+  Type = Epoch
+  Youngest : 410.7
+  Oldest : 424.0
+  Dictionary ID : 14
+Unit = Ludfordian
+  Abbreviation : LDF
+  Type = Age
+  Youngest : 410.7
+  Oldest : 415.1
+  Dictionary ID : 15
+Unit = Gorstian
+  Abbreviation : GOR
+  Type = Age
+  Youngest : 415.1
+  Oldest : 424.0
+  Dictionary ID : 16
+Unit = Wenlock
+  Abbreviation : WEN
+  Type = Epoch
+  Youngest : 424.0
+  Oldest : 430.4
+  Dictionary ID : 17
+Unit = Gleedonian
+  Abbreviation : GLE
+  Type = Age
+  Youngest : 424.0
+  Oldest : 425.4
+  Dictionary ID : 18
+Unit = Whitwellian
+  Abbreviation : WHI
+  Type = Age
+  Youngest : 425.4
+  Oldest : 426.1
+  Dictionary ID : 19
+Unit = Sheinwoodian
+  Abbreviation : SHE
+  Type = Age
+  Youngest : 426.1
+  Oldest : 430.4
+  Dictionary ID : 20
+Unit = Llandovery
+  Abbreviation : LLY
+  Type = Epoch
+  Youngest : 430.4
+  Oldest : 439.0
+  Dictionary ID : 21
+Unit = Telychian
+  Abbreviation : TEL
+  Type = Age
+  Youngest : 430.4
+  Oldest : 432.6
+  Dictionary ID : 22
+Unit = Aeronian
+  Abbreviation : AER
+  Type = Age
+  Youngest : 432.6
+  Oldest : 436.9
+  Dictionary ID : 23
+Unit = Rhuddanian
+  Abbreviation : RHU
+  Type = Age
+  Youngest : 436.9
+  Oldest : 439.0
+  Dictionary ID : 24
+Unit = Ordovician
+  Abbreviation : O
+  Type = Period
+  Youngest : 439.0
+  Oldest : 510.0
+  Dictionary ID : 25
+Unit = Bala
+  Abbreviation : BAL
+  Type = Sub Period
+  Youngest : 439.0
+  Oldest : 463.9
+  Dictionary ID : 26
+Unit = Ashgill
+  Abbreviation : ASH
+  Type = Epoch
+  Youngest : 439.0
+  Oldest : 443.1
+  Dictionary ID : 27
+Unit = Hirnantian
+  Abbreviation : HIR
+  Type = Age
+  Youngest : 439.0
+  Oldest : 439.5
+  Dictionary ID : 28
+Unit = Rawtheyan
+  Abbreviation : RAW
+  Type = Age
+  Youngest : 439.5
+  Oldest : 440.1
+  Dictionary ID : 29
+Unit = Cautleyan
+  Abbreviation : CAU
+  Type = Age
+  Youngest : 440.1
+  Oldest : 440.6
+  Dictionary ID : 30
+Unit = Pusgillian
+  Abbreviation : PUS
+  Type = Age
+  Youngest : 440.6
+  Oldest : 443.1
+  Dictionary ID : 31
+Unit = Caradoc
+  Abbreviation : CRD
+  Type = Epoch
+  Youngest : 443.1
+  Oldest : 463.9
+  Dictionary ID : 32
+Unit = Onnian
+  Abbreviation : ONN
+  Type = Age
+  Youngest : 443.1
+  Oldest : 444.0
+  Dictionary ID : 33
+Unit = Actonian
+  Abbreviation : ACT
+  Type = Age
+  Youngest : 444.0
+  Oldest : 444.5
+  Dictionary ID : 34
+Unit = Marshbrookian
+  Abbreviation : MRB
+  Type = Age
+  Youngest : 444.5
+  Oldest : 447.1
+  Dictionary ID : 35
+Unit = Longvillian
+  Abbreviation : LON
+  Type = Age
+  Youngest : 447.1
+  Oldest : 449.7
+  Dictionary ID : 36
+Unit = Soudleyan
+  Abbreviation : SOU
+  Type = Age
+  Youngest : 449.7
+  Oldest : 457.5
+  Dictionary ID : 37
+Unit = Harnagian
+  Abbreviation : HAR
+  Type = Age
+  Youngest : 457.5
+  Oldest : 462.3
+  Dictionary ID : 38
+Unit = Costonian
+  Abbreviation : COS
+  Type = Age
+  Youngest : 462.3
+  Oldest : 463.9
+  Dictionary ID : 39
+Unit = Dyfed
+  Abbreviation : DFD
+  Type = Sub Period
+  Youngest : 463.9
+  Oldest : 476.1
+  Dictionary ID : 40
+Unit = Llandeilo
+  Abbreviation : LLO
+  Type = Epoch
+  Youngest : 463.9
+  Oldest : 468.6
+  Dictionary ID : 41
+Unit = Late Llandeilo
+  Abbreviation : LLO3
+  Type = Age
+  Youngest : 463.9
+  Oldest : 465.4
+  Dictionary ID : 42
+Unit = Middle Llandeilo
+  Abbreviation : LLO2
+  Type = Age
+  Youngest : 465.4
+  Oldest : 467.0
+  Dictionary ID : 43
+Unit = Early Llandeilo
+  Abbreviation : LL1
+  Type = Age
+  Youngest : 467.0
+  Oldest : 468.6
+  Dictionary ID : 44
+Unit = Llanvirn
+  Abbreviation : LLN
+  Type = Epoch
+  Youngest : 468.6
+  Oldest : 476.1
+  Dictionary ID : 45
+Unit = Late Llanvirn
+  Abbreviation : LLN2
+  Type = Age
+  Youngest : 468.6
+  Oldest : 472.7
+  Dictionary ID : 46
+Unit = Early Llanvirn
+  Abbreviation : LLN1
+  Type = Age
+  Youngest : 472.7
+  Oldest : 476.1
+  Dictionary ID : 47
+Unit = Canadian
+  Abbreviation : CND
+  Type = Sub Period
+  Youngest : 476.1
+  Oldest : 510.0
+  Dictionary ID : 48
+Unit = Arenig
+  Abbreviation : ARG
+  Type = Epoch
+  Youngest : 476.1
+  Oldest : 493.0
+  Dictionary ID : 49
+Unit = Tremadoc
+  Abbreviation : TRE
+  Type = Epoch
+  Youngest : 493.0
+  Oldest : 510.0
+  Dictionary ID : 50
+Unit = Cambrian
+  Abbreviation : CA
+  Type = Period
+  Youngest : 510.0
+  Oldest : 570.0
+  Dictionary ID : 51
+Unit = Merioneth
+  Abbreviation : MER
+  Type = Epoch
+  Youngest : 510.0
+  Oldest : 517.2
+  Dictionary ID : 52
+Unit = Dolgellian
+  Abbreviation : DOL
+  Type = Age
+  Youngest : 510.0
+  Oldest : 514.1
+  Dictionary ID : 53
+Unit = Maentwrogian
+  Abbreviation : MNT
+  Type = Age
+  Youngest : 514.1
+  Oldest : 517.2
+  Dictionary ID : 54
+Unit = St. David's
+  Abbreviation : STD
+  Type = Epoch
+  Youngest : 517.2
+  Oldest : 536.0
+  Dictionary ID : 55
+Unit = Solvan
+  Abbreviation : SOL
+  Type = Age
+  Youngest : 530.2
+  Oldest : 536.0
+  Dictionary ID : 56
+Unit = Caerfai
+  Abbreviation : CRF
+  Type = Epoch
+  Youngest : 536.0
+  Oldest : 570.0
+  Dictionary ID : 57
+Unit = Lenian
+  Abbreviation : LEN
+  Type = Age
+  Youngest : 536.0
+  Oldest : 554.0
+  Dictionary ID : 58
+Unit = Atdabanian
+  Abbreviation : ATB
+  Type = Age
+  Youngest : 554.0
+  Oldest : 560.0
+  Dictionary ID : 59
+Unit = Tommotian
+  Abbreviation : TOM
+  Type = Age
+  Youngest : 560.0
+  Oldest : 570.0
+  Dictionary ID : 60
+
+[Lithostratigraphy Scheme]
+Scheme name = FORMATIONS
+Scheme ID : 17
+Number of units : 173
+
+Unit = FLETT FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 507
+  Colour : 255,255,255
+Unit = BC COAL
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 517
+  Colour : 255,255,255
+Unit = C SAND
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 516
+  Colour : 255,255,255
+Unit = FORMATION E
+  Abbreviation : FM. E
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 515
+  Colour : 255,255,255
+Unit = FORMATION C
+  Abbreviation : FM C
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 514
+  Colour : 255,255,255
+Unit = FORMATION D
+  Abbreviation : FM D
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 513
+  Colour : 255,255,255
+Unit = GRID FORMATION
+  Abbreviation : GRIDF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 512
+  Colour : 255,255,255
+Unit = FORMATION A
+  Abbreviation : FM A
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 511
+  Colour : 255,255,255
+Unit = FRIGG FORMATION
+  Abbreviation : FRIGG
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 510
+  Colour : 255,255,255
+Unit = BROOM FORMATION
+  Abbreviation : BROOM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 498
+  Colour : 255,255,255
+Unit = BERYL FORMATION
+  Abbreviation : BE FM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 508
+  Colour : 255,255,255
+Unit = UPPER SANDY
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 520
+  Colour : 255,255,255
+Unit = `UPPER BERYL` FORMATION
+  Abbreviation : UBF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 506
+  Colour : 255,255,255
+Unit = `LOWER BERYL` FORMATION
+  Abbreviation : LBF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 505
+  Colour : 255,255,255
+Unit = `LINNHE` FORMATION
+  Abbreviation : LF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 504
+  Colour : 255,255,255
+Unit = BRYGGE FORMATION
+  Abbreviation : BRYGG
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 503
+  Colour : 255,255,255
+Unit = ROR FORMATION
+  Abbreviation : RORFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 502
+  Colour : 255,255,255
+Unit = FORMATION B
+  Abbreviation : FM B
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 501
+  Colour : 255,255,255
+Unit = CARRACK FORMATION
+  Abbreviation : CARRA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 500
+  Colour : 255,255,255
+Unit = SMITH BANK FORMATION
+  Abbreviation : SMBFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 426
+  Colour : 255,255,255
+Unit = LEWIS FORMATION
+  Abbreviation : LW FM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 509
+  Colour : 255,255,255
+Unit = COAL PIT FORMATION
+  Abbreviation : CPF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 529
+  Colour : 255,255,255
+Unit = RAUDE FORMATION
+  Abbreviation : RA FM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 539
+  Colour : 255,255,255
+Unit = HUGIN FORMATION
+  Abbreviation : HUGIN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 538
+  Colour : 255,255,0
+Unit = KOPERVIK FORMATION
+  Abbreviation : KOPER
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 537
+  Colour : 255,255,255
+Unit = HEIMDAL FORMATION
+  Abbreviation : HEIMD
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 536
+  Colour : 255,255,255
+Unit = TY FORMATION
+  Abbreviation : TYFOR
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 535
+  Colour : 255,255,255
+Unit = LAMBA FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 534
+  Colour : 255,255,255
+Unit = VAILA FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 533
+  Colour : 255,255,255
+Unit = SULLOM FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 532
+  Colour : 255,255,255
+Unit = B SAND
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 518
+  Colour : 255,255,255
+Unit = SWATCHWAY FORMATION
+  Abbreviation : SF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 530
+  Colour : 255,255,255
+Unit = A SAND
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 519
+  Colour : 255,255,255
+Unit = FISHER FORMATION
+  Abbreviation : FF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 528
+  Colour : 255,255,255
+Unit = LING BANK FORMATION
+  Abbreviation : LB
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 527
+  Colour : 255,255,255
+Unit = UPPER HEATHER
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 526
+  Colour : 255,255,255
+Unit = LOWER HEATHER
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 525
+  Colour : 255,255,255
+Unit = ABERDEEN GROUND FORMATION
+  Abbreviation : AGF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 524
+  Colour : 255,255,255
+Unit = BRITANNIA SANDSTONE FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 523
+  Colour : 255,255,255
+Unit = UPPER CLAIR GROUP
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 522
+  Colour : 225,172,119
+Unit = LOWER CLAIR GROUP
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 521
+  Colour : 223,112,0
+Unit = DRAKE FORMATION
+  Abbreviation : DRAKE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 497
+  Colour : 255,255,255
+Unit = WITCH GROUND FORMATION
+  Abbreviation : WGF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 531
+  Colour : 255,255,255
+Unit = HOD FORMATION
+  Abbreviation : HODFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 435
+  Colour : 255,255,255
+Unit = HAUGESUND FORMATION
+  Abbreviation : HAUG.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 474
+  Colour : 255,255,255
+Unit = DRAUPNE FORMATION
+  Abbreviation : DRAUP
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 473
+  Colour : 255,255,255
+Unit = LEMAN SANDSTONE FM.
+  Abbreviation : LEMAN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 472
+  Colour : 255,255,255
+Unit = HEATHER FORMATION
+  Abbreviation : HEATH
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 471
+  Colour : 255,255,255
+Unit = BALDER-LISTA FORMATIONS
+  Abbreviation : BALLI
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 470
+  Colour : 255,255,255
+Unit = EKOFISK FORMATION
+  Abbreviation : EKOFI
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 469
+  Colour : 117,139,227
+Unit = TOR FORMATION
+  Abbreviation : TOR
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 468
+  Colour : 128,255,255
+Unit = FLOUNDER FORMATION
+  Abbreviation : FLOUN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 467
+  Colour : 255,255,255
+Unit = RANNOCH FORMATION
+  Abbreviation : RANNO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 499
+  Colour : 255,255,255
+Unit = SELE FORMATION
+  Abbreviation : SELEF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 436
+  Colour : 147,147,202
+Unit = MANDAL FORMATION
+  Abbreviation : MAND.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 477
+  Colour : 255,255,255
+Unit = SKADE FORMATION
+  Abbreviation : SKADE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 434
+  Colour : 255,255,255
+Unit = RØDBY FORMATION
+  Abbreviation : RODBY
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 433
+  Colour : 255,255,255
+Unit = JORSALFARE FORMATION
+  Abbreviation : JORSA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 432
+  Colour : 255,255,255
+Unit = KYRRE FORMATION
+  Abbreviation : KYRRE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 431
+  Colour : 255,255,255
+Unit = TRYGGVASON FORMATION
+  Abbreviation : TRYGG
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 430
+  Colour : 255,255,255
+Unit = BLODØKS FORMATION
+  Abbreviation : BLODO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 429
+  Colour : 255,255,255
+Unit = SVARTE FORMATION
+  Abbreviation : SVART
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 428
+  Colour : 255,255,255
+Unit = RANNOCH FM. SHALE
+  Abbreviation : RAFOS
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 427
+  Colour : 255,255,255
+Unit = HERRING FORMATION
+  Abbreviation : HERRI
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 466
+  Colour : 255,255,255
+Unit = SGIATH FORMATION
+  Abbreviation : SGIAF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 486
+  Colour : 255,255,255
+Unit = BURTON FORMATION
+  Abbreviation : BURTO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 496
+  Colour : 255,255,255
+Unit = LEEK FORMATION
+  Abbreviation : LEEK
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 495
+  Colour : 255,255,255
+Unit = KIMMERIDGE CLAY FORMATION
+  Abbreviation : KICLF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 494
+  Colour : 255,255,255
+Unit = LISTA FORMATION
+  Abbreviation : LISTA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 493
+  Colour : 128,128,0
+Unit = NESS FORMATION
+  Abbreviation : NESSF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 492
+  Colour : 255,255,255
+Unit = HIDRA FORMATION
+  Abbreviation : HIDRA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 491
+  Colour : 255,255,255
+Unit = SCREMERSTON FORMATION
+  Abbreviation : SCREM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 490
+  Colour : 255,255,255
+Unit = VALHALL FORMATION
+  Abbreviation : VALHA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 489
+  Colour : 255,255,255
+Unit = ELDFISK FORMATION
+  Abbreviation : ELDF.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 475
+  Colour : 255,255,255
+Unit = UPPAT FORMATION
+  Abbreviation : UPPAT
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 487
+  Colour : 255,255,255
+Unit = FARSUND FORMATION
+  Abbreviation : FARS.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 476
+  Colour : 255,255,255
+Unit = PIPER FORMATION
+  Abbreviation : PIPER
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 485
+  Colour : 255,255,255
+Unit = COOK FORMATION
+  Abbreviation : COOKF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 484
+  Colour : 255,255,255
+Unit = PENDA FORMATION
+  Abbreviation : PENDA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 483
+  Colour : 255,255,255
+Unit = MACKEREL FORMATION
+  Abbreviation : MACKF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 482
+  Colour : 255,255,255
+Unit = WESTOE COAL FORMATION
+  Abbreviation : WESTO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 481
+  Colour : 255,255,255
+Unit = SOLA FORMATION
+  Abbreviation : SOLA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 480
+  Colour : 255,255,255
+Unit = TUXEN FORMATION
+  Abbreviation : TUXEN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 479
+  Colour : 255,255,255
+Unit = ASGARD FORMATION
+  Abbreviation : ASGAR
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 478
+  Colour : 255,255,255
+Unit = GRANITE
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 542
+  Colour : 255,255,255
+Unit = WICK SANDSTONE FORMATION
+  Abbreviation : WICKS
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 488
+  Colour : 255,255,255
+Unit = SOGNEFJORD FORMATION
+  Abbreviation : SOGNE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 593
+  Colour : 255,255,255
+Unit = AMUNDSEN FORMATION
+  Abbreviation : AMUNF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 442
+  Colour : 255,255,255
+Unit = STATFJORD FORMATION
+  Abbreviation : STATF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 441
+  Colour : 255,255,255
+Unit = BURTON/AMUNDSEN FORMATION
+  Abbreviation : BUAMF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 440
+  Colour : 255,255,255
+Unit = FRANKLIN FORMATION
+  Abbreviation : FRAFO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 439
+  Colour : 255,255,255
+Unit = TANG FORMATION
+  Abbreviation : TANGF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 438
+  Colour : 255,255,255
+Unit = BALDER FORMATION
+  Abbreviation : BALDE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 437
+  Colour : 255,128,255
+Unit = ERIKSON FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 597
+  Colour : 255,255,255
+Unit = RAS QATTARA FORMATION
+  Abbreviation : RASQA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 596
+  Colour : 255,255,255
+Unit = MOUSA FORMATION
+  Abbreviation : MOUSA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 584
+  Colour : 255,255,255
+Unit = FENSFJORD FORMATION
+  Abbreviation : FENSF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 594
+  Colour : 255,255,255
+Unit = SLEIPNER FORMATION
+  Abbreviation : SLEIP
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 445
+  Colour : 255,255,255
+Unit = KROSSFJORD FORMATION
+  Abbreviation : KROSS
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 592
+  Colour : 255,255,255
+Unit = MACBETH FORMATION
+  Abbreviation : MACBE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 591
+  Colour : 255,255,255
+Unit = BRAE FORMATION
+  Abbreviation : BRAEF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 590
+  Colour : 255,255,255
+Unit = ALAM EL BUEIB FORMATION
+  Abbreviation : ALAME
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 589
+  Colour : 255,255,255
+Unit = OFFA FORMATION
+  Abbreviation : OFFAF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 588
+  Colour : 255,255,255
+Unit = KHATATBA FORMATION
+  Abbreviation : KHATA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 587
+  Colour : 255,255,255
+Unit = TOFTE FORMATION
+  Abbreviation : TOFTE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 586
+  Colour : 255,255,255
+Unit = AGAT FORMATION
+  Abbreviation : AGATF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 540
+  Colour : 255,255,255
+Unit = MIME FORMATION
+  Abbreviation : MIMEF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 595
+  Colour : 255,255,255
+Unit = MAUREEN FORMATION
+  Abbreviation : MAURE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 454
+  Colour : 0,255,128
+Unit = ETIVE FORMATION
+  Abbreviation : ETIVE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 464
+  Colour : 255,255,255
+Unit = PUFFIN FORMATION
+  Abbreviation : PUFF.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 463
+  Colour : 255,255,255
+Unit = OSEBERG FORMATION
+  Abbreviation : OSEBE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 462
+  Colour : 255,255,255
+Unit = TARBERT FORMATION
+  Abbreviation : TARBF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 461
+  Colour : 255,255,255
+Unit = PLENUS MARL FORMATION
+  Abbreviation : PLEMF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 460
+  Colour : 255,255,255
+Unit = HEATHER FORMATION sensu lato
+  Abbreviation : HFMSL
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 459
+  Colour : 255,255,255
+Unit = HEATHER FORMATION sensu stricto
+  Abbreviation : HFMSS
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 458
+  Colour : 255,255,255
+Unit = PENTLAND FORMATION
+  Abbreviation : PENTF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 457
+  Colour : 255,255,255
+Unit = VÅLE FORMATION
+  Abbreviation : VALEF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 443
+  Colour : 255,255,255
+Unit = SKAGERRAK FORMATION
+  Abbreviation : SKAGF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 455
+  Colour : 255,255,255
+Unit = LARK FORMATION
+  Abbreviation : LARKF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 444
+  Colour : 255,255,255
+Unit = HORDA FORMATION
+  Abbreviation : HORDA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 453
+  Colour : 0,166,83
+Unit = ANDREW FORMATION
+  Abbreviation : ANDRE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 452
+  Colour : 255,255,255
+Unit = TAU FORMATION
+  Abbreviation : TAUFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 451
+  Colour : 255,255,255
+Unit = EGERSUND FORMATION
+  Abbreviation : EGERS
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 450
+  Colour : 255,255,255
+Unit = SANDNES FORMATION
+  Abbreviation : SANDN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 449
+  Colour : 255,255,255
+Unit = BRYNE FORMATION
+  Abbreviation : BRYNE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 448
+  Colour : 255,255,255
+Unit = "UPPER" FULMAR FORMATION
+  Abbreviation : UPFUF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 447
+  Colour : 255,255,255
+Unit = "LOWER" FULMAR FORMATION
+  Abbreviation : LOFUF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 446
+  Colour : 255,255,255
+Unit = DORNOCH FORMATION
+  Abbreviation : DORNO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 583
+  Colour : 255,255,255
+Unit = RATTRAY FORMATION
+  Abbreviation : RATFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 456
+  Colour : 255,255,255
+Unit = STOTFIELD CALCRETE FORMATION
+  Abbreviation : STOTF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 551
+  Colour : 255,255,255
+Unit = MARNOCK FORMATION
+  Abbreviation : MARNO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 585
+  Colour : 255,255,255
+Unit = SAUDA FORMATION
+  Abbreviation : SAUDA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 560
+  Colour : 255,255,255
+Unit = LUNDE FORMATION
+  Abbreviation : LUNDE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 559
+  Colour : 255,255,255
+Unit = ULA FORMATION
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 558
+  Colour : 255,255,255
+Unit = NAUST FORMATION
+  Abbreviation : NAUST
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 557
+  Colour : 255,255,255
+Unit = KAI FORMATION
+  Abbreviation : KAIFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 556
+  Colour : 255,255,255
+Unit = LYSING FORMATION
+  Abbreviation : LYSIN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 555
+  Colour : 255,255,255
+Unit = HERMOD FORMATION
+  Abbreviation : HERMO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 554
+  Colour : 255,255,255
+Unit = NOT FORMATION
+  Abbreviation : NOTFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 562
+  Colour : 255,255,255
+Unit = HOPEMAN SANDSTONE FORMATION
+  Abbreviation : HOPEM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 552
+  Colour : 255,255,255
+Unit = MELKE FORMATION
+  Abbreviation : MELKE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 563
+  Colour : 255,255,255
+Unit = GARN FORMATION
+  Abbreviation : GARNF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 550
+  Colour : 255,255,255
+Unit = LOWER KIMMERIDGE CLAY FORMATION
+  Abbreviation : LKIMC
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 549
+  Colour : 255,255,255
+Unit = TARE FORMATION
+  Abbreviation : TAREF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 548
+  Colour : 255,255,255
+Unit = HARDRÅDE FORMATION
+  Abbreviation : HARDR
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 547
+  Colour : 255,255,255
+Unit = ROSS SANDSTONE FM
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 546
+  Colour : 255,255,255
+Unit = DEVONIAN
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 545
+  Colour : 255,255,255
+Unit = PARRY SANDSTONE FM
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 544
+  Colour : 255,255,255
+Unit = TRIASSIC
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 543
+  Colour : 255,255,255
+Unit = YORDALE FORMATION
+  Abbreviation : YORDA
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 465
+  Colour : 255,255,255
+Unit = LOSSIEHEAD FORMATION
+  Abbreviation : LOSSI
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 553
+  Colour : 255,255,255
+Unit = ALBA FORMATION
+  Abbreviation : ALBAF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 572
+  Colour : 255,255,255
+Unit = UTSIRA FORMATION
+  Abbreviation : UTSIR
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 582
+  Colour : 255,255,255
+Unit = YAKOUT FORMATION
+  Abbreviation : YAKOU
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 581
+  Colour : 255,255,255
+Unit = FULMAR FORMATION
+  Abbreviation : FULM.
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 580
+  Colour : 255,255,255
+Unit = SPEKK FORMATION
+  Abbreviation : SPEKK
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 579
+  Colour : 255,255,255
+Unit = MASAJID FORMATION
+  Abbreviation : MASAJ
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 578
+  Colour : 255,255,255
+Unit = NISE FORMATION
+  Abbreviation : NISEF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 577
+  Colour : 255,255,255
+Unit = VALHALL FORMATION, UNIT V2
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 576
+  Colour : 255,255,255
+Unit = TRITON FORMATION
+  Abbreviation : TRITO
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 575
+  Colour : 255,255,255
+Unit = ILE FORMATION
+  Abbreviation : ILEFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 561
+  Colour : 255,255,255
+Unit = "LOWER" VALHALL FORMATION
+  Abbreviation : LOVAF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 573
+  Colour : 255,255,255
+Unit = VALHALL FORMATION, UNIT V3
+  Abbreviation : 
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 541
+  Colour : 255,255,255
+Unit = LOTHIAN FORMATION
+  Abbreviation : LOTHF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 571
+  Colour : 255,255,255
+Unit = ORKNEY FORMATION
+  Abbreviation : ORKFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 570
+  Colour : 255,255,255
+Unit = ARE FORMATION
+  Abbreviation : AREFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 569
+  Colour : 255,255,255
+Unit = SPRINGAR FORMATION
+  Abbreviation : SPRIN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 568
+  Colour : 255,255,255
+Unit = TILJE FORMATION
+  Abbreviation : TILJE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 567
+  Colour : 255,255,255
+Unit = KVITNOS FORMATION
+  Abbreviation : KVITN
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 566
+  Colour : 255,255,255
+Unit = LANGE FORMATION
+  Abbreviation : LANGE
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 565
+  Colour : 255,255,255
+Unit = LYR FORMATION
+  Abbreviation : LYRFM
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 564
+  Colour : 255,255,255
+Unit = "UPPER" VALHALL FORMATION
+  Abbreviation : UPVAF
+  Type = Formation
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 574
+  Colour : 255,255,255
+Unit = UPPER SILTY
+  Abbreviation : 
+  Type = Member
+  Youngest : 0.0
+  Oldest : 0.0
+  Dictionary ID : 598
+  Colour : 255,255,255
+
+[ABUNDANCE FORMAT]
+Scheme ID = 1
+Scheme name = Default Abundance Scheme
+Number of categories = 5
+  Category number = 1
+    Name : Present
+    Entry : P
+    Low Bound : 1
+    Output Value : 0
+  Category number = 2
+    Name : Rare
+    Entry : R
+    Low Bound : 2
+    Output Value : 0
+  Category number = 3
+    Name : Common
+    Entry : C
+    Low Bound : 5
+    Output Value : 0
+  Category number = 4
+    Name : Abundant
+    Entry : A
+    Low Bound : 15
+    Output Value : 0
+  Category number = 5
+    Name : Dominant
+    Entry : D
+    Low Bound : 50
+    Output Value : 0
+
+
+[HEADER]
+Well Name = n15/9-F-10 hotshots
+Well Code = N1509F10HOTSHOTS
+Operator = StatoilHydro
+Field = Volve
+Country = NOCS
+Type = Borehole
+Units = metres
+Terminal depth = 7000.00m
+Depth Datum = RTE
+Abundance scheme ID = 1
+  Discipline : M
+Abundance scheme ID = 1
+  Discipline : A
+Abundance scheme ID = 1
+  Discipline : N
+Abundance scheme ID = 1
+  Discipline : P
+
+[SAMPLE 5031.0m LOG]
+Base Depth = 5031.000m
+Type = LOG
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162060
+
+[SAMPLE 5056.0m LOG]
+Base Depth = 5056.010m
+Type = LOG
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162061
+
+[SAMPLE 5088m CU]
+Base Depth = 5088.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162049
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5100m CU]
+Base Depth = 5100.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162051
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5112m CU]
+Base Depth = 5112.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162050
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5166.0m LOG]
+Base Depth = 5166.000m
+Type = LOG
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162062
+
+[SAMPLE 5214m CU]
+Base Depth = 5214.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162052
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5226m CU]
+Base Depth = 5226.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162053
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5238m CU]
+Base Depth = 5238.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162054
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5250m CU]
+Base Depth = 5250.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162055
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5257.8m LOG]
+Base Depth = 5257.790m
+Type = LOG
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162063
+
+[SAMPLE 5262m CU]
+Base Depth = 5262.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162056
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5274m CU]
+Base Depth = 5274.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162057
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5286m CU]
+Base Depth = 5286.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162058
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[SAMPLE 5298m CU]
+Base Depth = 5298.000m
+Type = CU
+Created = 09-Jul-2009
+Modified = 09-Jul-2009
+Sample id = 60162059
+
+Discipline = P
+  Modified : 09-Jul-2009
+  Modifier : BIOS
+  Analyst : BIOS
+Species = Bisaccates undiff.
+  Code : PO
+  Species id : 9118
+  Species count : 1
+
+[BIOSTRATIGRAPHIC COMMENT 5088m CU]
+Discipline = Palynology
+Sample ID = 60162049
+Analyst = BIOS
+Comment = Extremely sparse (underoxidised) sample. Occaisional prasinophycaeans
+
+[BIOSTRATIGRAPHIC COMMENT 5100m CU]
+Discipline = Palynology
+Sample ID = 60162051
+Analyst = BIOS
+Comment = Cribroperidinium spp. (CMN), P. pannosum? S. fasciculigera?
+
+[BIOSTRATIGRAPHIC COMMENT 5112m CU]
+Discipline = Palynology
+Sample ID = 60162050
+Analyst = BIOS
+Comment = Extremely sparse (underoxidised) sample. Occaisional prasinophycaeans
+
+[BIOSTRATIGRAPHIC COMMENT 5214m CU]
+Discipline = Palynology
+Sample ID = 60162052
+Analyst = BIOS
+Comment = S.fasciculigera, S.areolata, L.mirabile, G.jurassica, R.cladophora, A.staffinensis.
+
+[BIOSTRATIGRAPHIC COMMENT 5226m CU]
+Discipline = Palynology
+Sample ID = 60162053
+Analyst = BIOS
+Comment = P. paracalathus?, C. dictydia?
+
+[BIOSTRATIGRAPHIC COMMENT 5238m CU]
+Discipline = Palynology
+Sample ID = 60162054
+Analyst = BIOS
+Comment = Caved microflora
+
+[BIOSTRATIGRAPHIC COMMENT 5250m CU]
+Discipline = Palynology
+Sample ID = 60162055
+Analyst = BIOS
+Comment = G. jurassica, P. ceratophora
+
+[BIOSTRATIGRAPHIC COMMENT 5262m CU]
+Discipline = Palynology
+Sample ID = 60162056
+Analyst = BIOS
+Comment = G. jurassica, P. paracalathus?, K. cf. nigeriaense
+
+[BIOSTRATIGRAPHIC COMMENT 5274m CU]
+Discipline = Palynology
+Sample ID = 60162057
+Analyst = BIOS
+Comment = C. dictydia, Cyclopsiella spp.
+
+[BIOSTRATIGRAPHIC COMMENT 5286m CU]
+Discipline = Palynology
+Sample ID = 60162058
+Analyst = BIOS
+Comment = D. "reticulata"?
+
+[BIOSTRATIGRAPHIC COMMENT 5298m CU]
+Discipline = Palynology
+Sample ID = 60162059
+Analyst = BIOS
+Comment = C. dictydia?, K. cf. nigeriaense?
+
+[INTERVAL 5088.00m - 5088.00m]
+Type = Chronostratigraphy
+Age = Kimm-Ryaz
+  Scheme ID : 1
+  Top sample : 5088m CU
+  Base sample : 5088m CU
+  Top sample ID : 60162049
+  Base sample ID : 60162049
+  Separator : -
+  Upper unit : Kimm-Ryaz
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5100.00m - 5112.00m]
+Type = Chronostratigraphy
+Age = Kimm?
+  Scheme ID : 1
+  Top sample : 5100m CU
+  Base sample : 5112m CU
+  Top sample ID : 60162051
+  Base sample ID : 60162050
+  Separator : -
+  Upper unit : Kimm?
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5214.00m - 5214.00m]
+Type = Chronostratigraphy
+Age = L Oxfordian
+  Scheme ID : 1
+  Top sample : 5214m CU
+  Base sample : 5214m CU
+  Top sample ID : 60162052
+  Base sample ID : 60162052
+  Separator : -
+  Upper unit : L Oxfordian
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5226.00m - 5226.00m]
+Type = Chronostratigraphy
+Age = M-L Call?
+  Scheme ID : 1
+  Top sample : 5226m CU
+  Base sample : 5226m CU
+  Top sample ID : 60162053
+  Base sample ID : 60162053
+  Separator : -
+  Upper unit : M-L Call?
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5238.00m - 5298.00m]
+Type = Chronostratigraphy
+Age = Mid-Late Callovian? or older
+  Scheme ID : 1
+  Top sample : 5238m CU
+  Base sample : 5298m CU
+  Top sample ID : 60162054
+  Base sample ID : 60162059
+  Separator : -
+  Upper unit : Mid-Late Callovian? or older
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5031.00m - 5056.01m]
+Type = Lithostratigraphy
+Formation = Aasgard
+  Scheme ID : 17
+  Top sample : 5031.0m LOG
+  Base sample : 5056.0m LOG
+  Top sample ID : 60162060
+  Base sample ID : 60162061
+  Separator : -
+  Upper unit : Aasgard
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5056.01m - 5166.00m]
+Type = Lithostratigraphy
+Formation = Draupne
+  Scheme ID : 17
+  Top sample : 5056.0m LOG
+  Base sample : 5166.0m LOG
+  Top sample ID : 60162061
+  Base sample ID : 60162062
+  Separator : -
+  Upper unit : Draupne
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5166.00m - 5257.79m]
+Type = Lithostratigraphy
+Formation = Heather-Hugin
+  Scheme ID : 17
+  Top sample : 5166.0m LOG
+  Base sample : 5257.8m LOG
+  Top sample ID : 60162062
+  Base sample ID : 60162063
+  Separator : -
+  Upper unit : Heather-Hugin
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[INTERVAL 5257.79m - 5298.00m]
+Type = Lithostratigraphy
+Formation = Smith Bank
+  Scheme ID : 17
+  Top sample : 5257.8m LOG
+  Base sample : 5298m CU
+  Top sample ID : 60162063
+  Base sample ID : 60162059
+  Separator : -
+  Upper unit : Smith Bank
+  Upper boundary : Confident
+  Lower boundary : Confident
+  Upper questionable : No
+  Lower questionable : No
+Modified = 09-Jul-2009
+Modifier = BIOS
+
+[SPECIES LIST]
+Species = Bisaccates undiff.
+   ID : 9118
+   Category : PO
+   Genus : Bisaccates
+   Species : undiff.
+
+
+[END OF FILE]
