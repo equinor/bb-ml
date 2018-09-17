@@ -1,7 +1,7 @@
-##Biostratigraphy By ML
+## Biostratigraphy By ML
 
 
-Train a machine learning algorithm to perform biostratigraphic interpretations on data from Volve.
+### Train a machine learning algorithm to perform biostratigraphic interpretations on data from Volve.
 
 Biostratigraphic data typically consists of counts of different fossil species. Using knowledge of the historical prevelance of certain species it is used to inform geoscientists about the probable period of deposition.
 
