@@ -1,6 +1,8 @@
 from bb_data import get_labeled_raw_data
 from raw_dex_reader import get_species_from_dex
-import json
+import pandas as pd
+import numpy as np
+from sklearn import preprocessing
 
 def almalgamate_species_dictionaries(species_dictionaries):
     master_dict = {}
@@ -20,9 +22,24 @@ for well in wells:
 
 master_dict = almalgamate_species_dictionaries(species_dictionaries)
 
-with open("../data/json/master_dict.json", "w") as f:
-    f.write(json.dumps(master_dict))
+print(len(master_dict))
 
-for well in wells:
-    with open("../data/json/" + well + "_labelled.json", "w") as f:
-        f.write(labelled_data[well].to_json())
+
+
+
+for well_id in wells:
+    labelled_data[well_id] = labelled_data[well_id].sort_values("Depth")
+    for column in labelled_data[well_id]:
+        if column not in ["Depth", "label"]:
+            cumsum = labelled_data[well_id][column].cumsum()
+            cumsum = cumsum.divide(cumsum.max())
+            labelled_data[well_id][column + "_cumsum"] = cumsum
+    labelled_data[well_id]["well_id"] = well_id
+
+
+list = [df for df in labelled_data.values()]
+
+label_raw_data = pd.concat(list, sort=True)
+label_raw_data = label_raw_data.replace(np.nan, 0)
+
+label_raw_data.to_csv("../../output/test.csv")
