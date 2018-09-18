@@ -68,9 +68,6 @@ test5 = get_labeled_raw_data(r"../data/15_9-F-11 B_BIOSTRAT_RAW_1.DEX", r"../dat
 label_raw_data = pd.concat([test1, test2,test3,test4,test5], sort=True)
 label_raw_data=label_raw_data.replace(np.nan, 0)
 
-
-
-
 raw_data_fns = [(r"../data/15_9-F-1 A_BIOSTRAT_RAW_1.DEX", "15_9-F-1 A"), 
                 (r"../data/15_9-F-1 B_BIOSTRAT_RAW_1.DEX", "15_9-F-1 B"),
                 (r"../data/15_9-F-1_BIOSTRAT_RAW_1.DEX", "15_9-F-1"),
@@ -80,10 +77,17 @@ raw_data_fns = [(r"../data/15_9-F-1 A_BIOSTRAT_RAW_1.DEX", "15_9-F-1 A"),
 unlabeled_raw_data = pd.concat([get_dex_as_dataframe(*fn) for fn in raw_data_fns], sort=True)
 unlabeled_raw_data=unlabeled_raw_data.replace(np.nan, 0)
 
-
 if __name__ == "__main__":
     import matplotlib.pyplot as plt
-    plt.imshow((label_raw_data.sort_values(by="age").values[:,:-2]>0).astype(int), aspect=4)
+    sorted_labeled_raw_data = label_raw_data.sort_values(by="age")
+    
+    fossils_occuring = (sorted_labeled_raw_data.values[:,:-2]>0)
+    matrix_width = fossils_occuring.shape[1]
+    well_matrix = np.stack([sorted_labeled_raw_data["Well_name"].values]*matrix_width, axis=1)
+    wm1 = (well_matrix == "15_9-F-1 A") | (well_matrix == "15_9-F-1 B")
+    wm2 = (well_matrix == "15_9-F-1") | (well_matrix == "15_9-F-11 A")
+    wm3 = (well_matrix == "15_9-F-11 B")
+    plt.imshow(np.dstack((fossils_occuring*wm1, fossils_occuring*wm2, fossils_occuring*wm3))*256, aspect=4)
     plt.show()
     
     plt.imshow((unlabeled_raw_data.values[:,:-1]>0).astype(int), aspect=4)
