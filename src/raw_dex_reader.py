@@ -7,7 +7,7 @@ def read_raw_dex(input_dex):
     species_list = raw_file.split("[SPECIES LIST]")[1].split("[END OF FILE]")[0].split("\n")[1:]
 
     #species_list = species_list[0:12]
-    print(species_list)
+    # print(species_list)
 
     species = None
     id = None
