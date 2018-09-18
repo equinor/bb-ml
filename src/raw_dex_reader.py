@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 def get_species_from_dex(input_dex):
     with open(input_dex) as f:
@@ -62,6 +63,12 @@ def get_dex_as_dataframe(input_dex):
 
 
 if __name__ == "__main__":
-    input_dex = "C:\\Users\\dawad\\FORCE\\bb-ml\\data\\15_9-F-1 A_BIOSTRAT_RAW_1.DEX"
-    df = get_dex_as_dataframe(input_dex)
-    print(df)
+    root = "C:\\Users\\dawad\\FORCE\\bb-ml\\data\\"
+    wells = ["15_9-F-1", "15_9-F-1 A", "15_9-F-1 B", "15_9-F-4", "15_9-F-11 A", "15_9-F-11 B"]
+    # 15_9-F-10 #This one is a bit different! Only one species
+    suffix = "_BIOSTRAT_RAW_1.DEX"
+
+    for well in wells[0:1]:
+        input_dex = os.path.join(root, well + suffix)
+        df = get_dex_as_dataframe(input_dex)
+        print(df)
