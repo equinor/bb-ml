@@ -66,3 +66,12 @@ plot_confusion_matrix(cm, classes_age)
 
 #plt.savefig("../../output/cm.png")
 plt.savefig("../../output/cm" + test_well + ".png")
+
+a = pd.Series(features)
+b = pd.Series(clf.feature_importances_)
+
+importances = pd.DataFrame({'a': a, 'b': b, 'idx_col': a.index})
+
+importances = importances.sort_values("b")
+
+print(importances)
