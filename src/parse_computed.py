@@ -196,6 +196,10 @@ def get_sample_df(fn):
     return make_sample_df(list_of_samples)
         
 
+
+def main():
+    pass
+
 #with open("15_9-F-1 A_BIOSTRAT_COMPUTED_1.DEX") as f:
 #    data = FileIterator(f.readlines())
 #
@@ -206,3 +210,7 @@ def get_sample_df(fn):
 #    else:
 #        data.next()
 #df = make_sample_df(list_of_samples)
+
+
+if __name__ == '__main__':
+    main()
