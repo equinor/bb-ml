@@ -32,18 +32,6 @@ import pandas as pd
 #         self.Scheme_ID = None
 #         self.Number_of_units = None
 
-# class Sample(object):
-#     def __init__(self):
-#         self.key = "SAMPLE"
-#         self.depth = None
-#         self.sample_id = None
-#         self.Base_Depth = None
-#         self.Type = None
-#         self.Created = None
-#         self.Modified = None
-#         self.Sample_id = None
-#         self.Label = None
-
 # class BiostratigraphicComment(object):
 #     def __init__(self):
 #         self.key = "BIOSTRATIGRAPHIC"
@@ -53,6 +41,27 @@ import pandas as pd
 #         self.Sample_ID = None
 #         self.Analyst = None
 #         self.Comment = None
+
+class Sample(object):
+    def __init__(self):
+        self.name = None
+        self.Base_Depth = None
+        self.Type = None
+        self.Created = None
+        self.Modified = None
+        self.Sample_id = None
+        self.Label = None
+    
+    def parse(self, data):
+        _, _, self.name = data.next()[:-1].split(" ", 2)
+        _, _, _, self.Base_Depth = data.next().split(" ", 3)
+        _, _, self.Type = data.next().split(" ", 2)
+        _, _, self.Created = data.next().split(" ", 2)
+        _, _, self.Modified = data.next().split(" ", 2)
+        _, _, _, self.Sample_id = data.next().split(" ", 3)
+        if self.Type != "LOG":
+            _, _, self.Label = data.next().split(" ")
+        return self
 
 class Zone(object):
     def __init__(self):
@@ -157,3 +166,40 @@ def get_interval_df(fn):
         else:
             data.next()
     return make_interval_df(list_of_intervals)
+
+
+def make_sample_df(ls_sampes):
+    d = {
+    "name" : [sample.name for sample in ls_sampes ],
+    "Base_Depth" : [sample.Base_Depth for sample in ls_sampes ],
+    "Type" : [sample.Type for sample in ls_sampes ],
+    "Created" : [sample.Created for sample in ls_sampes ],
+    "Modified" : [sample.Modified for sample in ls_sampes ],
+    "Sample_id" : [sample.Sample_id for sample in ls_sampes ],
+    "Label" : [sample.Label for sample in ls_sampes ]
+    }
+    return pd.DataFrame(data=d)
+
+def get_sample_df(fn):
+    with open("15_9-F-1 A_BIOSTRAT_COMPUTED_1.DEX") as f:
+        data = FileIterator(f.readlines())
+    
+    list_of_samples = []
+    while(data.has_next()):
+        if data.peek().split(" ")[0] == "[SAMPLE":
+            list_of_samples.append(Sample().parse(data))
+        else:
+            data.next()
+    return make_sample_df(list_of_samples)
+        
+
+#with open("15_9-F-1 A_BIOSTRAT_COMPUTED_1.DEX") as f:
+#    data = FileIterator(f.readlines())
+#
+#list_of_samples = []
+#while(data.has_next()):
+#    if data.peek().split(" ")[0] == "[SAMPLE":
+#        list_of_samples.append(Sample().parse(data))
+#    else:
+#        data.next()
+#df = make_sample_df(list_of_samples)
