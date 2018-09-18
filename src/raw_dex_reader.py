@@ -50,18 +50,16 @@ def get_dex_as_dataframe(input_dex):
                 if species_data.find("Abundance : +") > 0:
                     count = 50
                 counts_dict[species_id] = count
-        sample_data[sample_id] = depth, counts_dict
+        sample_data[int(sample_id)] = depth, counts_dict
 
     df = pd.DataFrame(0, columns=species_dict.keys(), index=sample_data.keys())
     df["Depth"] = None
-
 
     for sample_id, sample in sample_data.items():
         depth, counts_dict = sample
         df.at[sample_id, 'Depth'] = depth
         for key, val in counts_dict.items():
             df.at[sample_id, key] = val
-
     return df
 
 
@@ -78,6 +76,7 @@ if __name__ == "__main__":
 
     filenames = glob.glob(os.path.join(root + '*RAW*.DEX'))
 
-    for filename in filenames[0:1]:
+    for filename in filenames:
         df = get_dex_as_dataframe(filename)
         print(df)
+

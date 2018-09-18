@@ -155,7 +155,8 @@ def make_interval_df(ls_interval):
     "Upper_questionable" :  [interval.content.Upper_questionable for interval in ls_interval ],
     "Lower_questionable" :  [interval.content.Lower_questionable for interval in ls_interval ]
     }
-    return pd.DataFrame(data=d)
+    df = pd.DataFrame(data=d)
+    return df
 
 def get_interval_df(fn):
     with open(fn) as f:
@@ -184,7 +185,7 @@ def make_sample_df(ls_sampes):
     return pd.DataFrame(data=d)
 
 def get_sample_df(fn):
-    with open("15_9-F-1 A_BIOSTRAT_COMPUTED_1.DEX") as f:
+    with open(fn) as f:
         data = FileIterator(f.readlines())
     
     list_of_samples = []
@@ -193,6 +194,7 @@ def get_sample_df(fn):
             list_of_samples.append(Sample().parse(data))
         else:
             data.next()
+
     return make_sample_df(list_of_samples)
         
 
