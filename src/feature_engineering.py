@@ -17,7 +17,7 @@ labelled_data = {}
 species_dictionaries = {}
 
 for well in wells:
-    labelled_data[well] = get_labeled_raw_data(r"../data/" + well + "_BIOSTRAT_RAW_1.DEX", r"../data/" + well + "_BIOSTRAT_COMPUTED_1.DEX")
+    labelled_data[well] = get_labeled_raw_data(r"../data/" + well + "_BIOSTRAT_RAW_1.DEX", r"../data/" + well + "_BIOSTRAT_COMPUTED_1.DEX", well)
     species_dictionaries[well] = get_species_from_dex(r"../data/" + well + "_BIOSTRAT_RAW_1.DEX")
 
 master_dict = almalgamate_species_dictionaries(species_dictionaries)
@@ -30,11 +30,11 @@ print(len(master_dict))
 for well_id in wells:
     labelled_data[well_id] = labelled_data[well_id].sort_values("Depth")
     for column in labelled_data[well_id]:
-        if column not in ["Depth", "label"]:
+        if column not in ["Depth", "label", "Well_name"]:
+            labelled_data[well_id][column] = pd.to_numeric(labelled_data[well_id][column])
             cumsum = labelled_data[well_id][column].cumsum()
             cumsum = cumsum.divide(cumsum.max())
             labelled_data[well_id][column + "_cumsum"] = cumsum
-    labelled_data[well_id]["well_id"] = well_id
 
 
 list = [df for df in labelled_data.values()]
