@@ -25,4 +25,4 @@ def get_labeled_raw_data(fn_raw_data, fn_computed_data):
     return labeled_samples
 
 test = get_labeled_raw_data(r"../data/15_9-F-1 A_BIOSTRAT_RAW_1.DEX", r"../data/15_9-F-1 A_BIOSTRAT_COMPUTED_1.DEX")
-test2 = get_labeled_raw_data(r"../data/15_9-F-1 B_BIOSTRAT_RAW_1.DEX", r"../data/15_9-F-1 B_BIOSTRAT_COMPUTED_1.DEX")
+#test2 = get_labeled_raw_data(r"../data/15_9-F-1 B_BIOSTRAT_RAW_1.DEX", r"../data/15_9-F-1 B_BIOSTRAT_COMPUTED_1.DEX")
