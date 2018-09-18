@@ -47,18 +47,16 @@ def get_dex_as_dataframe(input_dex):
                 if species_data.find("Abundance : +") > 0:
                     count = 50
                 counts_dict[species_id] = count
-        sample_data[sample_id] = depth, counts_dict
+        sample_data[int(sample_id)] = depth, counts_dict
 
     df = pd.DataFrame(0, columns=species_dict.keys(), index=sample_data.keys())
     df["Depth"] = None
-
 
     for sample_id, sample in sample_data.items():
         depth, counts_dict = sample
         df.at[sample_id, 'Depth'] = depth
         for key, val in counts_dict.items():
             df.at[sample_id, key] = val
-
     return df
 
 
@@ -68,7 +66,8 @@ if __name__ == "__main__":
     # 15_9-F-10 #This one is a bit different! Only one species
     suffix = "_BIOSTRAT_RAW_1.DEX"
 
-    for well in wells[0:1]:
+    for well in wells:
         input_dex = os.path.join(root, well + suffix)
         df = get_dex_as_dataframe(input_dex)
-        print(df)
+        with open(os.path.join(root, "json", well + "_raw.json"), "w") as f:
+            f.write(df.to_json())
