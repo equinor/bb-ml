@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from typing import List
 from raw_dex_reader import get_species_from_dex
 import editdistance
