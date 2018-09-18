@@ -42,8 +42,13 @@ def plot_confusion_matrix(cm, classes,
 
 data = pd.read_csv("../../output/test.csv")
 data["code"] = pd.factorize(data['age'])[0]
-data['is_train'] = np.random.uniform(0, 1, len(data)) <= 0.5
-train, test = data[data['is_train'] == True], data[data['is_train'] == False]
+
+#train_wells = ["15_9-F-1 A", "15_9-F-1 B", "15_9-F-1", "15_9-F-11 A", "15_9-F-11 B"]
+test_well = "15_9-F-1"
+train, test = data[data['Well_name'] != test_well], data[data['Well_name'] == test_well]
+
+#data['is_train'] = np.random.uniform(0, 1, len(data)) <= 0.5
+#train, test = data[data['is_train'] == True], data[data['is_train'] == False]
 
 features = data.columns[1:-7]
 
@@ -52,10 +57,12 @@ clf.fit(train[features], train['code'])
 preds = clf.predict(test[features])
 
 
-cm = confusion_matrix(test['code'], preds, labels=None, sample_weight=None)
+classes = pd.concat([test['code'], train['code']]).sort_values().unique()
+classes_age = pd.concat([test['age'], train['age']]).sort_values().unique()
 
-classes = data['age'].sort_values().unique()
+cm = confusion_matrix(test['code'], preds, labels=classes)
 
-plot_confusion_matrix(cm, classes)
+plot_confusion_matrix(cm, classes_age)
 
-plt.savefig("../../output/cm.png")
+#plt.savefig("../../output/cm.png")
+plt.savefig("../../output/cm" + test_well + ".png")
