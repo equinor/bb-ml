@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { Sample } from '../wells/well.component';
+import { DataService } from '../_services/data.service';
 
 @Component({
   selector: 'app-species',
@@ -7,18 +7,13 @@ import { Sample } from '../wells/well.component';
   styleUrls: ['./species.component.css']
 })
 export class SpeciesComponent implements OnInit {
-  @Input() selectedSample: Sample;
-  constructor() { }
+  speciesList: any;
+  objectKeys = Object.keys;
+
+  constructor(private dataService: DataService) { }
 
   ngOnInit() {
+    this.speciesList = this.dataService.species;
   }
 
-}
-
-export class Species {
-  SpeciesName: string;
-  Code: string;
-  SpeciesId: number;
-  SpeciesCount?: number;
-  Abundance?: string;
 }

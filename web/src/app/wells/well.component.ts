@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { DUMMY_WELLS } from '../dummy.data';
-import { Species } from '../species/species.component';
+import { DataService } from '../_services/data.service';
+import { Sample, Well } from '../_model/types';
 
 @Component({
   selector: 'app-well',
@@ -11,38 +11,20 @@ export class WellComponent implements OnInit {
   selectedWell: Well;
   wells: Well[];
   selectedSample: Sample;
-  constructor() {}
+
+  constructor(private dataService: DataService) {}
 
   ngOnInit() {
-    this.wells = DUMMY_WELLS;
+    this.dataService.getWells().subscribe(data => {
+      this.wells = data;
+    });
   }
 
   wellChanged(event: any): void {
     this.selectedSample = null;
   }
-}
 
-export class Well {
-  WellName: string;
-  WellCode: string;
-  Operator: string;
-  Field: string;
-  Country: string;
-  Type: string;
-  Units: string;
-  Longitude?: number;
-  Latitude?: number;
-  TerminalDepth: number;
-  DepthDatum: string;
-  Samples: Sample[];
-}
-
-export class Sample {
-  BaseDepth: number;
-  Type: string;
-  Created: string;
-  Modified: string;
-  SampleId: number;
-  Label: string;
-  Species: Species[];
+  setSample(sample: Sample): void {
+    this.selectedSample = sample;
+  }
 }

@@ -1,13 +1,1 @@
-<mat-grid-list cols="4" rowHeight="180px" *ngIf="selectedSample">
-  <mat-grid-tile *ngFor="let species of selectedSample.Species">
-    <mat-card style="width: 250px;">
-      <mat-card-content>
-
-        <p>{{species.SpeciesName}}</p>
-        <p>ID: {{species.SpeciesId}}</p>
-        <p>Code: {{species.Code}}</p>
-        <p>Count: {{species.SpeciesCount}}</p>
-      </mat-card-content>
-    </mat-card>
-  </mat-grid-tile>
-</mat-grid-list>
+<div *ngFor="let key of objectKeys(speciesList)">{{key + ' : ' + speciesList[key]}}</div>
