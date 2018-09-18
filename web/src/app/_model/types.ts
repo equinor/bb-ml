@@ -18,7 +18,7 @@ export class Well {
   Latitude?: number;
   TerminalDepth: number;
   DepthDatum: string;
-  Samples: Sample[];
+  // Samples: Sample[];
 }
 
 export class Sample {
@@ -28,5 +28,5 @@ export class Sample {
   Modified: string;
   SampleId: number;
   Label: string;
-  Species: Species[];
+  // Species: Species[];
 }

@@ -21,8 +21,17 @@ export class DataService {
     return this.http.get('./assets/species_dict.json');
   }
 
-  getRawData(): Observable<any> {
-    return this.http.get('./assets/dummyrawdata.json');
+  getLabels(wellName: string): Observable<any> {
+    return this.http.get('./assets/' + wellName + '/labels.json');
   }
 
+  getSamples(wellName: string): Observable<any> {
+    return this.http.get('./assets/' + wellName + '/samples.json');
+  }
+
+  getSpeciesSampleData(wellName: string): Observable<any> {
+    return this.http.get(
+      './assets/' + wellName + '/species_count_per_sample.json'
+    );
+  }
 }

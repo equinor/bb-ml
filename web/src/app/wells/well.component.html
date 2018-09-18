@@ -29,10 +29,10 @@
     <mat-card-title>
       Samples
     </mat-card-title>
-    <mat-list *ngIf="selectedWell">
-      <mat-list-item *ngFor="let sample of selectedWell.Samples">
-        <button mat-button (click)="setSample(sample)">
-          {{sample.BaseDepth}}
+    <mat-list *ngIf="samples">
+      <mat-list-item *ngFor="let key of objectKeys(samples)">
+        <button mat-button (click)="setSample(samples[key])">
+          {{samples[key]}}
         </button>
       </mat-list-item>
     </mat-list>

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../_services/data.service';
 import { Sample, Well } from '../_model/types';
+import { MatSelectChange } from '@angular/material';
 
 @Component({
   selector: 'app-well',
@@ -8,9 +9,11 @@ import { Sample, Well } from '../_model/types';
   styleUrls: ['./well.component.css']
 })
 export class WellComponent implements OnInit {
+  objectKeys = Object.keys;
   selectedWell: Well;
   wells: Well[];
   selectedSample: Sample;
+  samples: Object[];
 
   constructor(private dataService: DataService) {}
 
@@ -20,8 +23,11 @@ export class WellComponent implements OnInit {
     });
   }
 
-  wellChanged(event: any): void {
+  wellChanged(event: MatSelectChange): void {
     this.selectedSample = null;
+    this.dataService.getSamples(event.value.WellName).subscribe(data => {
+      this.samples = data.Depth;
+    });
   }
 
   setSample(sample: Sample): void {
