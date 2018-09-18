@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import pandas as pd
 import os
 
@@ -47,28 +50,33 @@ def get_dex_as_dataframe(input_dex):
                 if species_data.find("Abundance : +") > 0:
                     count = 50
                 counts_dict[species_id] = count
-        sample_data[sample_id] = depth, counts_dict
+        sample_data[int(sample_id)] = depth, counts_dict
 
     df = pd.DataFrame(0, columns=species_dict.keys(), index=sample_data.keys())
     df["Depth"] = None
-
 
     for sample_id, sample in sample_data.items():
         depth, counts_dict = sample
         df.at[sample_id, 'Depth'] = depth
         for key, val in counts_dict.items():
             df.at[sample_id, key] = val
-
     return df
 
 
 if __name__ == "__main__":
-    root = "C:\\Users\\dawad\\FORCE\\bb-ml\\data\\"
-    wells = ["15_9-F-1", "15_9-F-1 A", "15_9-F-1 B", "15_9-F-4", "15_9-F-11 A", "15_9-F-11 B"]
-    # 15_9-F-10 #This one is a bit different! Only one species
-    suffix = "_BIOSTRAT_RAW_1.DEX"
 
-    for well in wells[0:1]:
-        input_dex = os.path.join(root, well + suffix)
-        df = get_dex_as_dataframe(input_dex)
+    import glob
+    import sys
+
+    if len(sys.argv) != 2:
+        "No root given, defaulting to ../data/"
+        root = '../data/'
+    else:
+        root = sys.argv[1]
+
+    filenames = glob.glob(os.path.join(root + '*RAW*.DEX'))
+
+    for filename in filenames:
+        df = get_dex_as_dataframe(filename)
         print(df)
+
