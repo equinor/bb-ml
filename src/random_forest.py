@@ -71,20 +71,40 @@ classes_age = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_va
 
 # print(importances)
 
+# transform_dictionary = {
+#     125:'Barremian',
+#     145:'Tithonian',
+#     160:'Oxfordian',
+#     72:'Early Maastrichtian',
+#     230:'Indeterminate -possibly Triassic',
+#     165:'Callovian',
+#     86:'Late Coniacian - Early Santonian',
+#     66:'Late Paleocene'
+#     }
+
+# transform_dictionary = {
+#     125:'Barremian',
+#     145:'Tithonian',
+#     160:'Oxfordian',
+#     72:'Early Maastrichtian',
+#     230:'Indeterminate -possibly Triassic',
+#     165:'Callovian',
+#     86:'Late Coniacian - Early Santonian',
+#     66:'Late Paleocene'
+#     }
+
 transform_dictionary = {
+    66:'Early Berriasian',
+    72:'Oxfordian',
+    86:'Callovian',
+    145:'Barremian',
+    160:'Paleocene',
+    165:'Maastrichtian',
     125:'Barremian',
-    145:'Tithonian',
-    160:'Oxfordian',
-    72:'Early Maastrichtian',
-    230:'Indeterminate -possibly Triassic',
-    165:'Callovian',
-    86:'Late Coniacian - Early Santonian',
-    66:'Late Paleocene'
+    230:'Indeterminate -possibly Triassic'
     }
 
 def get_random_forest_classification(df):
     df = df.reindex(columns=features)
     df = df.replace(np.nan, 0)
-    print(len(features))
-    print(df[features])
     return transform_dictionary[int(classes_age[clf.predict(df[features])])]
