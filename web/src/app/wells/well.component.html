@@ -1,0 +1,46 @@
+<div style="display: flex; flex-direction: row;">
+  <mat-card style="height: 100vh; width: 270px;">
+    <mat-form-field style="margin-left: 5px;">
+      <mat-select placeholder="Well name" [(value)]="selectedWell" (selectionChange)="wellChanged($event)">
+        <mat-option *ngFor="let well of wells" [value]="well">{{well.WellName}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <!-- <mat-form-field *ngIf="selectedWell" style="margin-left: 5px;">
+      <mat-select placeholder="Sample" [(value)]="selectedSample">
+        <mat-option *ngFor="let sample of selectedWell.Samples" [value]="sample">{{sample.BaseDepth}}
+          {{selectedWell.Units}}</mat-option>
+      </mat-select>
+    </mat-form-field> -->
+
+    <mat-list *ngIf="selectedWell">
+      <mat-list-item>Well Name: {{selectedWell.WellName}}</mat-list-item>
+      <mat-list-item>Well Code: {{selectedWell.WellCode}}</mat-list-item>
+      <mat-list-item>Operator: {{selectedWell.Operator}}</mat-list-item>
+      <mat-list-item>Field: {{selectedWell.Field}}</mat-list-item>
+      <mat-list-item>Country: {{selectedWell.Country}}</mat-list-item>
+      <mat-list-item>Type: {{selectedWell.Type}}</mat-list-item>
+      <!-- <mat-list-item>Units: {{selectedWell.Units}}</mat-list-item> -->
+      <mat-list-item>Depth: {{selectedWell.TerminalDepth}} {{selectedWell.Units}}</mat-list-item>
+      <mat-list-item>Depth Datum: {{selectedWell.DepthDatum}}</mat-list-item>
+    </mat-list>
+  </mat-card>
+  <mat-card>
+    <mat-card-header>
+      Depth
+    </mat-card-header>
+    <mat-list *ngIf="selectedWell">
+      <mat-list-item *ngFor="let sample of selectedWell.Samples | orderBy: 'BaseDepth'">
+        <button mat-button (click)="setSample(sample)">
+          {{sample.BaseDepth}}
+        </button>
+      </mat-list-item>
+    </mat-list>
+  </mat-card>
+  <mat-card style="width: 100%;" *ngIf="selectedSample">
+    <mat-card-header>
+      {{selectedSample.Label}}
+    </mat-card-header>
+    <app-species-chart [sample]="selectedSample"></app-species-chart>
+  </mat-card>
+</div>
