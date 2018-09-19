@@ -1,6 +1,6 @@
 import { Component, OnInit, AfterViewInit } from '@angular/core';
 import { DataService } from '../_services/data.service';
-import { Sample, Well } from '../_model/types';
+import { Sample, Well, Species } from '../_model/types';
 import { MatSelectChange } from '@angular/material';
 
 @Component({
@@ -15,6 +15,7 @@ export class WellComponent implements OnInit {
   selectedSample: Sample;
   samples: Object[];
   classification: any;
+  topFiveSpecies: Species[];
 
   constructor(private dataService: DataService) {}
 
@@ -31,7 +32,9 @@ export class WellComponent implements OnInit {
   setSample(sample: Sample): void {
     this.selectedSample = sample;
     this.classification = null;
+    this.topFiveSpecies = null;
     this.getClassification(sample);
+    this.getMostAbundantSpecies(sample);
   }
 
   getClassification(sample: Sample): void {
@@ -45,5 +48,11 @@ export class WellComponent implements OnInit {
     this.dataService.getClassification(fossils, classification => {
       this.classification = classification;
     });
+  }
+
+  getMostAbundantSpecies(sample: Sample): void {
+    const species = sample.Species.sort(s => s.SpeciesCount).reverse();
+    this.topFiveSpecies = species.slice(0, 5);
+    console.log(this.topFiveSpecies);
   }
 }
