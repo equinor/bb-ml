@@ -10,6 +10,7 @@ import { WellComponent } from './wells/well.component';
 import { DataService } from './_services/data.service';
 import { SpeciesChartComponent } from './species-chart/species-chart.component';
 import { OrderModule } from 'ngx-order-pipe';
+import { NgxChartsModule } from '@swimlane/ngx-charts';
 
 const appRoutes: Routes = [
   { path: '', component: WellComponent, pathMatch: 'full'},
@@ -25,7 +26,8 @@ const appRoutes: Routes = [
     RouterModule.forRoot(appRoutes),
     HttpClientModule,
     MyMaterialModule,
-    OrderModule
+    OrderModule,
+    NgxChartsModule
   ],
   providers: [DataService],
   bootstrap: [AppComponent]

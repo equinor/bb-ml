@@ -23,15 +23,6 @@ export class WellComponent implements OnInit {
     });
   }
 
-  private sortSamples() {
-    this.wells.forEach(well => {
-      well.Samples.sort(s => s.BaseDepth);
-      well.Samples.forEach(sample => {
-        sample.Species.sort(sp => +sp.SpeciesId);
-      });
-    });
-  }
-
   wellChanged(event: MatSelectChange): void {
     this.selectedSample = null;
   }

@@ -26,9 +26,9 @@
     </mat-list>
   </mat-card>
   <mat-card>
-    <mat-card-title>
+    <h5>
       Depth
-    </mat-card-title>
+    </h5>
     <mat-list *ngIf="selectedWell">
       <mat-list-item *ngFor="let sample of selectedWell.Samples | orderBy: 'BaseDepth'">
         <button mat-button (click)="setSample(sample)">
@@ -37,7 +37,7 @@
       </mat-list-item>
     </mat-list>
   </mat-card>
-  <mat-card style="width: 100%;">
+  <mat-card style="width: 100%;" *ngIf="selectedSample">
     <app-species-chart [sample]="selectedSample"></app-species-chart>
   </mat-card>
 </div>
