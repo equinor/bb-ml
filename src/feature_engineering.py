@@ -32,9 +32,13 @@ for well_id in wells:
     for column in labelled_data[well_id]:
         if column not in ["Depth", "label", "Well_name"]:
             labelled_data[well_id][column] = pd.to_numeric(labelled_data[well_id][column])
-            cumsum = labelled_data[well_id][column].cumsum()
-            cumsum = cumsum.divide(cumsum.max())
-            labelled_data[well_id][column + "_cumsum"] = cumsum
+#            cumsum = labelled_data[well_id][column].cumsum()
+#            cumsum = cumsum.divide(cumsum.max())
+#            labelled_data[well_id][column + "_cumsum"] = cumsum
+            norm = labelled_data[well_id][column]
+            norm = norm.divide(norm.sum())
+            labelled_data[well_id][column + "_norm"] = norm
+
 
 
 list = [df for df in labelled_data.values()]

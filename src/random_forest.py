@@ -44,7 +44,7 @@ data = pd.read_csv("../../output/test.csv")
 data["code"] = pd.factorize(data['age'])[0]
 
 #train_wells = ["15_9-F-1 A", "15_9-F-1 B", "15_9-F-1", "15_9-F-11 A", "15_9-F-11 B"]
-test_well = "15_9-F-1"
+test_well = "15_9-F-11 A"
 train, test = data[data['Well_name'] != test_well], data[data['Well_name'] == test_well]
 
 #data['is_train'] = np.random.uniform(0, 1, len(data)) <= 0.5
