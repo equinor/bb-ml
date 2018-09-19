@@ -26,7 +26,7 @@
     </mat-list>
   </mat-card>
   <mat-card>
-    <mat-card-header>
+    <mat-card-header *ngIf="selectedWell">
       Depth
     </mat-card-header>
     <mat-list *ngIf="selectedWell">
@@ -39,7 +39,7 @@
   </mat-card>
   <mat-card style="width: 100%;" *ngIf="selectedSample">
     <mat-card-header>
-      {{selectedSample.Label}}
+      {{selectedSample.Label}} - Classification from model: {{classification.classification}}
     </mat-card-header>
     <app-species-chart [sample]="selectedSample"></app-species-chart>
   </mat-card>

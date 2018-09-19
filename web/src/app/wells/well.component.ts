@@ -14,6 +14,7 @@ export class WellComponent implements OnInit {
   wells: Well[];
   selectedSample: Sample;
   samples: Object[];
+  classification: any;
 
   constructor(private dataService: DataService) {}
 
@@ -29,5 +30,20 @@ export class WellComponent implements OnInit {
 
   setSample(sample: Sample): void {
     this.selectedSample = sample;
+    this.classification = null;
+    this.getClassification(sample);
+  }
+
+  getClassification(sample: Sample): void {
+    let fossils = '{';
+    sample.Species.forEach(species => {
+      fossils = fossils + '"' + species.SpeciesId + '": ' + species.SpeciesCount + ',';
+    });
+    fossils = fossils.slice(0, -1);
+    fossils = fossils + '}';
+    console.log(fossils);
+    this.dataService.getClassification(fossils, classification => {
+      this.classification = classification;
+    });
   }
 }

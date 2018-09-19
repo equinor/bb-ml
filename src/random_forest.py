@@ -72,4 +72,8 @@ classes_age = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_va
 # print(importances)
 
 def get_random_forest_classification(df):
+    df = df.reindex(columns=features)
+    df = df.replace(np.nan, 0)
+    print(len(features))
+    print(df[features])
     return classes_age[clf.predict(df[features])]

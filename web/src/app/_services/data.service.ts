@@ -38,6 +38,16 @@ export class DataService {
     );
   }
 
+  getClassification(fossilAssemblage: any, callback: Function): void {
+    this.http
+      .post('http://localhost:5002/api/post_classification', fossilAssemblage)
+      .subscribe(Response => {
+        if (callback != null) {
+          callback(Response);
+        }
+      });
+  }
+
   getFormattedWellData(): Observable<any> {
     return this.http.get('./assets/formattedrawdata.json');
   }
@@ -50,7 +60,7 @@ export class DataService {
         well.Samples = [];
         // console.log(well.WellName);
         this.getLabels(well.WellName).subscribe(lbls => {
-            this.labels = lbls.label;
+          this.labels = lbls.label;
         });
         this.getSamples(well.WellName).subscribe((smpls: any) => {
           Object.keys(smpls.Depth).forEach(key => {

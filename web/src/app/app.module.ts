@@ -14,7 +14,7 @@ import { NgxChartsModule } from '@swimlane/ngx-charts';
 
 const appRoutes: Routes = [
   { path: '', component: WellComponent, pathMatch: 'full'},
-  { path: 'rawdata', component: WellComponent },
+  { path: 'wells', component: WellComponent },
   { path: 'allspecies', component: SpeciesComponent }
 ];
 

@@ -44,7 +44,7 @@ export class SpeciesChartComponent implements OnInit, OnChanges {
     this.sample.Species.forEach(spec => {
       this.chartData.push({ name: spec.SpeciesName, value: spec.SpeciesCount });
     });
-    console.log(this.chartData);
+    // console.log(this.chartData);
   }
 
   formatPercent(val) {
