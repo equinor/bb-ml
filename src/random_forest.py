@@ -44,11 +44,11 @@ data = pd.read_csv("../data/output/test.csv")
 data["code"] = pd.factorize(data['age'])[0]
 
 #train_wells = ["15_9-F-1 A", "15_9-F-1 B", "15_9-F-1", "15_9-F-11 A", "15_9-F-11 B"]
-#test_well = "15_9-F-1"
-#train, test = data[data['Well_name'] != test_well], data[data['Well_name'] == test_well]
+test_well = "15_9-F-1 B"
+train, test = data[data['Well_name'] != test_well], data[data['Well_name'] == test_well]
 
-data['is_train'] = np.random.uniform(0, 1, len(data)) <= 0.5
-train, test = data[data['is_train'] == True], data[data['is_train'] == False]
+#data['is_train'] = np.random.uniform(0, 1, len(data)) <= 0.5
+#train, test = data[data['is_train'] == True], data[data['is_train'] == False]
 
 features = data.columns[1:-7]
 
@@ -60,18 +60,27 @@ preds = clf.predict(test[features])
 classes = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_values('age')['code'].unique()
 classes_age = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_values('age')['age'].unique()
 
+print(classes)
+print(classes_age)
+
+print(test['Depth'].values)
+print(test['code'].values)
+print(preds)
+
 cm = confusion_matrix(test['code'], preds, labels=classes)
 
 plot_confusion_matrix(cm, classes_age)
 
-plt.savefig("../../output/cm.png")
-#plt.savefig("../../output/cm" + test_well + "_norm.png")
+#plt.savefig("../../output/cm.png")
+plt.savefig("../../output/cm" + test_well + "_norm.png")
 
 a = pd.Series(features)
 b = pd.Series(clf.feature_importances_)
 
-importances = pd.DataFrame({'a': a, 'b': b, 'idx_col': a.index})
+#importances = pd.DataFrame({'a': a, 'b': b, 'idx_col': a.index})
 
-importances = importances.sort_values("b")
+#importances = importances.sort_values("b")
 
-print(importances)
+#print(importances)
+
+
