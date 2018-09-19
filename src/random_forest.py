@@ -63,6 +63,8 @@ classes_age = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_va
 print(classes)
 print(classes_age)
 
+classes_age_translator = dict(zip(classes, classes_age))
+
 print(test['Depth'].values)
 print(test['code'].values)
 print(preds)
@@ -72,10 +74,23 @@ cm = confusion_matrix(test['code'], preds, labels=classes)
 plot_confusion_matrix(cm, classes_age)
 
 #plt.savefig("../../output/cm.png")
-plt.savefig("../../output/cm" + test_well + "_norm.png")
+plt.savefig("../output/cm" + test_well + "_norm.png")
+
+test.to_csv("../output/test.csv")
 
 a = pd.Series(features)
 b = pd.Series(clf.feature_importances_)
+
+output_df = pd.DataFrame()
+output_df['depth'] = [x for x in test['Depth'].values]
+output_df['test_age_class'] = test['code'].values
+output_df['test_age'] = [classes_age_translator[x] for x in test['code'].values]
+output_df['pred_class'] = preds
+output_df['pred_class_age'] = [classes_age_translator[x] for x in preds]
+
+print(output_df)
+
+output_df.to_csv("../output/pred.csv")
 
 #importances = pd.DataFrame({'a': a, 'b': b, 'idx_col': a.index})
 
