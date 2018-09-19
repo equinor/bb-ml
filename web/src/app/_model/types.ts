@@ -1,7 +1,7 @@
 export class Species {
   SpeciesName: string;
   Code: string;
-  SpeciesId: number;
+  SpeciesId: string;
   SpeciesCount?: number;
   Abundance?: string;
 }
@@ -18,7 +18,7 @@ export class Well {
   Latitude?: number;
   TerminalDepth: number;
   DepthDatum: string;
-  // Samples: Sample[];
+  Samples: Sample[];
 }
 
 export class Sample {
@@ -28,5 +28,6 @@ export class Sample {
   Modified: string;
   SampleId: number;
   Label: string;
-  // Species: Species[];
+  Id: string;
+  Species: Species[];
 }

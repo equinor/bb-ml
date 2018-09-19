@@ -11,6 +11,7 @@ import { DataService } from './_services/data.service';
 import { SpeciesChartComponent } from './species-chart/species-chart.component';
 
 const appRoutes: Routes = [
+  { path: '', component: WellComponent, pathMatch: 'full'},
   { path: 'rawdata', component: WellComponent },
   { path: 'allspecies', component: SpeciesComponent }
 ];
