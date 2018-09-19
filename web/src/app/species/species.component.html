@@ -1,2 +1,7 @@
-<div style="margin-left: 20px;" *ngFor="let key of objectKeys(speciesList)">{{key + ' : ' + speciesList[key]}}</div>
+<!-- <div style="margin-left: 20px;" *ngFor="let key of objectKeys(speciesList)">{{key + ' : ' + speciesList[key]}}</div> -->
 <!-- {{wells | json}} -->
+<div>
+    <mat-list>
+        <mat-list-item *ngFor="let key of objectKeys(speciesList)">{{key + ' - ' + speciesList[key]}}</mat-list-item>
+    </mat-list>
+</div>
