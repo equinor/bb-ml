@@ -57,8 +57,8 @@ clf.fit(train[features], train['code'])
 preds = clf.predict(test[features])
 
 
-classes = pd.concat([test['code'], train['code']]).sort_values().unique()
-classes_age = pd.concat([test['age'], train['age']]).sort_values().unique()
+classes = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_values('age')['code'].unique()
+classes_age = pd.concat([test[['code', 'age']], train[['code', 'age']]]).sort_values('age')['age'].unique()
 
 cm = confusion_matrix(test['code'], preds, labels=classes)
 
