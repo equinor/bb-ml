@@ -24,6 +24,7 @@
     "@angular/router": "^6.0.3",
     "@swimlane/ngx-charts": "^9.0.0",
     "core-js": "^2.5.4",
+    "ngx-order-pipe": "^2.0.1",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },

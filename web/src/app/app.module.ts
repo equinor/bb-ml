@@ -9,6 +9,7 @@ import { SpeciesComponent } from './species/species.component';
 import { WellComponent } from './wells/well.component';
 import { DataService } from './_services/data.service';
 import { SpeciesChartComponent } from './species-chart/species-chart.component';
+import { OrderModule } from 'ngx-order-pipe';
 
 const appRoutes: Routes = [
   { path: '', component: WellComponent, pathMatch: 'full'},
@@ -23,7 +24,8 @@ const appRoutes: Routes = [
     BrowserAnimationsModule,
     RouterModule.forRoot(appRoutes),
     HttpClientModule,
-    MyMaterialModule
+    MyMaterialModule,
+    OrderModule
   ],
   providers: [DataService],
   bootstrap: [AppComponent]

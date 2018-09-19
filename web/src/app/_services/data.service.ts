@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, Subject } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Well, Sample, Species } from '../_model/types';
 
@@ -7,7 +7,7 @@ import { Well, Sample, Species } from '../_model/types';
 export class DataService {
   species: any;
   wells: Well[];
-  labels: any;
+  private labels: any;
 
   constructor(private http: HttpClient) {
     this.getSpecies().subscribe(data => {
@@ -38,7 +38,11 @@ export class DataService {
     );
   }
 
-  private formatWellData(): void {
+  getFormattedWellData(): Observable<any> {
+    return this.http.get('./assets/formattedrawdata.json');
+  }
+
+  formatWellData(): void {
     this.getWells().subscribe((data: Well[]) => {
       this.wells = data;
       // console.log(this.wells[0]);
@@ -64,7 +68,9 @@ export class DataService {
                 sampleToPush.Species.push(speciesToPush);
               });
             });
+            sampleToPush.Species.sort(sp => +sp.SpeciesId);
             well.Samples.push(sampleToPush);
+            well.Samples.sort(s => s.BaseDepth);
           });
         });
       });

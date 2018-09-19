@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, AfterViewInit } from '@angular/core';
 import { DataService } from '../_services/data.service';
 import { Sample, Well } from '../_model/types';
 import { MatSelectChange } from '@angular/material';
@@ -18,16 +18,22 @@ export class WellComponent implements OnInit {
   constructor(private dataService: DataService) {}
 
   ngOnInit() {
-    this.dataService.getWells().subscribe(data => {
+    this.dataService.getFormattedWellData().subscribe(data => {
       this.wells = data;
+    });
+  }
+
+  private sortSamples() {
+    this.wells.forEach(well => {
+      well.Samples.sort(s => s.BaseDepth);
+      well.Samples.forEach(sample => {
+        sample.Species.sort(sp => +sp.SpeciesId);
+      });
     });
   }
 
   wellChanged(event: MatSelectChange): void {
     this.selectedSample = null;
-    this.dataService.getSamples(event.value.WellName).subscribe(data => {
-      this.samples = data.Depth;
-    });
   }
 
   setSample(sample: Sample): void {
