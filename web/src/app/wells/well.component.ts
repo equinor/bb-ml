@@ -34,7 +34,7 @@ export class WellComponent implements OnInit {
     this.classification = null;
     this.topFiveSpecies = null;
     this.getClassification(sample);
-    this.getMostAbundantSpecies(sample);
+    // this.getMostAbundantSpecies(sample);
   }
 
   getClassification(sample: Sample): void {
