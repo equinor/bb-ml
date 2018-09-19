@@ -35,9 +35,9 @@ for well_id in wells:
 #            cumsum = labelled_data[well_id][column].cumsum()
 #            cumsum = cumsum.divide(cumsum.max())
 #            labelled_data[well_id][column + "_cumsum"] = cumsum
-            norm = labelled_data[well_id][column]
-            norm = norm.divide(norm.sum())
-            labelled_data[well_id][column + "_norm"] = norm
+#            norm = labelled_data[well_id][column]
+#            norm = norm.divide(norm.sum())
+#            labelled_data[well_id][column + "_norm"] = norm
 
 
 
@@ -46,4 +46,4 @@ list = [df for df in labelled_data.values()]
 label_raw_data = pd.concat(list, sort=True)
 label_raw_data = label_raw_data.replace(np.nan, 0)
 
-label_raw_data.to_csv("../../output/test.csv")
+label_raw_data.to_csv("../data/output/test.csv")
