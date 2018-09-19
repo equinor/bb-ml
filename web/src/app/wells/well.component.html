@@ -39,7 +39,10 @@
   </mat-card>
   <mat-card style="width: 100%;" *ngIf="selectedSample">
     <mat-card-header>
-      {{selectedSample.Label}} - Classification from model: {{classification.classification}}
+      Classification from input data: {{selectedSample.Label}}
+    </mat-card-header>
+    <mat-card-header>
+      Classification from model: {{classification.classification}}
     </mat-card-header>
     <app-species-chart [sample]="selectedSample"></app-species-chart>
   </mat-card>
