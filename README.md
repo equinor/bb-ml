@@ -21,3 +21,7 @@ Wells with fossil counts _only_:
 
   * 15_9-F-4
   * 15_9-F-10
+
+---
+### Archiving
+2023-10-20: Project archived in Github cleanup as this hackathon work is superseded.
